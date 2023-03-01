@@ -1,0 +1,6340 @@
+//포장
+Human: 포장이요.
+AI: 포장.
+Human: 포장.
+AI: 포장.
+Human: 포장이다.
+AI: 포장.
+Human: 포장할게요.
+AI: 포장.
+Human: 포장해서 가져갈거예요.
+AI: 포장.
+Human: 포장해서 가져가요.
+AI: 포장.
+Human: 포장해서.
+AI: 포장.
+Human: 포장합니다.
+AI: 포장.
+Human: 포장할거에요.
+AI: 포장.
+Human: 포장입니다. 
+AI: 포장.
+Human: 포장가능하나요. 
+AI: 포장.
+Human: 포장가능합니까. 
+AI: 포장.
+Human: 포장하겠습니다. 
+AI: 포장.
+Human: 포장되나요. 
+AI: 포장.
+Human: 포장됩니까. 
+AI: 포장.
+Human: 포장해줘요. 
+AI: 포장.
+Human: 포장해줘 
+AI: 포장.
+
+>>포장 -> 보장
+Human: 보장이요.
+AI: 포장.
+Human: 보장.
+AI: 포장.
+Human: 보장이다.
+AI: 포장.
+Human: 보장할게요.
+AI: 포장.
+Human: 보장해서 가져갈거예요.
+AI: 포장.
+Human: 보장해서 가져가요.
+AI: 포장.
+Human: 보장해서.
+AI: 포장.
+Human: 보장합니다.
+AI: 포장.
+Human: 보장할거에요.
+AI: 포장.
+Human: 보장입니다. 
+AI: 포장.
+Human: 보장가능하나요. 
+AI: 포장.
+Human: 보장가능합니까. 
+AI: 포장.
+Human: 보장하겠습니다. 
+AI: 포장.
+Human: 보장되나요. 
+AI: 포장.
+Human: 보장됩니까. 
+AI: 포장.
+Human: 보장해줘요. 
+AI: 포장.
+Human: 보장해줘 
+AI: 포장.
+
+Human: 가져갈게요.
+AI: 포장.
+Human: 가져갈거예요.
+AI: 포장.
+Human: 가져갈래요.
+AI: 포장.
+Human: 가져갑니다.
+AI: 포장.
+Human: 가져가서 먹어요.
+AI: 포장.
+Human: 가져가서 먹을게요.
+AI: 포장.
+Human: 가져가서 먹으려고요.
+AI: 포장.
+Human: 가져가서 먹을래요.
+AI: 포장.
+Human: 가져가.
+AI: 포장.
+Human: 가져감.
+AI: 포장.
+Human: 가서.
+AI: 포장.
+Human: 가져가요.
+AI: 포장.
+
+Human: 테이크아웃이요.
+AI: 포장.
+Human: 테이크아웃.
+AI: 포장.
+Human: 테이크아웃입니다.
+AI: 포장.
+Human: 테이크아웃할게요.
+AI: 포장.
+Human: 테이크아웃이다.
+AI: 포장.
+Human: 테이크아웃요.
+AI: 포장.
+Human: 테이크아웃가능한가요.
+AI: 포장.
+Human: 테이크아웃 가능할까요.
+AI: 포장.
+Human: 테이크아웃 되나요.
+AI: 포장.
+Human: 테이크아웃될까요.
+AI: 포장.
+
+>>테->태
+Human: 태이크아웃이요.
+AI: 포장.
+Human: 태이크아웃.
+AI: 포장.
+Human: 태이크아웃입니다.
+AI: 포장.
+Human: 태이크아웃할게요.
+AI: 포장.
+Human: 태이크아웃이다.
+AI: 포장.
+Human: 태이크아웃요.
+AI: 포장.
+Human: 태이크아웃가능한가요.
+AI: 포장.
+Human: 태이크아웃 가능할까요.
+AI: 포장.
+Human: 태이크아웃 되나요.
+AI: 포장.
+Human: 태이크아웃될까요.
+AI: 포장.
+
+Human: 집.
+AI: 포장.
+Human: 집이요.
+AI: 포장.
+Human: 집에서.
+AI: 포장.
+Human: 집에서 먹어.
+AI: 포장.
+Human: 집에서 먹어요.
+AI: 포장.
+Human: 집에서 먹을꺼야.
+AI: 포장.
+Human: 집에서 먹을거야.
+AI: 포장.
+Human: 집에서 먹는다.
+AI: 포장.
+Human: 집에서 먹을거에요.
+AI: 포장.
+Human: 집으로 갈게요.
+AI: 포장.
+Human: 집으로 갖고 갈게요.
+AI: 포장.
+Human: 집으로 갖고 갈거에요.
+AI: 포장.
+Human: 집으로 가서 먹어요.
+AI: 포장.
+Human: 집으로 가서 먹을거에요.
+AI: 포장.
+Human: 집으로 가서 먹어도될까요.
+AI: 포장.
+Human: 집으로 가서 먹을꺼야.
+AI: 포장.
+Human: 집으로 가서 먹을게요.
+AI: 포장.
+
+
+
+//매장
+Human: 매장에서 먹어요.
+AI: 매장.
+Human: 매장이요.
+AI: 매장.
+Human: 매장.
+AI: 매장.
+Human: 매장에서.
+AI: 매장.
+Human: 매장에서 먹을거에요.
+AI: 매장.
+Human: 매장에서 먹을게.
+AI: 매장.
+Human: 매장에서 먹는다.
+AI: 매장.
+Human: 매장에서 먹어도 되나요.
+AI: 매장.
+Human: 매장에서 먹어도 될까요.
+AI: 매장.
+Human: 매장에서 먹습니다.
+AI: 매장.
+Human: 매장에서 먹어도 되나.
+AI: 매장.
+Human: 매장에서 먹어도 가능한가요.
+AI: 매장.
+Human: 매장에서 먹어도 가능해.
+AI: 매장.
+Human: 매장에서 먹어도 가능할까요.
+AI: 매장.
+Human: 매장에서 먹어도 될까.
+AI: 매장.
+Human: 매장에서 먹고 가.
+AI: 매장.
+Human: 매장에서 먹고 가요.
+AI: 매장.
+Human: 매장에서 먹고 갑니다.
+AI: 매장.
+Human: 매장에서 먹고 갈게요.
+AI: 매장.
+Human: 매장에서 먹고 갑니다.
+AI: 매장.
+Human: 매장에서 먹고 가도 될까.
+AI: 매장.
+Human: 매장에서 먹고 가도 됩니까.
+AI: 매장.
+Human: 매장에서 먹고 갈게.
+AI: 매장.
+Human: 매장에서 먹을게요.
+AI: 매장.
+
+>>매장->메장
+Human: 메장에서 먹어요.
+AI: 매장.
+Human: 메장이요.
+AI: 매장.
+Human: 메장.
+AI: 매장.
+Human: 메장에서.
+AI: 매장.
+Human: 메장에서 먹을거에요.
+AI: 매장.
+Human: 메장에서 먹을게.
+AI: 매장.
+Human: 메장에서 먹는다.
+AI: 매장.
+Human: 메장에서 먹어도 되나요.
+AI: 매장.
+Human: 메장에서 먹어도 될까요.
+AI: 매장.
+Human: 메장에서 먹습니다.
+AI: 매장.
+Human: 메장에서 먹어도 되나.
+AI: 매장.
+Human: 메장에서 먹어도 가능한가요.
+AI: 매장.
+Human: 메장에서 먹어도 가능해.
+AI: 매장.
+Human: 메장에서 먹어도 가능할까요.
+AI: 매장.
+Human: 메장에서 먹어도 될까.
+AI: 매장.
+Human: 메장에서 먹고 가.
+AI: 매장.
+Human: 메장에서 먹고 가요.
+AI: 매장.
+Human: 메장에서 먹고 갑니다.
+AI: 매장.
+Human: 메장에서 먹고 갈게요.
+AI: 매장.
+Human: 메에서 먹고 갑니다.
+AI: 매장.
+Human: 메장에서 먹고 가도 될까.
+AI: 매장.
+Human: 메장에서 먹고 가도 됩니까.
+AI: 매장.
+Human: 메장에서 먹고 갈게.
+AI: 매장.
+Human: 메장에서 먹을게요.
+AI: 매장.
+
+Human: 먹고가. 
+AI: 매장
+Human: 먹고. 
+AI:  매장
+Human: 먹고 갈게요.
+AI: 매장.
+Human: 먹고 갈거예요.
+AI: 매장.
+Human: 먹고 갈래.
+AI: 매장.
+Human: 먹고 가.
+AI: 매장.
+Human: 먹고 갑니다. 
+AI:  매장
+Human: 먹고 갈까요. 
+AI:  매장
+Human: 먹고 가도 될까. 
+AI:  매장
+Human: 먹고 가는게 될까. 
+AI:  매장
+Human: 먹고 가도 됩니까. 
+AI:  매장
+Human: 포장 안할게요.
+AI: 매장.
+Human: 포장 안해.
+AI: 매장.
+Human: 포장 싫어.
+AI: 매장.
+Human: 포장 안할래.
+AI: 매장.
+Human: 포장 안합니다.
+AI: 매장.
+Human: 포장 싫어요.
+AI: 매장.
+Human: 보장 안할게요.
+AI: 매장.
+Human: 보장 안해.
+AI: 매장.
+Human: 보장 싫어.
+AI: 매장.
+Human: 보장 안할래.
+AI: 매장.
+Human: 보장 안합니다.
+AI: 매장.
+Human: 보장 싫어요.
+AI: 매장.
+
+
+//빵선택 : 화이트
+
+Human: 화이트.
+AI: 화이트.
+Human: 화이트이다.
+AI: 화이트.
+Human: 화이트 가능할까요.
+AI: 화이트.
+Human: 화이트 한다.
+AI: 화이트.
+Human: 화이트 함.
+AI: 화이트.
+Human: 화이트 추가.
+AI: 화이트.
+Human: 화이트 추가다.
+AI: 화이트.
+Human: 화이트 추가할래.
+AI: 화이트.
+Human: 화이트 추가입니다.
+AI: 화이트.
+Human: 화이트 추가합니다.
+AI: 화이트.
+Human: 화이트 추가할까.
+AI: 화이트.
+Human: 화이트 추가 해줘.
+AI: 화이트.
+Human: 화이트 추가 해주세요.
+AI: 화이트.
+Human: 화이트 추가 함.
+AI: 화이트.
+Human: 화이트 추가 가능.
+AI: 화이트.
+Human: 화이트 추가 가능해.
+AI: 화이트.
+Human: 화이트 추가 가능함.
+AI: 화이트.
+Human: 화이트 추가 가능할까.
+AI: 화이트.
+Human: 화이트 추가 가능할까요.
+AI: 화이트.
+Human: 화이트 추가 가능합니다.
+AI: 화이트.
+Human: 화이트 가능해.
+AI: 화이트.
+Human: 화이트 할래.
+AI: 화이트.
+Human: 화이트 할게요.
+AI: 화이트.
+Human: 화이트 해도 됨.
+AI: 화이트.
+Human: 화이트 해도 됩니까.
+AI: 화이트.
+Human: 화이트 합니다.
+AI: 화이트.
+Human: 화이트다.
+AI: 화이트.
+Human: 화이트 해도 될까.
+AI: 화이트.
+Human: 화이트 하고 싶다.
+AI: 화이트.
+Human: 화이트 원해.
+AI: 화이트.
+Human: 화이트 원합니다.
+AI: 화이트.
+Human: 화이트 입니다.
+AI: 화이트.
+Human: 화이트이요.
+AI: 화이트.
+Human: 화이트요.
+AI: 화이트.
+
+
+>>화이트->화이트빵
+Human: 화이트빵.
+AI: 화이트.
+Human: 화이트빵이다.
+AI: 화이트.
+Human: 화이트빵 한다.
+AI: 화이트.
+Human: 화이트빵 함.
+AI: 화이트.
+Human: 화이트빵 추가.
+AI: 화이트.
+Human: 화이트빵 추가다.
+AI: 화이트.
+Human: 화이트빵 추가할래.
+AI: 화이트.
+Human: 화이트빵 추가입니다.
+AI: 화이트.
+Human: 화이트빵 추가합니다.
+AI: 화이트.
+Human: 화이트빵 추가할까.
+AI: 화이트.
+Human: 화이트빵 추가 해줘.
+AI: 화이트.
+Human: 화이트빵 추가 해주세요.
+AI: 화이트.
+Human: 화이트빵 추가 함.
+AI: 화이트.
+Human: 화이트빵 추가 가능.
+AI: 화이트.
+Human: 화이트빵 추가 가능해.
+AI: 화이트.
+Human: 화이트빵 추가 가능함.
+AI: 화이트.
+Human: 화이트빵 추가 가능할까.
+AI: 화이트.
+Human: 화이트빵 추가 가능할까요.
+AI: 화이트.
+Human: 화이트빵 추가 가능합니다.
+AI: 화이트.
+Human: 화이트빵 가능할까요.
+AI: 화이트.
+Human: 화이트빵 가능해.
+AI: 화이트.
+Human: 화이트빵 할래.
+AI: 화이트.
+Human: 화이트빵 할게요.
+AI: 화이트.
+Human: 화이트빵 해도 됨.
+AI: 화이트.
+Human: 화이트빵 해도 됩니까.
+AI: 화이트.
+Human: 화이트빵 합니다.
+AI: 화이트.
+Human: 화이트빵 해도 될까.
+AI: 화이트.
+Human: 화이트빵 하고 싶다.
+AI: 화이트.
+Human: 화이트빵 원해.
+AI: 화이트.
+Human: 화이트빵 원합니다.
+AI: 화이트.
+Human: 화이트빵 입니다.
+AI: 화이트.
+Human: 화이트빵이요.
+AI: 화이트.
+Human: 화이트빵요.
+AI: 화이트.
+
+>>화이트->화이트브레드
+Human: 화이트브레드.
+AI: 화이트.
+Human: 화이트브레드이다.
+AI: 화이트.
+Human: 화이트브레드 가능할까요.
+AI: 화이트.
+Human: 화이트브레드 한다.
+AI: 화이트.
+Human: 화이트브레드 함.
+AI: 화이트.
+Human: 화이트브레드 추가.
+AI: 화이트.
+Human: 화이트브레드 추가다.
+AI: 화이트.
+Human: 화이트브레드 추가할래.
+AI: 화이트.
+Human: 화이트브레드 추가입니다.
+AI: 화이트.
+Human: 화이트브레드 추가합니다.
+AI: 화이트.
+Human: 화이트브레드 추가할까.
+AI: 화이트.
+Human: 화이트브레드 추가 해줘.
+AI: 화이트.
+Human: 화이트브레드 추가 해주세요.
+AI: 화이트.
+Human: 화이트브레드 추가 함.
+AI: 화이트.
+Human: 화이트브레드 추가 가능.
+AI: 화이트.
+Human: 화이트브레드 추가 가능해.
+AI: 화이트.
+Human: 화이트브레드 추가 가능함.
+AI: 화이트.
+Human: 화이트브레드 추가 가능할까.
+AI: 화이트.
+Human: 화이트브레드 추가 가능할까요.
+AI: 화이트.
+Human: 화이트브레드 추가 가능합니다.
+AI: 화이트.
+Human: 화이트브레드 가능해.
+AI: 화이트.
+Human: 화이트브레드 할래.
+AI: 화이트.
+Human: 화이트브레드 할게요.
+AI: 화이트.
+Human: 화이트브레드 해도 됨.
+AI: 화이트.
+Human: 화이트브레드 해도 됩니까.
+AI: 화이트.
+Human: 화이트브레드 합니다.
+AI: 화이트.
+Human: 화이트브레드다.
+AI: 화이트.
+Human: 화이트브레드 해도 될까.
+AI: 화이트.
+Human: 화이트브레드 하고 싶다.
+AI: 화이트.
+Human: 화이트브레드 원해.
+AI: 화이트.
+Human: 화이트브레드 원합니다.
+AI: 화이트.
+Human: 화이트브레드 입니다.
+AI: 화이트.
+Human: 화이트브레드요.
+AI: 화이트.
+Human: 화이트브레드이요.
+AI: 화이트.
+
+>>화이트 -> 화이뜨
+Human: 화이뜨.
+AI: 화이트.
+Human: 화이뜨이다.
+AI: 화이트.
+Human: 화이뜨 가능할까요.
+AI: 화이트.
+Human: 화이뜨 한다.
+AI: 화이트.
+Human: 화이뜨 함.
+AI: 화이트.
+Human: 화이뜨 추가.
+AI: 화이트.
+Human: 화이뜨 추가다.
+AI: 화이트.
+Human: 화이뜨 추가할래.
+AI: 화이트.
+Human: 화이뜨 추가입니다.
+AI: 화이트.
+Human: 화이뜨 추가합니다.
+AI: 화이트.
+Human: 화이뜨 추가할까.
+AI: 화이트.
+Human: 화이뜨 추가 해줘.
+AI: 화이트.
+Human: 화이뜨 추가 해주세요.
+AI: 화이트.
+Human: 화이뜨 추가 함.
+AI: 화이트.
+Human: 화이뜨 추가 가능.
+AI: 화이트.
+Human: 화이뜨 추가 가능해.
+AI: 화이트.
+Human: 화이뜨 추가 가능함.
+AI: 화이트.
+Human: 화이뜨 추가 가능할까.
+AI: 화이트.
+Human: 화이뜨 추가 가능할까요.
+AI: 화이트.
+Human: 화이뜨 추가 가능합니다.
+AI: 화이트.
+Human: 화이뜨 가능해.
+AI: 화이트.
+Human: 화이뜨 할래.
+AI: 화이트.
+Human: 화이뜨 할게요.
+AI: 화이트.
+Human: 화이뜨 해도 됨.
+AI: 화이트.
+Human: 화이뜨 해도 됩니까.
+AI: 화이트.
+Human: 화이뜨 합니다.
+AI: 화이트.
+Human: 화이뜨다.
+AI: 화이트.
+Human: 화이뜨 해도 될까.
+AI: 화이트.
+Human: 화이뜨 하고 싶다.
+AI: 화이트.
+Human: 화이뜨 원해.
+AI: 화이트.
+Human: 화이뜨 원합니다.
+AI: 화이트.
+Human: 화이뜨 입니다.
+AI: 화이트.
+Human: 화이뜨요.
+AI: 화이트.
+Human: 화이뜨이요.
+AI: 화이트.
+
+>>화이트 -> 화이뜨빵
+Human: 화이뜨빵.
+AI: 화이트.
+Human: 화이뜨빵이다.
+AI: 화이트.
+Human: 화이뜨빵 가능할까요.
+AI: 화이트.
+Human: 화이뜨빵 한다.
+AI: 화이트.
+Human: 화이뜨빵 함.
+AI: 화이트.
+Human: 화이뜨빵 추가.
+AI: 화이트.
+Human: 화이뜨빵 추가다.
+AI: 화이트.
+Human: 화이뜨빵 추가할래.
+AI: 화이트.
+Human: 화이뜨빵 추가입니다.
+AI: 화이트.
+Human: 화이뜨빵 추가합니다.
+AI: 화이트.
+Human: 화이뜨빵 추가할까.
+AI: 화이트.
+Human: 화이뜨빵 추가 해줘.
+AI: 화이트.
+Human: 화이뜨빵 추가 해주세요.
+AI: 화이트.
+Human: 화이뜨빵 추가 함.
+AI: 화이트.
+Human: 화이뜨빵 추가 가능.
+AI: 화이트.
+Human: 화이뜨빵 추가 가능해.
+AI: 화이트.
+Human: 화이뜨빵 추가 가능함.
+AI: 화이트.
+Human: 화이뜨빵 추가 가능할까.
+AI: 화이트.
+Human: 화이뜨빵 추가 가능할까요.
+AI: 화이트.
+Human: 화이뜨빵 추가 가능합니다.
+AI: 화이트.
+Human: 화이뜨빵 가능해.
+AI: 화이트.
+Human: 화이뜨빵 할래.
+AI: 화이트.
+Human: 화이뜨빵 할게요.
+AI: 화이트.
+Human: 화이뜨빵 해도 됨.
+AI: 화이트.
+Human: 화이뜨빵 해도 됩니까.
+AI: 화이트.
+Human: 화이뜨빵 합니다.
+AI: 화이트.
+Human: 화이뜨빵다.
+AI: 화이트.
+Human: 화이뜨빵 해도 될까.
+AI: 화이트.
+Human: 화이뜨빵 하고 싶다.
+AI: 화이트.
+Human: 화이뜨빵 원해.
+AI: 화이트.
+Human: 화이뜨빵 원합니다.
+AI: 화이트.
+Human: 화이뜨빵 입니다.
+AI: 화이트.
+Human: 화이뜨빵이요.
+AI: 화이트.
+Human: 화이뜨빵요.
+AI: 화이트.
+
+>>화이트 -> 화이뜨브레드
+Human: 화이뜨브레드.
+AI: 화이트.
+Human: 화이뜨브레드이다.
+AI: 화이트.
+Human: 화이뜨브레드 가능할까요.
+AI: 화이트.
+Human: 화이뜨브레드 한다.
+AI: 화이트.
+Human: 화이뜨브레드 함.
+AI: 화이트.
+Human: 화이뜨브레드 추가.
+AI: 화이트.
+Human: 화이뜨브레드 추가다.
+AI: 화이트.
+Human: 화이뜨브레드 추가할래.
+AI: 화이트.
+Human: 화이뜨브레드 추가입니다.
+AI: 화이트.
+Human: 화이뜨브레드 추가합니다.
+AI: 화이트.
+Human: 화이뜨브레드 추가할까.
+AI: 화이트.
+Human: 화이뜨브레드 추가 해줘.
+AI: 화이트.
+Human: 화이뜨브레드 추가 해주세요.
+AI: 화이트.
+Human: 화이뜨브레드 추가 함.
+AI: 화이트.
+Human: 화이뜨브레드 추가 가능.
+AI: 화이트.
+Human: 화이뜨브레드 추가 가능해.
+AI: 화이트.
+Human: 화이뜨브레드 추가 가능함.
+AI: 화이트.
+Human: 화이뜨브레드 추가 가능할까.
+AI: 화이트.
+Human: 화이뜨브레드 추가 가능할까요.
+AI: 화이트.
+Human: 화이뜨브레드 추가 가능합니다.
+AI: 화이트.
+Human: 화이뜨브레드 가능해.
+AI: 화이트.
+Human: 화이뜨브레드 할래.
+AI: 화이트.
+Human: 화이뜨브레드 할게요.
+AI: 화이트.
+Human: 화이뜨브레드 해도 됨.
+AI: 화이트.
+Human: 화이뜨브레드 해도 됩니까.
+AI: 화이트.
+Human: 화이뜨브레드 합니다.
+AI: 화이트.
+Human: 화이뜨브레드다.
+AI: 화이트.
+Human: 화이뜨브레드 해도 될까.
+AI: 화이트.
+Human: 화이뜨브레드 하고 싶다.
+AI: 화이트.
+Human: 화이뜨브레드 원해.
+AI: 화이트.
+Human: 화이뜨브레드 원합니다.
+AI: 화이트.
+Human: 화이뜨브레드 입니다.
+AI: 화이트.
+Human: 화이뜨브레드요.
+AI: 화이트.
+Human: 화이뜨브레드이요.
+AI: 화이트.
+
+>>화이트 -> 와이트
+Human: 와이트.
+AI: 화이트.
+Human: 와이트이다.
+AI: 화이트.
+Human: 와이트 가능할까요.
+AI: 화이트.
+Human: 와이트 한다.
+AI: 화이트.
+Human: 와이트 함.
+AI: 화이트.
+Human: 와이트 추가.
+AI: 화이트.
+Human: 와이트 추가다.
+AI: 화이트.
+Human: 와이트 추가할래.
+AI: 화이트.
+Human: 와이트 추가입니다.
+AI: 화이트.
+Human: 와이트 추가합니다.
+AI: 화이트.
+Human: 와이트 추가할까.
+AI: 화이트.
+Human: 와이트 추가 해줘.
+AI: 화이트.
+Human: 와이트 추가 해주세요.
+AI: 화이트.
+Human: 와이트 추가 함.
+AI: 화이트.
+Human: 와이트 추가 가능.
+AI: 화이트.
+Human: 와이트 추가 가능해.
+AI: 화이트.
+Human: 와이트 추가 가능함.
+AI: 화이트.
+Human: 와이트 추가 가능할까.
+AI: 화이트.
+Human: 와이트 추가 가능할까요.
+AI: 화이트.
+Human: 와이트 추가 가능합니다.
+AI: 화이트.
+Human: 와이트 가능해.
+AI: 화이트.
+Human: 와이트 할래.
+AI: 화이트.
+Human: 와이트 할게요.
+AI: 화이트.
+Human: 와이트 해도 됨.
+AI: 화이트.
+Human: 와이트 해도 됩니까.
+AI: 화이트.
+Human: 와이트 합니다.
+AI: 화이트.
+Human: 와이트다.
+AI: 화이트.
+Human: 와이트 해도 될까.
+AI: 화이트.
+Human: 와이트 하고 싶다.
+AI: 화이트.
+Human: 와이트 원해.
+AI: 화이트.
+Human: 와이트 원합니다.
+AI: 화이트.
+Human: 와이트 입니다.
+AI: 화이트.
+Human: 와이트요.
+AI: 화이트.
+Human: 와이트이요.
+AI: 화이트.
+
+>>화이트 -> 와이트빵
+Human: 와이트빵.
+AI: 화이트.
+Human: 와이트빵이다.
+AI: 화이트.
+Human: 와이트빵 가능할까요.
+AI: 화이트.
+Human: 와이트빵 한다.
+AI: 화이트.
+Human: 와이트빵 함.
+AI: 화이트.
+Human: 와이트빵 추가.
+AI: 화이트.
+Human: 와이트빵 추가다.
+AI: 화이트.
+Human: 와이트빵 추가할래.
+AI: 화이트.
+Human: 와이트빵 추가입니다.
+AI: 화이트.
+Human: 와이트빵 추가합니다.
+AI: 화이트.
+Human: 와이트빵 추가할까.
+AI: 화이트.
+Human: 와이트빵 추가 해줘.
+AI: 화이트.
+Human: 와이트빵 추가 해주세요.
+AI: 화이트.
+Human: 와이트빵 추가 함.
+AI: 화이트.
+Human: 와이트빵 추가 가능.
+AI: 화이트.
+Human: 와이트빵 추가 가능해.
+AI: 화이트.
+Human: 와이트빵 추가 가능함.
+AI: 화이트.
+Human: 와이트빵 추가 가능할까.
+AI: 화이트.
+Human: 와이트빵 추가 가능할까요.
+AI: 화이트.
+Human: 와이트빵 추가 가능합니다.
+AI: 화이트.
+Human: 와이트빵 가능해.
+AI: 화이트.
+Human: 와이트빵 할래.
+AI: 화이트.
+Human: 와이트빵 할게요.
+AI: 화이트.
+Human: 와이트빵 해도 됨.
+AI: 화이트.
+Human: 와이트빵 해도 됩니까.
+AI: 화이트.
+Human: 와이트빵 합니다.
+AI: 화이트.
+Human: 와이트빵다.
+AI: 화이트.
+Human: 와이트빵 해도 될까.
+AI: 화이트.
+Human: 와이트빵 하고 싶다.
+AI: 화이트.
+Human: 와이트빵 원해.
+AI: 화이트.
+Human: 와이트빵 원합니다.
+AI: 화이트.
+Human: 와이트빵 입니다.
+AI: 화이트.
+Human: 와이트빵이요.
+AI: 화이트.
+Human: 와이트빵요.
+AI: 화이트.
+
+>>화이트 -> 와이트브레드
+Human: 와이트브레드.
+AI: 화이트.
+Human: 와이트브레드이다.
+AI: 화이트.
+Human: 와이트브레드 가능할까요.
+AI: 화이트.
+Human: 와이트브레드 한다.
+AI: 화이트.
+Human: 와이트브레드 함.
+AI: 화이트.
+Human: 와이트브레드 추가.
+AI: 화이트.
+Human: 와이트브레드 추가다.
+AI: 화이트.
+Human: 와이트브레드 추가할래.
+AI: 화이트.
+Human: 와이트브레드 추가입니다.
+AI: 화이트.
+Human: 와이트브레드 추가합니다.
+AI: 화이트.
+Human: 와이트브레드 추가할까.
+AI: 화이트.
+Human: 와이트브레드 추가 해줘.
+AI: 화이트.
+Human: 와이트브레드 추가 해주세요.
+AI: 화이트.
+Human: 와이트브레드 추가 함.
+AI: 화이트.
+Human: 와이트브레드 추가 가능.
+AI: 화이트.
+Human: 와이트브레드 추가 가능해.
+AI: 화이트.
+Human: 와이트브레드 추가 가능함.
+AI: 화이트.
+Human: 와이트브레드 추가 가능할까.
+AI: 화이트.
+Human: 와이트브레드 추가 가능할까요.
+AI: 화이트.
+Human: 와이트브레드 추가 가능합니다.
+AI: 화이트.
+Human: 와이트브레드 가능해.
+AI: 화이트.
+Human: 와이트브레드 할래.
+AI: 화이트.
+Human: 와이트브레드 할게요.
+AI: 화이트.
+Human: 와이트브레드 해도 됨.
+AI: 화이트.
+Human: 와이트브레드 해도 됩니까.
+AI: 화이트.
+Human: 와이트브레드 합니다.
+AI: 화이트.
+Human: 와이트브레드다.
+AI: 화이트.
+Human: 와이트브레드 해도 될까.
+AI: 화이트.
+Human: 와이트브레드 하고 싶다.
+AI: 화이트.
+Human: 와이트브레드 원해.
+AI: 화이트.
+Human: 와이트브레드 원합니다.
+AI: 화이트.
+Human: 와이트브레드 입니다.
+AI: 화이트.
+Human: 와이트브레드요.
+AI: 화이트.
+Human: 와이트브레드이요.
+AI: 화이트.
+
+//빵선택 -> 오트밀
+Human: 오트밀.
+AI: 오트밀.
+Human: 오트밀이다.
+AI: 오트밀.
+Human: 오트밀 가능할까요.
+AI: 오트밀.
+Human: 오트밀 한다.
+AI: 오트밀.
+Human: 오트밀 함.
+AI: 오트밀.
+Human: 오트밀 추가.
+AI: 오트밀.
+Human: 오트밀 추가다.
+AI: 오트밀.
+Human: 오트밀 추가할래.
+AI: 오트밀.
+Human: 오트밀 추가입니다.
+AI: 오트밀.
+Human: 오트밀 추가합니다.
+AI: 오트밀.
+Human: 오트밀 추가할까.
+AI: 오트밀.
+Human: 오트밀 추가 해줘.
+AI: 오트밀.
+Human: 오트밀 추가 해주세요.
+AI: 오트밀.
+Human: 오트밀 추가 함.
+AI: 오트밀.
+Human: 오트밀 추가 가능.
+AI: 오트밀.
+Human: 오트밀 추가 가능해.
+AI: 오트밀.
+Human: 오트밀 추가 가능함.
+AI: 오트밀.
+Human: 오트밀 추가 가능할까.
+AI: 오트밀.
+Human: 오트밀 추가 가능할까요.
+AI: 오트밀.
+Human: 오트밀 추가 가능합니다.
+AI: 오트밀.
+Human: 오트밀 가능해.
+AI: 오트밀.
+Human: 오트밀 할래.
+AI: 오트밀.
+Human: 오트밀 할게요.
+AI: 오트밀.
+Human: 오트밀 해도 됨.
+AI: 오트밀.
+Human: 오트밀 해도 됩니까.
+AI: 오트밀.
+Human: 오트밀 합니다.
+AI: 오트밀.
+Human: 오트밀 해도 될까.
+AI: 오트밀.
+Human: 오트밀 하고 싶다.
+AI: 오트밀.
+Human: 오트밀 원해.
+AI: 오트밀.
+Human: 오트밀 원합니다.
+AI: 오트밀.
+Human: 오트밀 입니다.
+AI: 오트밀.
+Human: 오트밀 이요.
+AI: 오트밀.
+Human: 오트밀요.
+AI: 오트밀.
+
+>>오트밀->오트밀빵
+Human: 오트밀빵.
+AI: 오트밀.
+Human: 오트밀빵이다.
+AI: 오트밀.
+Human: 오트밀빵 한다.
+AI: 오트밀.
+Human: 오트밀빵 함.
+AI: 오트밀.
+Human: 오트밀빵 추가.
+AI: 오트밀.
+Human: 오트밀빵 추가다.
+AI: 오트밀.
+Human: 오트밀빵 추가할래.
+AI: 오트밀.
+Human: 오트밀빵 추가입니다.
+AI: 오트밀.
+Human: 오트밀빵 추가합니다.
+AI: 오트밀.
+Human: 오트밀빵 추가할까.
+AI: 오트밀.
+Human: 오트밀빵 추가 해줘.
+AI: 오트밀.
+Human: 오트밀빵 추가 해주세요.
+AI: 오트밀.
+Human: 오트밀빵 추가 함.
+AI: 오트밀.
+Human: 오트밀빵 추가 가능.
+AI: 오트밀.
+Human: 오트밀빵 추가 가능해.
+AI: 오트밀.
+Human: 오트밀빵 추가 가능함.
+AI: 오트밀.
+Human: 오트밀빵 추가 가능할까.
+AI: 오트밀.
+Human: 오트밀빵 추가 가능할까요.
+AI: 오트밀.
+Human: 오트밀빵 추가 가능합니다.
+AI: 오트밀.
+Human: 오트밀빵 가능할까요.
+AI: 오트밀.
+Human: 오트밀빵 가능해.
+AI: 오트밀.
+Human: 오트밀빵 할래.
+AI: 오트밀.
+Human: 오트밀빵 할게요.
+AI: 오트밀.
+Human: 오트밀빵 해도 됨.
+AI: 오트밀.
+Human: 오트밀빵 해도 됩니까.
+AI: 오트밀.
+Human: 오트밀빵 합니다.
+AI: 오트밀.
+Human: 오트밀빵 해도 될까.
+AI: 오트밀.
+Human: 오트밀빵 하고 싶다.
+AI: 오트밀.
+Human: 오트밀빵 원해.
+AI: 오트밀.
+Human: 오트밀빵 원합니다.
+AI: 오트밀.
+Human: 오트밀빵 입니다.
+AI: 오트밀.
+Human: 오트밀빵이요.
+AI: 오트밀.
+Human: 오트밀빵요.
+AI: 오트밀.
+
+>>오트밀 -> 오트밀브레드
+Human: 오트밀브레드.
+AI: 오트밀.
+Human: 오트밀브레드이다.
+AI: 오트밀.
+Human: 오트밀브레드 가능할까요.
+AI: 오트밀.
+Human: 오트밀브레드 한다.
+AI: 오트밀.
+Human: 오트밀브레드 함.
+AI: 오트밀.
+Human: 오트밀브레드 추가.
+AI: 오트밀.
+Human: 오트밀브레드 추가다.
+AI: 오트밀.
+Human: 오트밀브레드 추가할래.
+AI: 오트밀.
+Human: 오트밀브레드 추가입니다.
+AI: 오트밀.
+Human: 오트밀브레드 추가합니다.
+AI: 오트밀.
+Human: 오트밀브레드 추가할까.
+AI: 오트밀.
+Human: 오트밀브레드 추가 해줘.
+AI: 오트밀.
+Human: 오트밀브레드 추가 해주세요.
+AI: 오트밀.
+Human: 오트밀브레드 추가 함.
+AI: 오트밀.
+Human: 오트밀브레드 추가 가능.
+AI: 오트밀.
+Human: 오트밀브레드 추가 가능해.
+AI: 오트밀.
+Human: 오트밀브레드 추가 가능함.
+AI: 오트밀.
+Human: 오트밀브레드 추가 가능할까.
+AI: 오트밀.
+Human: 오트밀브레드 추가 가능할까요.
+AI: 오트밀.
+Human: 오트밀브레드 추가 가능합니다.
+AI: 오트밀.
+Human: 오트밀브레드 가능해.
+AI: 오트밀.
+Human: 오트밀브레드 할래.
+AI: 오트밀.
+Human: 오트밀브레드 할게요.
+AI: 오트밀.
+Human: 오트밀브레드 해도 됨.
+AI: 오트밀.
+Human: 오트밀브레드 해도 됩니까.
+AI: 오트밀.
+Human: 오트밀브레드 합니다.
+AI: 오트밀.
+Human: 오트밀브레드다.
+AI: 오트밀.
+Human: 오트밀브레드 해도 될까.
+AI: 오트밀.
+Human: 오트밀브레드 하고 싶다.
+AI: 오트밀.
+Human: 오트밀브레드 원해.
+AI: 오트밀.
+Human: 오트밀브레드 원합니다.
+AI: 오트밀.
+Human: 오트밀브레드 입니다.
+AI: 오트밀.
+Human: 오트밀브레드요.
+AI: 오트밀.
+
+
+>>오트밀 -> 오뜨밀
+Human: 오뜨밀.
+AI: 오트밀.
+Human: 오뜨밀이다.
+AI: 오트밀.
+Human: 오뜨밀 가능할까요.
+AI: 오트밀.
+Human: 오뜨밀 한다.
+AI: 오트밀.
+Human: 오뜨밀 함.
+AI: 오트밀.
+Human: 오뜨밀 추가.
+AI: 오트밀.
+Human: 오뜨밀 추가다.
+AI: 오트밀.
+Human: 오뜨밀 추가할래.
+AI: 오트밀.
+Human: 오뜨밀 추가입니다.
+AI: 오트밀.
+Human: 오뜨밀 추가합니다.
+AI: 오트밀.
+Human: 오뜨밀 추가할까.
+AI: 오트밀.
+Human: 오뜨밀 추가 해줘.
+AI: 오트밀.
+Human: 오뜨밀 추가 해주세요.
+AI: 오트밀.
+Human: 오뜨밀 추가 함.
+AI: 오트밀.
+Human: 오뜨밀 추가 가능.
+AI: 오트밀.
+Human: 오뜨밀 추가 가능해.
+AI: 오트밀.
+Human: 오뜨밀 추가 가능함.
+AI: 오트밀.
+Human: 오뜨밀 추가 가능할까.
+AI: 오트밀.
+Human: 오뜨밀 추가 가능할까요.
+AI: 오트밀.
+Human: 오뜨밀 추가 가능합니다.
+AI: 오트밀.
+Human: 오뜨밀 가능해.
+AI: 오트밀.
+Human: 오뜨밀 할래.
+AI: 오트밀.
+Human: 오뜨밀 할게요.
+AI: 오트밀.
+Human: 오뜨밀 해도 됨.
+AI: 오트밀.
+Human: 오뜨밀 해도 됩니까.
+AI: 오트밀.
+Human: 오뜨밀 합니다.
+AI: 오트밀.
+Human: 오뜨밀 해도 될까.
+AI: 오트밀.
+Human: 오뜨밀 하고 싶다.
+AI: 오트밀.
+Human: 오뜨밀 원해.
+AI: 오트밀.
+Human: 오뜨밀 원합니다.
+AI: 오트밀.
+Human: 오뜨밀 입니다.
+AI: 오트밀.
+Human: 오뜨밀요.
+AI: 오트밀.
+
+>>오트밀->오뜨밀빵
+Human: 오뜨밀빵.
+AI: 오트밀.
+Human: 오뜨밀빵이다.
+AI: 오트밀.
+Human: 오뜨밀빵 가능할까요.
+AI: 오트밀.
+Human: 오뜨밀빵 한다.
+AI: 오트밀.
+Human: 오뜨밀빵 함.
+AI: 오트밀.
+Human: 오뜨밀빵 추가.
+AI: 오트밀.
+Human: 오뜨밀빵 추가다.
+AI: 오트밀.
+Human: 오뜨밀빵 추가할래.
+AI: 오트밀.
+Human: 오뜨밀빵 추가입니다.
+AI: 오트밀.
+Human: 오뜨밀빵 추가합니다.
+AI: 오트밀.
+Human: 오뜨밀빵 추가할까.
+AI: 오트밀.
+Human: 오뜨밀빵 추가 해줘.
+AI: 오트밀.
+Human: 오뜨밀빵 추가 해주세요.
+AI: 오트밀.
+Human: 오뜨밀빵 추가 함.
+AI: 오트밀.
+Human: 오뜨밀빵 추가 가능.
+AI: 오트밀.
+Human: 오뜨밀빵 추가 가능해.
+AI: 오트밀.
+Human: 오뜨밀빵 추가 가능함.
+AI: 오트밀.
+Human: 오뜨밀빵 추가 가능할까.
+AI: 오트밀.
+Human: 오뜨밀빵 추가 가능할까요.
+AI: 오트밀.
+Human: 오뜨밀빵 추가 가능합니다.
+AI: 오트밀.
+Human: 오뜨밀빵 가능해.
+AI: 오트밀.
+Human: 오뜨밀빵 할래.
+AI: 오트밀.
+Human: 오뜨밀빵 할게요.
+AI: 오트밀.
+Human: 오뜨밀빵 해도 됨.
+AI: 오트밀.
+Human: 오뜨밀빵 해도 됩니까.
+AI: 오트밀.
+Human: 오뜨밀빵 합니다.
+AI: 오트밀.
+Human: 오뜨밀빵 해도 될까.
+AI: 오트밀.
+Human: 오뜨밀빵 하고 싶다.
+AI: 오트밀.
+Human: 오뜨밀빵 원해.
+AI: 오트밀.
+Human: 오뜨밀빵 원합니다.
+AI: 오트밀.
+Human: 오뜨밀빵 입니다.
+AI: 오트밀.
+Human: 오뜨밀빵요.
+AI: 오트밀.
+
+>>오트밀 -> 오뜨밀브레드
+Human: 오뜨밀브레드.
+AI: 오트밀.
+Human: 오뜨밀브레드이다.
+AI: 오트밀.
+Human: 오뜨밀브레드 가능할까요.
+AI: 오트밀.
+Human: 오뜨밀브레드 한다.
+AI: 오트밀.
+Human: 오뜨밀브레드 함.
+AI: 오트밀.
+Human: 오뜨밀브레드 추가.
+AI: 오트밀.
+Human: 오뜨밀브레드 추가다.
+AI: 오트밀.
+Human: 오뜨밀브레드 추가할래.
+AI: 오트밀.
+Human: 오뜨밀브레드 추가입니다.
+AI: 오트밀.
+Human: 오뜨밀브레드 추가합니다.
+AI: 오트밀.
+Human: 오뜨밀브레드 추가할까.
+AI: 오트밀.
+Human: 오뜨밀브레드 추가 해줘.
+AI: 오트밀.
+Human: 오뜨밀브레드 추가 해주세요.
+AI: 오트밀.
+Human: 오뜨밀브레드 추가 함.
+AI: 오트밀.
+Human: 오뜨밀브레드 추가 가능.
+AI: 오트밀.
+Human: 오뜨밀브레드 추가 가능해.
+AI: 오트밀.
+Human: 오뜨밀브레드 추가 가능함.
+AI: 오트밀.
+Human: 오뜨밀브레드 추가 가능할까.
+AI: 오트밀.
+Human: 오뜨밀브레드 추가 가능할까요.
+AI: 오트밀.
+Human: 오뜨밀브레드 추가 가능합니다.
+AI: 오트밀.
+Human: 오뜨밀브레드 가능해.
+AI: 오트밀.
+Human: 오뜨밀브레드 할래.
+AI: 오트밀.
+Human: 오뜨밀브레드 할게요.
+AI: 오트밀.
+Human: 오뜨밀브레드 해도 됨.
+AI: 오트밀.
+Human: 오뜨밀브레드 해도 됩니까.
+AI: 오트밀.
+Human: 오뜨밀브레드 합니다.
+AI: 오트밀.
+Human: 오뜨밀브레드 해도 될까.
+AI: 오트밀.
+Human: 오뜨밀브레드 하고 싶다.
+AI: 오트밀.
+Human: 오뜨밀브레드 원해.
+AI: 오트밀.
+Human: 오뜨밀브레드 원합니다.
+AI: 오트밀.
+Human: 오뜨밀브레드 입니다.
+AI: 오트밀.
+Human: 오뜨밀브레드요.
+AI: 오트밀.
+
+
+>>오트밀 -> 오트
+Human: 오트.
+AI: 오트밀.
+Human: 오트이다.
+AI: 오트밀.
+Human: 오트 가능할까요.
+AI: 오트밀.
+Human: 오트 한다.
+AI: 오트밀.
+Human: 오트 함.
+AI: 오트밀.
+Human: 오트 추가.
+AI: 오트밀.
+Human: 오트 추가다.
+AI: 오트밀.
+Human: 오트 추가할래.
+AI: 오트밀.
+Human: 오트 추가입니다.
+AI: 오트밀.
+Human: 오트 추가합니다.
+AI: 오트밀.
+Human: 오트 추가할까.
+AI: 오트밀.
+Human: 오트 추가 해줘.
+AI: 오트밀.
+Human: 오트 추가 해주세요.
+AI: 오트밀.
+Human: 오트 추가 함.
+AI: 오트밀.
+Human: 오트 추가 가능.
+AI: 오트밀.
+Human: 오트 추가 가능해.
+AI: 오트밀.
+Human: 오트 추가 가능함.
+AI: 오트밀.
+Human: 오트 추가 가능할까.
+AI: 오트밀.
+Human: 오트 추가 가능할까요.
+AI: 오트밀.
+Human: 오트 추가 가능합니다.
+AI: 오트밀.
+Human: 오트 가능해.
+AI: 오트밀.
+Human: 오트 할래.
+AI: 오트밀.
+Human: 오트 할게요.
+AI: 오트밀.
+Human: 오트 해도 됨.
+AI: 오트밀.
+Human: 오트 해도 됩니까.
+AI: 오트밀.
+Human: 오트 합니다.
+AI: 오트밀.
+Human: 오트 해도 될까.
+AI: 오트밀.
+Human: 오트 하고 싶다.
+AI: 오트밀.
+Human: 오트 원해.
+AI: 오트밀.
+Human: 오트 원합니다.
+AI: 오트밀.
+Human: 오트 입니다.
+AI: 오트밀.
+Human: 오트요.
+AI: 오트밀.
+
+
+>>오트밀->오트빵
+Human: 오트빵.
+AI: 오트밀.
+Human: 오트빵이다.
+AI: 오트밀.
+Human: 오트빵 한다.
+AI: 오트밀.
+Human: 오트빵 함.
+AI: 오트밀.
+Human: 오트빵 추가.
+AI: 오트밀.
+Human: 오트빵 추가다.
+AI: 오트밀.
+Human: 오트빵 추가할래.
+AI: 오트밀.
+Human: 오트빵 추가입니다.
+AI: 오트밀.
+Human: 오트빵 추가합니다.
+AI: 오트밀.
+Human: 오트빵 추가할까.
+AI: 오트밀.
+Human: 오트빵 추가 해줘.
+AI: 오트밀.
+Human: 오트빵 추가 해주세요.
+AI: 오트밀.
+Human: 오트빵 추가 함.
+AI: 오트밀.
+Human: 오트빵 추가 가능.
+AI: 오트밀.
+Human: 오트빵 추가 가능해.
+AI: 오트밀.
+Human: 오트빵 추가 가능함.
+AI: 오트밀.
+Human: 오트빵 추가 가능할까.
+AI: 오트밀.
+Human: 오트빵 추가 가능할까요.
+AI: 오트밀.
+Human: 오트빵 추가 가능합니다.
+AI: 오트밀.
+Human: 오트빵 가능할까요.
+AI: 오트밀.
+Human: 오트빵 가능해.
+AI: 오트밀.
+Human: 오트빵 할래.
+AI: 오트밀.
+Human: 오트빵 할게요.
+AI: 오트밀.
+Human: 오트빵 해도 됨.
+AI: 오트밀.
+Human: 오트빵 해도 됩니까.
+AI: 오트밀.
+Human: 오트빵 합니다.
+AI: 오트밀.
+Human: 오트빵 해도 될까.
+AI: 오트밀.
+Human: 오트빵 하고 싶다.
+AI: 오트밀.
+Human: 오트빵 원해.
+AI: 오트밀.
+Human: 오트빵 원합니다.
+AI: 오트밀.
+Human: 오트빵 입니다.
+AI: 오트밀.
+Human: 오트빵요.
+AI: 오트밀.
+
+
+>>오트밀 -> 오트브레드
+Human: 오트브레드.
+AI: 오트밀.
+Human: 오트브레드이다.
+AI: 오트밀.
+Human: 오트브레드 가능할까요.
+AI: 오트밀.
+Human: 오트브레드 한다.
+AI: 오트밀.
+Human: 오트브레드 함.
+AI: 오트밀.
+Human: 오트브레드 추가.
+AI: 오트밀.
+Human: 오트브레드 추가다.
+AI: 오트밀.
+Human: 오트브레드 추가할래.
+AI: 오트밀.
+Human: 오트브레드 추가입니다.
+AI: 오트밀.
+Human: 오트브레드 추가합니다.
+AI: 오트밀.
+Human: 오트브레드 추가할까.
+AI: 오트밀.
+Human: 오트브레드 추가 해줘.
+AI: 오트밀.
+Human: 오트브레드 추가 해주세요.
+AI: 오트밀.
+Human: 오트브레드 추가 함.
+AI: 오트밀.
+Human: 오트브레드 추가 가능.
+AI: 오트밀.
+Human: 오트브레드 추가 가능해.
+AI: 오트밀.
+Human: 오트브레드 추가 가능함.
+AI: 오트밀.
+Human: 오트브레드 추가 가능할까.
+AI: 오트밀.
+Human: 오트브레드 추가 가능할까요.
+AI: 오트밀.
+Human: 오트브레드 추가 가능합니다.
+AI: 오트밀.
+Human: 오트브레드 가능해.
+AI: 오트밀.
+Human: 오트브레드 할래.
+AI: 오트밀.
+Human: 오트브레드 할게요.
+AI: 오트밀.
+Human: 오트브레드 해도 됨.
+AI: 오트밀.
+Human: 오트브레드 해도 됩니까.
+AI: 오트밀.
+Human: 오트브레드 합니다.
+AI: 오트밀.
+Human: 오트브레드다.
+AI: 오트밀.
+Human: 오트브레드 해도 될까.
+AI: 오트밀.
+Human: 오트브레드 하고 싶다.
+AI: 오트밀.
+Human: 오트브레드 원해.
+AI: 오트밀.
+Human: 오트브레드 원합니다.
+AI: 오트밀.
+Human: 오트브레드 입니다.
+AI: 오트밀.
+Human: 오트브레드요.
+AI: 오트밀.
+
+//고기선택-> 스테이크
+Human: 스테이크.
+AI: 스테이크.
+Human: 스테이크이다.
+AI: 스테이크.
+Human: 스테이크 가능할까요.
+AI: 스테이크.
+Human: 스테이크 한다.
+AI: 스테이크.
+Human: 스테이크 함.
+AI: 스테이크.
+Human: 스테이크 추가.
+AI: 스테이크.
+Human: 스테이크 추가다.
+AI: 스테이크.
+Human: 스테이크 추가할래.
+AI: 스테이크.
+Human: 스테이크 추가입니다.
+AI: 스테이크.
+Human: 스테이크 추가합니다.
+AI: 스테이크.
+Human: 스테이크 추가할까.
+AI: 스테이크.
+Human: 스테이크 추가 해줘.
+AI: 스테이크.
+Human: 스테이크 추가 해주세요.
+AI: 스테이크.
+Human: 스테이크 추가 함.
+AI: 스테이크.
+Human: 스테이크 추가 가능.
+AI: 스테이크.
+Human: 스테이크 추가 가능해.
+AI: 스테이크.
+Human: 스테이크 추가 가능함.
+AI: 스테이크.
+Human: 스테이크 추가 가능할까.
+AI: 스테이크.
+Human: 스테이크 추가 가능할까요.
+AI: 스테이크.
+Human: 스테이크 추가 가능합니다.
+AI: 스테이크.
+Human: 스테이크 가능해.
+AI: 스테이크.
+Human: 스테이크 할래.
+AI: 스테이크.
+Human: 스테이크 할게요.
+AI: 스테이크.
+Human: 스테이크 해도 됨.
+AI: 스테이크.
+Human: 스테이크 해도 됩니까.
+AI: 스테이크.
+Human: 스테이크 합니다.
+AI: 스테이크.
+Human: 스테이크다.
+AI: 스테이크.
+Human: 스테이크 해도 될까.
+AI: 스테이크.
+Human: 스테이크 하고 싶다.
+AI: 스테이크.
+Human: 스테이크 원해.
+AI: 스테이크.
+Human: 스테이크 원합니다.
+AI: 스테이크.
+Human: 스테이크 입니다.
+AI: 스테이크.
+Human: 스테이크요.
+AI: 스테이크.
+
+
+>>스테이크 -> 스테이끄
+Human: 스테이끄.
+AI: 스테이크.
+Human: 스테이끄이다.
+AI: 스테이크.
+Human: 스테이끄 가능할까요.
+AI: 스테이크.
+Human: 스테이끄 한다.
+AI: 스테이크.
+Human: 스테이끄 함.
+AI: 스테이크.
+Human: 스테이끄 추가.
+AI: 스테이크.
+Human: 스테이끄 추가다.
+AI: 스테이크.
+Human: 스테이끄 추가할래.
+AI: 스테이크.
+Human: 스테이끄 추가입니다.
+AI: 스테이크.
+Human: 스테이끄 추가합니다.
+AI: 스테이크.
+Human: 스테이끄 추가할까.
+AI: 스테이크.
+Human: 스테이끄 추가 해줘.
+AI: 스테이크.
+Human: 스테이끄 추가 해주세요.
+AI: 스테이크.
+Human: 스테이끄 추가 함.
+AI: 스테이크.
+Human: 스테이끄 추가 가능.
+AI: 스테이크.
+Human: 스테이끄 추가 가능해.
+AI: 스테이크.
+Human: 스테이끄 추가 가능함.
+AI: 스테이크.
+Human: 스테이끄 추가 가능할까.
+AI: 스테이크.
+Human: 스테이끄 추가 가능할까요.
+AI: 스테이크.
+Human: 스테이끄 추가 가능합니다.
+AI: 스테이크.
+Human: 스테이끄 가능해.
+AI: 스테이크.
+Human: 스테이끄 할래.
+AI: 스테이크.
+Human: 스테이끄 할게요.
+AI: 스테이크.
+Human: 스테이끄 해도 됨.
+AI: 스테이크.
+Human: 스테이끄 해도 됩니까.
+AI: 스테이크.
+Human: 스테이끄 합니다.
+AI: 스테이크.
+Human: 스테이끄다.
+AI: 스테이크.
+Human: 스테이끄 해도 될까.
+AI: 스테이크.
+Human: 스테이끄 하고 싶다.
+AI: 스테이크.
+Human: 스테이끄 원해.
+AI: 스테이크.
+Human: 스테이끄 원합니다.
+AI: 스테이크.
+Human: 스테이끄 입니다.
+AI: 스테이크.
+Human: 스테이끄 요.
+AI: 스테이크.
+
+>>스테이크 -> 스테끄
+Human: 스테끄.
+AI: 스테이크.
+Human: 스테끄이다.
+AI: 스테이크.
+Human: 스테끄 가능할까요.
+AI: 스테이크.
+Human: 스테끄 한다.
+AI: 스테이크.
+Human: 스테끄 함.
+AI: 스테이크.
+Human: 스테끄 추가.
+AI: 스테이크.
+Human: 스테끄 추가다.
+AI: 스테이크.
+Human: 스테끄 추가할래.
+AI: 스테이크.
+Human: 스테끄 추가입니다.
+AI: 스테이크.
+Human: 스테끄 추가합니다.
+AI: 스테이크.
+Human: 스테끄 추가할까.
+AI: 스테이크.
+Human: 스테끄 추가 해줘.
+AI: 스테이크.
+Human: 스테끄 추가 해주세요.
+AI: 스테이크.
+Human: 스테끄 추가 함.
+AI: 스테이크.
+Human: 스테끄 추가 가능.
+AI: 스테이크.
+Human: 스테끄 추가 가능해.
+AI: 스테이크.
+Human: 스테끄 추가 가능함.
+AI: 스테이크.
+Human: 스테끄 추가 가능할까.
+AI: 스테이크.
+Human: 스테끄 추가 가능할까요.
+AI: 스테이크.
+Human: 스테끄 추가 가능합니다.
+AI: 스테이크.
+Human: 스테끄 가능해.
+AI: 스테이크.
+Human: 스테끄 할래.
+AI: 스테이크.
+Human: 스테끄 할게요.
+AI: 스테이크.
+Human: 스테끄 해도 됨.
+AI: 스테이크.
+Human: 스테끄 해도 됩니까.
+AI: 스테이크.
+Human: 스테끄 합니다.
+AI: 스테이크.
+Human: 스테끄다.
+AI: 스테이크.
+Human: 스테끄 해도 될까.
+AI: 스테이크.
+Human: 스테끄 하고 싶다.
+AI: 스테이크.
+Human: 스테끄 원해.
+AI: 스테이크.
+Human: 스테끄 원합니다.
+AI: 스테이크.
+Human: 스테끄 입니다.
+AI: 스테이크.
+Human: 스테끄요.
+AI: 스테이크.
+
+
+>>스테이크 -> 스테끼
+Human: 스테끼.
+AI: 스테이크.
+Human: 스테끼이다.
+AI: 스테이크.
+Human: 스테끼 가능할까요.
+AI: 스테이크.
+Human: 스테끼 한다.
+AI: 스테이크.
+Human: 스테끼 함.
+AI: 스테이크.
+Human: 스테끼 추가.
+AI: 스테이크.
+Human: 스테끼 추가다.
+AI: 스테이크.
+Human: 스테끼 추가할래.
+AI: 스테이크.
+Human: 스테끼 추가입니다.
+AI: 스테이크.
+Human: 스테끼 추가합니다.
+AI: 스테이크.
+Human: 스테끼 추가할까.
+AI: 스테이크.
+Human: 스테끼 추가 해줘.
+AI: 스테이크.
+Human: 스테끼 추가 해주세요.
+AI: 스테이크.
+Human: 스테끼 추가 함.
+AI: 스테이크.
+Human: 스테끼 추가 가능.
+AI: 스테이크.
+Human: 스테끼 추가 가능해.
+AI: 스테이크.
+Human: 스테끼 추가 가능함.
+AI: 스테이크.
+Human: 스테끼 추가 가능할까.
+AI: 스테이크.
+Human: 스테끼 추가 가능할까요.
+AI: 스테이크.
+Human: 스테끼 추가 가능합니다.
+AI: 스테이크.
+Human: 스테끼 가능해.
+AI: 스테이크.
+Human: 스테끼 할래.
+AI: 스테이크.
+Human: 스테끼 할게요.
+AI: 스테이크.
+Human: 스테끼 해도 됨.
+AI: 스테이크.
+Human: 스테끼 해도 됩니까.
+AI: 스테이크.
+Human: 스테끼 합니다.
+AI: 스테이크.
+Human: 스테끼다.
+AI: 스테이크.
+Human: 스테끼 해도 될까.
+AI: 스테이크.
+Human: 스테끼 하고 싶다.
+AI: 스테이크.
+Human: 스테끼 원해.
+AI: 스테이크.
+Human: 스테끼 원합니다.
+AI: 스테이크.
+Human: 스테끼 입니다.
+AI: 스테이크.
+Human: 스테끼요.
+AI: 스테이크.
+
+
+>>스테이크 -> 스테크
+Human: 스테크.
+AI: 스테이크.
+Human: 스테크이다.
+AI: 스테이크.
+Human: 스테크 가능할까요.
+AI: 스테이크.
+Human: 스테크 한다.
+AI: 스테이크.
+Human: 스테크 함.
+AI: 스테이크.
+Human: 스테크 추가.
+AI: 스테이크.
+Human: 스테크 추가다.
+AI: 스테이크.
+Human: 스테크 추가할래.
+AI: 스테이크.
+Human: 스테크 추가입니다.
+AI: 스테이크.
+Human: 스테크 추가합니다.
+AI: 스테이크.
+Human: 스테크 추가할까.
+AI: 스테이크.
+Human: 스테크 추가 해줘.
+AI: 스테이크.
+Human: 스테크 추가 해주세요.
+AI: 스테이크.
+Human: 스테크 추가 함.
+AI: 스테이크.
+Human: 스테크 추가 가능.
+AI: 스테이크.
+Human: 스테크 추가 가능해.
+AI: 스테이크.
+Human: 스테크 추가 가능함.
+AI: 스테이크.
+Human: 스테크 추가 가능할까.
+AI: 스테이크.
+Human: 스테크 추가 가능할까요.
+AI: 스테이크.
+Human: 스테크 추가 가능합니다.
+AI: 스테이크.
+Human: 스테크 가능해.
+AI: 스테이크.
+Human: 스테크 할래.
+AI: 스테이크.
+Human: 스테크 할게요.
+AI: 스테이크.
+Human: 스테크 해도 됨.
+AI: 스테이크.
+Human: 스테크 해도 됩니까.
+AI: 스테이크.
+Human: 스테크 합니다.
+AI: 스테이크.
+Human: 스테크다.
+AI: 스테이크.
+Human: 스테크 해도 될까.
+AI: 스테이크.
+Human: 스테크 하고 싶다.
+AI: 스테이크.
+Human: 스테크 원해.
+AI: 스테이크.
+Human: 스테크 원합니다.
+AI: 스테이크.
+Human: 스테크 입니다.
+AI: 스테이크.
+Human: 스테크요.
+AI: 스테이크.
+
+
+//고기선택 -> 치킨
+Human: 치킨.
+AI: 치킨.
+Human: 치킨이다.
+AI: 치킨.
+Human: 치킨 가능할까요.
+AI: 치킨.
+Human: 치킨 한다.
+AI: 치킨.
+Human: 치킨 함.
+AI: 치킨.
+Human: 치킨 추가.
+AI: 치킨.
+Human: 치킨 추가다.
+AI: 치킨.
+Human: 치킨 추가할래.
+AI: 치킨.
+Human: 치킨 추가입니다.
+AI: 치킨.
+Human: 치킨 추가합니다.
+AI: 치킨.
+Human: 치킨 추가할까.
+AI: 치킨.
+Human: 치킨 추가 해줘.
+AI: 치킨.
+Human: 치킨 추가 해주세요.
+AI: 치킨.
+Human: 치킨 추가 함.
+AI: 치킨.
+Human: 치킨 추가 가능.
+AI: 치킨.
+Human: 치킨 추가 가능해.
+AI: 치킨.
+Human: 치킨 추가 가능함.
+AI: 치킨.
+Human: 치킨 추가 가능할까.
+AI: 치킨.
+Human: 치킨 추가 가능할까요.
+AI: 치킨.
+Human: 치킨 추가 가능합니다.
+AI: 치킨.
+Human: 치킨 가능해.
+AI: 치킨.
+Human: 치킨 할래.
+AI: 치킨.
+Human: 치킨 할게요.
+AI: 치킨.
+Human: 치킨 해도 됨.
+AI: 치킨.
+Human: 치킨 해도 됩니까.
+AI: 치킨.
+Human: 치킨 합니다.
+AI: 치킨.
+Human: 치킨다.
+AI: 치킨.
+Human: 치킨 해도 될까.
+AI: 치킨.
+Human: 치킨 하고 싶다.
+AI: 치킨.
+Human: 치킨 원해.
+AI: 치킨.
+Human: 치킨 원합니다.
+AI: 치킨.
+Human: 치킨 입니다.
+AI: 치킨.
+Human: 치킨 이요.
+AI: 치킨.
+
+>>치킨 -> 치낀
+Human: 치낀.
+AI: 치킨.
+Human: 치낀이다.
+AI: 치킨.
+Human: 치낀 가능할까요.
+AI: 치킨.
+Human: 치낀 한다.
+AI: 치킨.
+Human: 치낀 함.
+AI: 치킨.
+Human: 치낀 추가.
+AI: 치킨.
+Human: 치낀 추가다.
+AI: 치킨.
+Human: 치낀 추가할래.
+AI: 치킨.
+Human: 치낀 추가입니다.
+AI: 치킨.
+Human: 치낀 추가합니다.
+AI: 치킨.
+Human: 치낀 추가할까.
+AI: 치킨.
+Human: 치낀 추가 해줘.
+AI: 치킨.
+Human: 치낀 추가 해주세요.
+AI: 치킨.
+Human: 치낀 추가 함.
+AI: 치킨.
+Human: 치낀 추가 가능.
+AI: 치킨.
+Human: 치낀 추가 가능해.
+AI: 치킨.
+Human: 치낀 추가 가능함.
+AI: 치킨.
+Human: 치낀 추가 가능할까.
+AI: 치킨.
+Human: 치낀 추가 가능할까요.
+AI: 치킨.
+Human: 치낀 추가 가능합니다.
+AI: 치킨.
+Human: 치낀 가능해.
+AI: 치킨.
+Human: 치낀 할래.
+AI: 치킨.
+Human: 치낀 할게요.
+AI: 치킨.
+Human: 치낀 해도 됨.
+AI: 치킨.
+Human: 치낀 해도 됩니까.
+AI: 치킨.
+Human: 치낀 합니다.
+AI: 치킨.
+Human: 치낀다.
+AI: 치킨.
+Human: 치낀 해도 될까.
+AI: 치킨.
+Human: 치낀 하고 싶다.
+AI: 치킨.
+Human: 치낀 원해.
+AI: 치킨.
+Human: 치낀 원합니다.
+AI: 치킨.
+Human: 치낀 입니다.
+AI: 치킨.
+Human: 치낀 이요.
+AI: 치킨.
+
+>>치킨 -> 닭
+Human: 닭.
+AI: 치킨.
+Human: 닭이다.
+AI: 치킨.
+Human: 닭 가능할까요.
+AI: 치킨.
+Human: 닭 한다.
+AI: 치킨.
+Human: 닭 함.
+AI: 치킨.
+Human: 닭 추가.
+AI: 치킨.
+Human: 닭 추가다.
+AI: 치킨.
+Human: 닭 추가할래.
+AI: 치킨.
+Human: 닭 추가입니다.
+AI: 치킨.
+Human: 닭 추가합니다.
+AI: 치킨.
+Human: 닭 추가할까.
+AI: 치킨.
+Human: 닭 추가 해줘.
+AI: 치킨.
+Human: 닭 추가 해주세요.
+AI: 치킨.
+Human: 닭 추가 함.
+AI: 치킨.
+Human: 닭 추가 가능.
+AI: 치킨.
+Human: 닭 추가 가능해.
+AI: 치킨.
+Human: 닭 추가 가능함.
+AI: 치킨.
+Human: 닭 추가 가능할까.
+AI: 치킨.
+Human: 닭 추가 가능할까요.
+AI: 치킨.
+Human: 닭 추가 가능합니다.
+AI: 치킨.
+Human: 닭 가능해.
+AI: 치킨.
+Human: 닭 할래.
+AI: 치킨.
+Human: 닭 할게요.
+AI: 치킨.
+Human: 닭 해도 됨.
+AI: 치킨.
+Human: 닭 해도 됩니까.
+AI: 치킨.
+Human: 닭 합니다.
+AI: 치킨.
+Human: 닭 다.
+AI: 치킨.
+Human: 닭 해도 될까.
+AI: 치킨.
+Human: 닭 하고 싶다.
+AI: 치킨.
+Human: 닭 원해.
+AI: 치킨.
+Human: 닭 원합니다.
+AI: 치킨.
+Human: 닭 입니다.
+AI: 치킨.
+Human: 닭이요.
+AI: 치킨.
+Human: 닭요.
+AI: 치킨.
+
+>>치킨 -> 닥
+Human: 닥.
+AI: 치킨.
+Human: 닥이다.
+AI: 치킨.
+Human: 닥 가능할까요.
+AI: 치킨.
+Human: 닥 한다.
+AI: 치킨.
+Human: 닥 함.
+AI: 치킨.
+Human: 닥 추가.
+AI: 치킨.
+Human: 닥 추가다.
+AI: 치킨.
+Human: 닥 추가할래.
+AI: 치킨.
+Human: 닥 추가입니다.
+AI: 치킨.
+Human: 닥 추가합니다.
+AI: 치킨.
+Human: 닥 추가할까.
+AI: 치킨.
+Human: 닥 추가 해줘.
+AI: 치킨.
+Human: 닥 추가 해주세요.
+AI: 치킨.
+Human: 닥 추가 함.
+AI: 치킨.
+Human: 닥 추가 가능.
+AI: 치킨.
+Human: 닥 추가 가능해.
+AI: 치킨.
+Human: 닥 추가 가능함.
+AI: 치킨.
+Human: 닥 추가 가능할까.
+AI: 치킨.
+Human: 닥 추가 가능할까요.
+AI: 치킨.
+Human: 닥 추가 가능합니다.
+AI: 치킨.
+Human: 닥 가능해.
+AI: 치킨.
+Human: 닥 할래.
+AI: 치킨.
+Human: 닥 할게요.
+AI: 치킨.
+Human: 닥 해도 됨.
+AI: 치킨.
+Human: 닥 해도 됩니까.
+AI: 치킨.
+Human: 닥 합니다.
+AI: 치킨.
+Human: 닥 다.
+AI: 치킨.
+Human: 닥 해도 될까.
+AI: 치킨.
+Human: 닥 하고 싶다.
+AI: 치킨.
+Human: 닥 원해.
+AI: 치킨.
+Human: 닥 원합니다.
+AI: 치킨.
+Human: 닥 입니다.
+AI: 치킨.
+Human: 닥이요.
+AI: 치킨.
+Human: 닥요.
+AI: 치킨.
+
+//고기 선택 -> 베이컨
+Human: 베이컨.
+AI: 베이컨.
+Human: 베이컨이다.
+AI: 베이컨.
+Human: 베이컨 가능할까요.
+AI: 베이컨.
+Human: 베이컨 한다.
+AI: 베이컨.
+Human: 베이컨 함.
+AI: 베이컨.
+Human: 베이컨 추가.
+AI: 베이컨.
+Human: 베이컨 추가다.
+AI: 베이컨.
+Human: 베이컨 추가할래.
+AI: 베이컨.
+Human: 베이컨 추가입니다.
+AI: 베이컨.
+Human: 베이컨 추가합니다.
+AI: 베이컨.
+Human: 베이컨 추가할까.
+AI: 베이컨.
+Human: 베이컨 추가 해줘.
+AI: 베이컨.
+Human: 베이컨 추가 해주세요.
+AI: 베이컨.
+Human: 베이컨 추가 함.
+AI: 베이컨.
+Human: 베이컨 추가 가능.
+AI: 베이컨.
+Human: 베이컨 추가 가능해.
+AI: 베이컨.
+Human: 베이컨 추가 가능함.
+AI: 베이컨.
+Human: 베이컨 추가 가능할까.
+AI: 베이컨.
+Human: 베이컨 추가 가능할까요.
+AI: 베이컨.
+Human: 베이컨 추가 가능합니다.
+AI: 베이컨.
+Human: 베이컨 가능해.
+AI: 베이컨.
+Human: 베이컨 할래.
+AI: 베이컨.
+Human: 베이컨 할게요.
+AI: 베이컨.
+Human: 베이컨 해도 됨.
+AI: 베이컨.
+Human: 베이컨 해도 됩니까.
+AI: 베이컨.
+Human: 베이컨 합니다.
+AI: 베이컨.
+Human: 베이컨 다.
+AI: 베이컨.
+Human: 베이컨 해도 될까.
+AI: 베이컨.
+Human: 베이컨 하고 싶다.
+AI: 베이컨.
+Human: 베이컨 원해.
+AI: 베이컨.
+Human: 베이컨 원합니다.
+AI: 베이컨.
+Human: 베이컨 입니다.
+AI: 베이컨.
+Human: 베이컨이요.
+AI: 베이컨.
+Human: 베이컨요.
+AI: 베이컨.
+
+//베이컨 -> 배이컨
+Human: 배이컨.
+AI: 베이컨.
+Human: 배이컨이다.
+AI: 베이컨.
+Human: 배이컨 가능할까요.
+AI: 베이컨.
+Human: 배이컨 한다.
+AI: 베이컨.
+Human: 배이컨 함.
+AI: 베이컨.
+Human: 배이컨 추가.
+AI: 베이컨.
+Human: 배이컨 추가다.
+AI: 베이컨.
+Human: 배이컨 추가할래.
+AI: 베이컨.
+Human: 배이컨 추가입니다.
+AI: 베이컨.
+Human: 배이컨 추가합니다.
+AI: 베이컨.
+Human: 배이컨 추가할까.
+AI: 베이컨.
+Human: 배이컨 추가 해줘.
+AI: 베이컨.
+Human: 배이컨 추가 해주세요.
+AI: 베이컨.
+Human: 배이컨 추가 함.
+AI: 베이컨.
+Human: 배이컨 추가 가능.
+AI: 베이컨.
+Human: 배이컨 추가 가능해.
+AI: 베이컨.
+Human: 배이컨 추가 가능함.
+AI: 베이컨.
+Human: 배이컨 추가 가능할까.
+AI: 베이컨.
+Human: 배이컨 추가 가능할까요.
+AI: 베이컨.
+Human: 배이컨 추가 가능합니다.
+AI: 베이컨.
+Human: 배이컨 가능해.
+AI: 베이컨.
+Human: 배이컨 할래.
+AI: 베이컨.
+Human: 배이컨 할게요.
+AI: 베이컨.
+Human: 배이컨 해도 됨.
+AI: 베이컨.
+Human: 배이컨 해도 됩니까.
+AI: 베이컨.
+Human: 배이컨 합니다.
+AI: 베이컨.
+Human: 배이컨 다.
+AI: 베이컨.
+Human: 배이컨 해도 될까.
+AI: 베이컨.
+Human: 배이컨 하고 싶다.
+AI: 베이컨.
+Human: 배이컨 원해.
+AI: 베이컨.
+Human: 배이컨 원합니다.
+AI: 베이컨.
+Human: 배이컨 입니다.
+AI: 베이컨.
+Human: 배이컨이요.
+AI: 베이컨.
+Human: 배이컨요.
+AI: 베이컨.
+
+//베이컨 -> 베이껀
+Human: 배이껀.
+AI: 베이컨.
+Human: 배이껀이다.
+AI: 베이컨.
+Human: 배이껀 가능할까요.
+AI: 베이컨.
+Human: 배이껀 한다.
+AI: 베이컨.
+Human: 배이껀 함.
+AI: 베이컨.
+Human: 배이껀 추가.
+AI: 베이컨.
+Human: 배이껀 추가다.
+AI: 베이컨.
+Human: 배이껀 추가할래.
+AI: 베이컨.
+Human: 배이껀 추가입니다.
+AI: 베이컨.
+Human: 배이껀 추가합니다.
+AI: 베이컨.
+Human: 배이껀 추가할까.
+AI: 베이컨.
+Human: 배이껀 추가 해줘.
+AI: 베이컨.
+Human: 배이껀 추가 해주세요.
+AI: 베이컨.
+Human: 배이껀 추가 함.
+AI: 베이컨.
+Human: 배이껀 추가 가능.
+AI: 베이컨.
+Human: 배이껀 추가 가능해.
+AI: 베이컨.
+Human: 배이껀 추가 가능함.
+AI: 베이컨.
+Human: 배이껀 추가 가능할까.
+AI: 베이컨.
+Human: 배이껀 추가 가능할까요.
+AI: 베이컨.
+Human: 배이껀 추가 가능합니다.
+AI: 베이컨.
+Human: 배이껀 가능해.
+AI: 베이컨.
+Human: 배이껀 할래.
+AI: 베이컨.
+Human: 배이껀 할게요.
+AI: 베이컨.
+Human: 배이껀 해도 됨.
+AI: 베이컨.
+Human: 배이껀 해도 됩니까.
+AI: 베이컨.
+Human: 배이껀 합니다.
+AI: 베이컨.
+Human: 배이껀 다.
+AI: 베이컨.
+Human: 배이껀 해도 될까.
+AI: 베이컨.
+Human: 배이껀 하고 싶다.
+AI: 베이컨.
+Human: 배이껀 원해.
+AI: 베이컨.
+Human: 배이껀 원합니다.
+AI: 베이컨.
+Human: 배이껀 입니다.
+AI: 베이컨.
+Human: 배이껀이요.
+AI: 베이컨.
+Human: 배이껀요.
+AI: 베이컨.
+
+//야채빼기
+>>양파 빼는.ver
+Human: 양파. 
+AI: 양파@.
+Human: 양파요. 
+AI: 양파@.
+Human: 양파만. 
+AI: 양파@.
+Human: 양파 빼. 
+AI: 양파@.
+Human: 양파만 빼. 
+AI: 양파@.
+Human: 양파 빼요. 
+AI: 양파@.
+Human: 양파 빼주세요. 
+AI: 양파@.
+Human: 양파 빼주시겠어요. 
+AI: 양파@.
+Human: 양파 빼줘요. 
+AI: 양파@.
+Human: 양파 안먹어. 
+AI: 양파@.
+Human: 양파 안먹어요. 
+AI: 양파@.
+Human: 양파 안먹습니다. 
+AI: 양파@.
+Human: 양파 안먹고 싶습니다. 
+AI: 양파@.
+Human: 양파 안먹고 싶어요. 
+AI: 양파@.
+Human: 양파 안먹고 싶어. 
+AI: 양파@.
+Human: 양파 필요없어. 
+AI: 양파@.
+Human: 양파 필요없어요. 
+AI: 양파@.
+Human: 양파 필요없습니다.
+AI: 양파@.
+Human: 양파 싫어요. 
+AI: 양파@.
+Human: 양파 싫어. 
+AI: 양파@.
+Human: 양파 싫습니다. 
+AI: 양파@.
+Human: 양파 넣지마. 
+AI: 양파@.
+Human: 양파 넣지마세요. 
+AI: 양파@.
+Human: 양파 넣지마요. 
+AI: 양파@.
+Human: 양파 넣지말아주세요. 
+AI: 양파@.
+Human: 양파는 빼. 
+AI: 양파@.
+Human: 양파는 빼요. 
+AI: 양파@.
+Human: 양파만 빼요. 
+AI: 양파@.
+Human: 양파는 빼주세요. 
+AI: 양파@.
+Human: 양파만 빼주세요. 
+AI: 양파@.
+Human: 양파는 빼주시겠어요. 
+AI: 양파@.
+Human: 양파만 빼주시겠어요. 
+AI: 양파@.
+Human: 양파는 빼줘요. 
+AI: 양파@.
+Human: 양파만 빼줘요. 
+AI: 양파@.
+Human: 양파는 안먹어. 
+AI: 양파@.
+Human: 양파만 안먹어. 
+AI: 양파@.
+Human: 양파는 안먹어요. 
+AI: 양파@.
+Human: 양파만 안먹어요. 
+AI: 양파@.
+Human: 양파는 안먹습니다. 
+AI: 양파@.
+Human: 양파만 안먹습니다. 
+AI: 양파@.
+Human: 양파는 안먹고 싶습니다. 
+AI: 양파@.
+Human: 양파만 안먹고 싶습니다. 
+AI: 양파@.
+Human: 양파는 안먹고 싶어요. 
+AI: 양파@.
+Human: 양파만 안먹고 싶어요. 
+AI: 양파@.
+Human: 양파는 안먹고 싶어. 
+AI: 양파@.
+Human: 양파만 안먹고 싶어. 
+AI: 양파@.
+Human: 양파는 필요없어. 
+AI: 양파@.
+Human: 양파만 필요없어. 
+AI: 양파@.
+Human: 양파는 필요없어요. 
+AI: 양파@.
+Human: 양파만 필요없어요. 
+AI: 양파@.
+Human: 양파는 필요없습니다.
+AI: 양파@.
+Human: 양파만 필요없습니다.
+AI: 양파@.
+Human: 양파는 싫어요. 
+AI: 양파@.
+Human: 양파만 싫어요. 
+AI: 양파@.
+Human: 양파는 싫어. 
+AI: 양파@.
+Human: 양파만 싫어. 
+AI: 양파@.
+Human: 양파는 싫습니다. 
+AI: 양파@.
+Human: 양파만 싫습니다. 
+AI: 양파@.
+Human: 양파는 넣지마. 
+AI: 양파@.
+Human: 양파만 넣지마. 
+AI: 양파@.
+Human: 양파는 넣지마세요. 
+AI: 양파@.
+Human: 양파만 넣지마세요. 
+AI: 양파@.
+Human: 양파는 넣지마요. 
+AI: 양파@.
+Human: 양파만 넣지마요. 
+AI: 양파@.
+Human: 양파는 넣지말아주세요. 
+AI: 양파@.
+Human: 양파만 넣지말아주세요. 
+AI: 양파@.
+
+//야채빼기.ver 양파 -> 앙파
+Human: 앙파. 
+AI: 양파@.
+Human: 앙파요. 
+AI: 양파@.
+Human: 앙파만. 
+AI: 양파@.
+Human: 앙파 빼. 
+AI: 양파@.
+Human: 앙파만 빼. 
+AI: 양파@.
+Human: 앙파 빼요. 
+AI: 양파@.
+Human: 앙파 빼주세요. 
+AI: 양파@.
+Human: 앙파 빼주시겠어요. 
+AI: 양파@.
+Human: 앙파 빼줘요. 
+AI: 양파@.
+Human: 앙파 안먹어. 
+AI: 양파@.
+Human: 앙파 안먹어요. 
+AI: 양파@.
+Human: 앙파 안먹습니다. 
+AI: 양파@.
+Human: 앙파 안먹고 싶습니다. 
+AI: 양파@.
+Human: 앙파 안먹고 싶어요. 
+AI: 양파@.
+Human: 앙파 안먹고 싶어. 
+AI: 양파@.
+Human: 앙파 필요없어. 
+AI: 양파@.
+Human: 앙파 필요없어요. 
+AI: 양파@.
+Human: 앙파 필요없습니다.
+AI: 양파@.
+Human: 앙파 싫어요. 
+AI: 양파@.
+Human: 앙파 싫어. 
+AI: 양파@.
+Human: 앙파 싫습니다. 
+AI: 양파@.
+Human: 앙파 넣지마. 
+AI: 양파@.
+Human: 앙파 넣지마세요. 
+AI: 양파@.
+Human: 앙파 넣지마요. 
+AI: 양파@.
+Human: 앙파 넣지말아주세요. 
+AI: 양파@.
+Human: 앙파는빼. 
+AI: 양파@.
+Human: 앙파는 빼요. 
+AI: 양파@.
+Human: 앙파만 빼요. 
+AI: 양파@.
+Human: 앙파는 빼주세요. 
+AI: 양파@.
+Human: 앙파만 빼주세요. 
+AI: 양파@.
+Human: 앙파는 빼주시겠어요. 
+AI: 양파@.
+Human: 앙파만 빼주시겠어요. 
+AI: 양파@.
+Human: 앙파는 빼줘요. 
+AI: 양파@.
+Human: 앙파만 빼줘요. 
+AI: 양파@.
+Human: 앙파는 안먹어. 
+AI: 양파@.
+Human: 앙파만 안먹어. 
+AI: 양파@.
+Human: 앙파는 안먹어요. 
+AI: 양파@.
+Human: 앙파만 안먹어요. 
+AI: 양파@.
+Human: 앙파는 안먹습니다. 
+AI: 양파@.
+Human: 앙파만 안먹습니다. 
+AI: 양파@.
+Human: 앙파는 안먹고 싶습니다. 
+AI: 양파@.
+Human: 앙파만 안먹고 싶습니다. 
+AI: 양파@.
+Human: 앙파는 안먹고 싶어요. 
+AI: 양파@.
+Human: 앙파만 안먹고 싶어요. 
+AI: 양파@.
+Human: 앙파는 안먹고 싶어. 
+AI: 양파@.
+Human: 앙파만 안먹고 싶어. 
+AI: 양파@.
+Human: 앙파는 필요없어. 
+AI: 양파@.
+Human: 앙파만 필요없어. 
+AI: 양파@.
+Human: 앙파는 필요없어요. 
+AI: 양파@.
+Human: 앙파만 필요없어요. 
+AI: 양파@.
+Human: 앙파는 필요없습니다.
+AI: 양파@.
+Human: 앙파만 필요없습니다.
+AI: 양파@.
+Human: 앙파는 싫어요. 
+AI: 양파@.
+Human: 앙파만 싫어요. 
+AI: 양파@.
+Human: 앙파는 싫어. 
+AI: 양파@.
+Human: 앙파만 싫어. 
+AI: 양파@.
+Human: 앙파는 싫습니다. 
+AI: 양파@.
+Human: 앙파만 싫습니다. 
+AI: 양파@.
+Human: 앙파는 넣지마. 
+AI: 양파@.
+Human: 앙파만 넣지마. 
+AI: 양파@.
+Human: 앙파는 넣지마세요. 
+AI: 양파@.
+Human: 앙파만 넣지마세요. 
+AI: 양파@.
+Human: 앙파는 넣지마요. 
+AI: 양파@.
+Human: 앙파만 넣지마요. 
+AI: 양파@.
+Human: 앙파는 넣지말아주세요. 
+AI: 양파@.
+Human: 앙파만 넣지말아주세요. 
+AI: 양파@.
+
+
+//야채빼기.ver 양파 -> 양빠
+Human: 양빠. 
+AI: 양파@.
+Human: 양빠요. 
+AI: 양파@.
+Human: 양빠만. 
+AI: 양파@.
+Human: 양빠 빼. 
+AI: 양파@.
+Human: 양빠만 빼. 
+AI: 양파@.
+Human: 양빠 빼요. 
+AI: 양파@.
+Human: 양빠 빼주세요. 
+AI: 양파@.
+Human: 양빠 빼주시겠어요. 
+AI: 양파@.
+Human: 양빠 빼줘요. 
+AI: 양파@.
+Human: 양빠 안먹어. 
+AI: 양파@.
+Human: 양빠 안먹어요. 
+AI: 양파@.
+Human: 양빠 안먹습니다. 
+AI: 양파@.
+Human: 양빠 안먹고 싶습니다. 
+AI: 양파@.
+Human: 양빠 안먹고 싶어요. 
+AI: 양파@.
+Human: 양빠 안먹고 싶어. 
+AI: 양파@.
+Human: 양빠 필요없어. 
+AI: 양파@.
+Human: 양빠 필요없어요. 
+AI: 양파@.
+Human: 양빠 필요없습니다.
+AI: 양파@.
+Human: 양빠 싫어요. 
+AI: 양파@.
+Human: 양빠 싫어. 
+AI: 양파@.
+Human: 양빠 싫습니다. 
+AI: 양파@.
+Human: 양빠 넣지마. 
+AI: 양파@.
+Human: 양빠 넣지마세요. 
+AI: 양파@.
+Human: 양빠 넣지마요. 
+AI: 양파@.
+Human: 양빠 넣지말아주세요. 
+AI: 양파@.
+Human: 양빠는 빼. 
+AI: 양파@.
+Human: 양빠는 빼요. 
+AI: 양파@.
+Human: 양빠만 빼요. 
+AI: 양파@.
+Human: 양빠는 빼주세요. 
+AI: 양파@.
+Human: 양빠만 빼주세요. 
+AI: 양파@.
+Human: 양빠는 빼주시겠어요. 
+AI: 양파@.
+Human: 양빠만 빼주시겠어요. 
+AI: 양파@.
+Human: 양빠는 빼줘요. 
+AI: 양파@.
+Human: 양빠만 빼줘요. 
+AI: 양파@.
+Human: 양빠는 안먹어. 
+AI: 양파@.
+Human: 양빠만 안먹어. 
+AI: 양파@.
+Human: 양빠는 안먹어요. 
+AI: 양파@.
+Human: 양빠만 안먹어요. 
+AI: 양파@.
+Human: 양빠는 안먹습니다. 
+AI: 양파@.
+Human: 양빠만 안먹습니다. 
+AI: 양파@.
+Human: 양빠는 안먹고 싶습니다. 
+AI: 양파@.
+Human: 양빠만 안먹고 싶습니다. 
+AI: 양파@.
+Human: 양빠는 안먹고 싶어요. 
+AI: 양파@.
+Human: 양빠만 안먹고 싶어요. 
+AI: 양파@.
+Human: 양빠는 안먹고 싶어. 
+AI: 양파@.
+Human: 양빠만 안먹고 싶어. 
+AI: 양파@.
+Human: 양빠는 필요없어. 
+AI: 양파@.
+Human: 양빠만 필요없어. 
+AI: 양파@.
+Human: 양빠는 필요없어요. 
+AI: 양파@.
+Human: 양빠만 필요없어요. 
+AI: 양파@.
+Human: 양빠는 필요없습니다.
+AI: 양파@.
+Human: 양빠만 필요없습니다.
+AI: 양파@.
+Human: 양빠는 싫어요. 
+AI: 양파@.
+Human: 양빠만 싫어요. 
+AI: 양파@.
+Human: 양빠는 싫어. 
+AI: 양파@.
+Human: 양빠만 싫어. 
+AI: 양파@.
+Human: 양빠는 싫습니다. 
+AI: 양파@.
+Human: 양빠만 싫습니다. 
+AI: 양파@.
+Human: 양빠는 넣지마. 
+AI: 양파@.
+Human: 양빠만 넣지마. 
+AI: 양파@.
+Human: 양빠는 넣지마세요. 
+AI: 양파@.
+Human: 양빠만 넣지마세요. 
+AI: 양파@.
+Human: 양빠는 넣지마요. 
+AI: 양파@.
+Human: 양빠만 넣지마요. 
+AI: 양파@.
+Human: 양빠는 넣지말아주세요. 
+AI: 양파@.
+Human: 양빠만 넣지말아주세요. 
+AI: 양파@.
+
+//야채빼기.ver 오이
+Human: 오이. 
+AI: 오이@.
+Human: 오이요. 
+AI: 오이@.
+Human: 오이만. 
+AI: 오이@.
+Human: 오이 빼. 
+AI: 오이@.
+Human: 오이만 빼. 
+AI: 오이@.
+Human: 오이 빼요. 
+AI: 오이@.
+Human: 오이 빼주세요. 
+AI: 오이@.
+Human: 오이 빼주시겠어요. 
+AI: 오이@.
+Human: 오이 빼줘요. 
+AI: 오이@.
+Human: 오이 안먹어. 
+AI: 오이@.
+Human: 오이 안먹어요. 
+AI: 오이@.
+Human: 오이 안먹습니다. 
+AI: 오이@.
+Human: 오이 안먹고 싶습니다. 
+AI: 오이@.
+Human: 오이 안먹고 싶어요. 
+AI: 오이@.
+Human: 오이 안먹고 싶어. 
+AI: 오이@.
+Human: 오이 필요없어. 
+AI: 오이@.
+Human: 오이 필요없어요. 
+AI: 오이@.
+Human: 오이 필요없습니다.
+AI: 오이@.
+Human: 오이 싫어요. 
+AI: 오이@.
+Human: 오이 싫어. 
+AI: 오이@.
+Human: 오이 싫습니다. 
+AI: 오이@.
+Human: 오이 넣지마. 
+AI: 오이@.
+Human: 오이 넣지마세요. 
+AI: 오이@.
+Human: 오이 넣지마요. 
+AI: 오이@.
+Human: 오이 넣지말아주세요. 
+AI: 오이@.
+Human: 오이는 빼. 
+AI: 오이@.
+Human: 오이는 빼요. 
+AI: 오이@.
+Human: 오이만 빼요. 
+AI: 오이@.
+Human: 오이는 빼주세요. 
+AI: 오이@.
+Human: 오이만 빼주세요. 
+AI: 오이@.
+Human: 오이는 빼주시겠어요. 
+AI: 오이@.
+Human: 오이만 빼주시겠어요. 
+AI: 오이@.
+Human: 오이는 빼줘요. 
+AI: 오이@.
+Human: 오이만 빼줘요. 
+AI: 오이@.
+Human: 오이는 안먹어. 
+AI: 오이@.
+Human: 오이만 안먹어. 
+AI: 오이@.
+Human: 오이는 안먹어요. 
+AI: 오이@.
+Human: 오이만 안먹어요. 
+AI: 오이@.
+Human: 오이는 안먹습니다. 
+AI: 오이@.
+Human: 오이만 안먹습니다. 
+AI: 오이@.
+Human: 오이는 안먹고 싶습니다. 
+AI: 오이@.
+Human: 오이만 안먹고 싶습니다. 
+AI: 오이@.
+Human: 오이는 안먹고 싶어요. 
+AI: 오이@.
+Human: 오이만 안먹고 싶어요. 
+AI: 오이@.
+Human: 오이는 안먹고 싶어. 
+AI: 오이@.
+Human: 오이만 안먹고 싶어. 
+AI: 오이@.
+Human: 오이는 필요없어. 
+AI: 오이@.
+Human: 오이만 필요없어. 
+AI: 오이@.
+Human: 오이는 필요없어요. 
+AI: 오이@.
+Human: 오이만 필요없어요. 
+AI: 오이@.
+Human: 오이는 필요없습니다.
+AI: 오이@.
+Human: 오이만 필요없습니다.
+AI: 오이@.
+Human: 오이는 싫어요. 
+AI: 오이@.
+Human: 오이만 싫어요. 
+AI: 오이@.
+Human: 오이는 싫어. 
+AI: 오이@.
+Human: 오이만 싫어. 
+AI: 오이@.
+Human: 오이는 싫습니다. 
+AI: 오이@.
+Human: 오이만 싫습니다. 
+AI: 오이@.
+Human: 오이는 넣지마. 
+AI: 오이@.
+Human: 오이만 넣지마. 
+AI: 오이@.
+Human: 오이는 넣지마세요. 
+AI: 오이@.
+Human: 오이만 넣지마세요. 
+AI: 오이@.
+Human: 오이는 넣지마요. 
+AI: 오이@.
+Human: 오이만 넣지마요. 
+AI: 오이@.
+Human: 오이는 넣지말아주세요. 
+AI: 오이@.
+Human: 오이만 넣지말아주세요. 
+AI: 오이@.
+
+//야채빼기.ver 양상추
+Human: 양상추. 
+AI: 양상추@.
+Human: 양상추요. 
+AI: 양상추@.
+Human: 양상추만. 
+AI: 양상추@.
+Human: 양상추 빼. 
+AI: 양상추@.
+Human: 양상추만 빼. 
+AI: 양상추@.
+Human: 양상추 빼요. 
+AI: 양상추@.
+Human: 양상추 빼주세요. 
+AI: 양상추@..
+Human: 양상추 빼주시겠어요. 
+AI: 양상추@.
+Human: 양상추 빼줘요. 
+AI: 양상추@.
+Human: 양상추 안먹어. 
+AI: 양상추@.
+Human: 양상추 안먹어요. 
+AI: 양상추@.
+Human: 양상추 안먹습니다. 
+AI: 양상추@.
+Human: 양상추 안먹고 싶습니다. 
+AI: 양상추@.
+Human: 양상추 안먹고 싶어요. 
+AI: 양상추@.
+Human: 양상추 안먹고 싶어. 
+AI: 양상추@.
+Human: 양상추 필요없어. 
+AI: 양상추@.
+Human: 양상추 필요없어요. 
+AI: 양상추@.
+Human: 양상추 필요없습니다.
+AI: 양상추@.
+Human: 양상추 싫어요. 
+AI: 양상추@.
+Human: 양상추 싫어. 
+AI: 양상추@.
+Human: 양상추 싫습니다. 
+AI: 양상추@.
+Human: 양상추 넣지마. 
+AI: 양상추@.
+Human: 양상추 넣지마세요. 
+AI: 양상추@.
+Human: 양상추 넣지마요. 
+AI: 양상추@.
+Human: 양상추 넣지말아주세요. 
+AI: 양상추@.
+Human: 양상추는 빼. 
+AI: 양상추@.
+Human: 양상추는 빼요. 
+AI: 양상추@.
+Human: 양상추만 빼요. 
+AI: 양상추@.
+Human: 양상추는 빼주세요. 
+AI: 양상추@.
+Human: 양상추만 빼주세요. 
+AI: 양상추@.
+Human: 양상추는 빼주시겠어요. 
+AI: 양상추@.
+Human: 양상추만 빼주시겠어요. 
+AI: 양상추@.
+Human: 양상추는 빼줘요. 
+AI: 양상추@.
+Human: 양상추만 빼줘요. 
+AI: 양상추@.
+Human: 양상추는 안먹어. 
+AI: 양상추@.
+Human: 양상추만 안먹어. 
+AI: 양상추@.
+Human: 양상추는 안먹어요. 
+AI: 양상추@.
+Human: 양상추만 안먹어요. 
+AI: 양상추@.
+Human: 양상추는 안먹습니다. 
+AI: 양상추@.
+Human: 양상추만 안먹습니다. 
+AI: 양상추@.
+Human: 양상추는 안먹고 싶습니다. 
+AI: 양상추@.
+Human: 양상추만 안먹고 싶습니다. 
+AI: 양상추@.
+Human: 양상추는 안먹고 싶어요. 
+AI: 양상추@.
+Human: 양상추만 안먹고 싶어요. 
+AI: 양상추@.
+Human: 양상추는 안먹고 싶어. 
+AI: 양상추@.
+Human: 양상추만 안먹고 싶어. 
+AI: 양상추@.
+Human: 양상추는 필요없어. 
+AI: 양상추@.
+Human: 양상추만 필요없어. 
+AI: 양상추@.
+Human: 양상추는 필요없어요. 
+AI: 양상추@.
+Human: 양상추만 필요없어요. 
+AI: 양상추@.
+Human: 양상추는 필요없습니다.
+AI: 양상추@.
+Human: 양상추만 필요없습니다.
+AI: 양상추@.
+Human: 양상추는 싫어요. 
+AI: 양상추@.
+Human: 양상추만 싫어요. 
+AI: 양상추@.
+Human: 양상추는 싫어. 
+AI: 양상추@.
+Human: 양상추만 싫어. 
+AI: 양상추@.
+Human: 양상추는 싫습니다. 
+AI: 양상추@.
+Human: 양상추만 싫습니다. 
+AI: 양상추@.
+Human: 양상추는 넣지마. 
+AI: 양상추@.
+Human: 양상추만 넣지마. 
+AI: 양상추@.
+Human: 양상추는 넣지마세요. 
+AI: 양상추@.
+Human: 양상추만 넣지마세요. 
+AI: 양상추@.
+Human: 양상추는 넣지마요. 
+AI: 양상추@.
+Human: 양상추만 넣지마요. 
+AI: 양상추@.
+Human: 양상추는 넣지말아주세요. 
+AI: 양상추@.
+Human: 양상추만 넣지말아주세요. 
+AI: 양상추@.
+
+//야채빼기.ver 양상추 -> 앙상추
+Human: 앙상추. 
+AI: 양상추@.
+Human: 앙상추요. 
+AI: 양상추@.
+Human: 앙상추만. 
+AI: 양상추@.
+Human: 앙상추 빼. 
+AI: 양상추@.
+Human: 앙상추만 빼. 
+AI: 양상추@.
+Human: 앙상추 빼요. 
+AI: 양상추@.
+Human: 앙상추 빼주세요. 
+AI: 양상추@.
+Human: 앙상추 빼주시겠어요. 
+AI: 양상추@.
+Human: 앙상추 빼줘요. 
+AI: 양상추@.
+Human: 앙상추 안먹어. 
+AI: 양상추@.
+Human: 앙상추 안먹어요. 
+AI: 양상추@.
+Human: 앙상추 안먹습니다. 
+AI: 양상추@.
+Human: 앙상추 안먹고 싶습니다. 
+AI: 양상추@.
+Human: 앙상추 안먹고 싶어요. 
+AI: 양상추@.
+Human: 앙상추 안먹고 싶어. 
+AI: 양상추@.
+Human: 앙상추 필요없어. 
+AI: 양상추@.
+Human: 앙상추 필요없어요. 
+AI: 양상추@.
+Human: 앙상추 필요없습니다.
+AI: 양상추@.
+Human: 앙상추 싫어요. 
+AI: 양상추@.
+Human: 앙상추 싫어. 
+AI: 양상추@.
+Human: 앙상추 싫습니다. 
+AI: 양상추@.
+Human: 앙상추 넣지마. 
+AI: 양상추@.
+Human: 앙상추 넣지마세요. 
+AI: 양상추@.
+Human: 앙상추 넣지마요. 
+AI: 양상추@.
+Human: 앙상추 넣지말아주세요. 
+AI: 양상추@.
+Human: 앙상추는 빼. 
+AI: 양상추@.
+Human: 앙상추는 빼요. 
+AI: 양상추@.
+Human: 앙상추만 빼요. 
+AI: 양상추@.
+Human: 앙상추는 빼주세요. 
+AI: 양상추@.
+Human: 앙상추만 빼주세요. 
+AI: 양상추@.
+Human: 앙상추는 빼주시겠어요. 
+AI: 양상추@.
+Human: 앙상추만 빼주시겠어요. 
+AI: 양상추@.
+Human: 앙상추는 빼줘요. 
+AI: 양상추@.
+Human: 앙상추만 빼줘요. 
+AI: 양상추@.
+Human: 앙상추는 안먹어. 
+AI: 양상추@.
+Human: 앙상추만 안먹어. 
+AI: 양상추@.
+Human: 앙상추는 안먹어요. 
+AI: 양상추@.
+Human: 앙상추만 안먹어요. 
+AI: 양상추@.
+Human: 앙상추는 안먹습니다. 
+AI: 양상추@.
+Human: 앙상추만 안먹습니다. 
+AI: 양상추@.
+Human: 앙상추는 안먹고 싶습니다. 
+AI: 양상추@.
+Human: 앙상추만 안먹고 싶습니다. 
+AI: 양상추@.
+Human: 앙상추는 안먹고 싶어요. 
+AI: 양상추@.
+Human: 앙상추만 안먹고 싶어요. 
+AI: 양상추@.
+Human: 앙상추는 안먹고 싶어. 
+AI: 양상추@.
+Human: 앙상추만 안먹고 싶어. 
+AI: 양상추@.
+Human: 앙상추는 필요없어. 
+AI: 양상추@.
+Human: 앙상추만 필요없어. 
+AI: 양상추@.
+Human: 앙상추는 필요없어요. 
+AI: 양상추@.
+Human: 앙상추만 필요없어요. 
+AI: 양상추@.
+Human: 앙상추는 필요없습니다.
+AI: 양상추@.
+Human: 앙상추만 필요없습니다.
+AI: 양상추@.
+Human: 앙상추는 싫어요. 
+AI: 양상추@.
+Human: 앙상추만 싫어요. 
+AI: 양상추@.
+Human: 앙상추는 싫어. 
+AI: 양상추@.
+Human: 앙상추만 싫어. 
+AI: 양상추@.
+Human: 앙상추는 싫습니다. 
+AI: 양상추@.
+Human: 앙상추만 싫습니다. 
+AI: 양상추@.
+Human: 앙상추는 넣지마. 
+AI: 양상추@.
+Human: 앙상추만 넣지마. 
+AI: 양상추@.
+Human: 앙상추는 넣지마세요. 
+AI: 양상추@.
+Human: 앙상추만 넣지마세요. 
+AI: 양상추@.
+Human: 앙상추는 넣지마요. 
+AI: 양상추@.
+Human: 앙상추만 넣지마요. 
+AI: 양상추@.
+Human: 앙상추는 넣지말아주세요. 
+AI: 양상추@.
+Human: 앙상추만 넣지말아주세요. 
+AI: 양상추@.
+
+//야채빼ver 토마토
+Human: 토마토. 
+AI: 토마토@.
+Human: 토마토요. 
+AI: 토마토@.
+Human: 토마토만. 
+AI: 토마토@.
+Human: 토마토 빼. 
+AI: 토마토@.
+Human: 토마토만 빼. 
+AI: 토마토@.
+Human: 토마토 빼요. 
+AI: 토마토@.
+Human: 토마토 빼주세요. 
+AI: 토마토@.
+Human: 토마토 빼주시겠어요. 
+AI: 토마토@.
+Human: 토마토 빼줘요. 
+AI: 토마토@.
+Human: 토마토 안먹어. 
+AI: 토마토@.
+Human: 토마토 안먹어요. 
+AI: 토마토@.
+Human: 토마토 안먹습니다. 
+AI: 토마토@.
+Human: 토마토 안먹고 싶습니다. 
+AI: 토마토@.
+Human: 토마토 안먹고 싶어요. 
+AI: 토마토@.
+Human: 토마토 안먹고 싶어. 
+AI: 토마토@.
+Human: 토마토 필요없어. 
+AI: 토마토@.
+Human: 토마토 필요없어요. 
+AI: 토마토@.
+Human: 토마토 필요없습니다.
+AI: 토마토@.
+Human: 토마토 싫어요. 
+AI: 토마토@.
+Human: 토마토 싫어. 
+AI: 토마토@.
+Human: 토마토 싫습니다. 
+AI: 토마토@.
+Human: 토마토 넣지마. 
+AI: 토마토@.
+Human: 토마토 넣지마세요. 
+AI: 토마토@.
+Human: 토마토 넣지마요. 
+AI: 토마토@.
+Human: 토마토 넣지말아주세요. 
+AI: 토마토@.
+Human: 토마토는 빼. 
+AI: 토마토@.
+Human: 토마토는 빼요. 
+AI: 토마토@.
+Human: 토마토만 빼요. 
+AI: 토마토@.
+Human: 토마토는 빼주세요. 
+AI: 토마토@.
+Human: 토마토만 빼주세요. 
+AI: 토마토@.
+Human: 토마토는 빼주시겠어요. 
+AI: 토마토@.
+Human: 토마토만 빼주시겠어요. 
+AI: 토마토@.
+Human: 토마토는 빼줘요. 
+AI: 토마토@.
+Human: 토마토만 빼줘요. 
+AI: 토마토@.
+Human: 토마토는 안먹어. 
+AI: 토마토@.
+Human: 토마토만 안먹어. 
+AI: 토마토@.
+Human: 토마토는 안먹어요. 
+AI: 토마토@.
+Human: 토마토만 안먹어요. 
+AI: 토마토@.
+Human: 토마토는 안먹습니다. 
+AI: 토마토@.
+Human: 토마토만 안먹습니다. 
+AI: 토마토@.
+Human: 토마토는 안먹고 싶습니다. 
+AI: 토마토@.
+Human: 토마토만 안먹고 싶습니다. 
+AI: 토마토@.
+Human: 토마토는 안먹고 싶어요. 
+AI: 토마토@.
+Human: 토마토만 안먹고 싶어요. 
+AI: 토마토@.
+Human: 토마토는 안먹고 싶어. 
+AI: 토마토@.
+Human: 토마토만 안먹고 싶어. 
+AI: 토마토@.
+Human: 토마토는 필요없어. 
+AI: 토마토@.
+Human: 토마토만 필요없어. 
+AI: 토마토@.
+Human: 토마토는 필요없어요. 
+AI: 토마토@.
+Human: 토마토만 필요없어요. 
+AI: 토마토@.
+Human: 토마토는 필요없습니다.
+AI: 토마토@.
+Human: 토마토만 필요없습니다.
+AI: 토마토@.
+Human: 토마토는 싫어요. 
+AI: 토마토@.
+Human: 토마토만 싫어요. 
+AI: 토마토@.
+Human: 토마토는 싫어. 
+AI: 토마토@.
+Human: 토마토만 싫어. 
+AI: 토마토@.
+Human: 토마토는 싫습니다. 
+AI: 토마토@.
+Human: 토마토만 싫습니다. 
+AI: 토마토@.
+Human: 토마토는 넣지마. 
+AI: 토마토@.
+Human: 토마토만 넣지마. 
+AI: 토마토@.
+Human: 토마토는 넣지마세요. 
+AI: 토마토@.
+Human: 토마토만 넣지마세요. 
+AI: 토마토@.
+Human: 토마토는 넣지마요. 
+AI: 토마토@.
+Human: 토마토만 넣지마요. 
+AI: 토마토@.
+Human: 토마토는 넣지말아주세요. 
+AI: 토마토@.
+Human: 토마토만 넣지말아주세요. 
+AI: 토마토@.
+
+//야채빼기.ver 토마토 -> 토마도
+Human: 토마도. 
+AI: 토마토@.
+Human: 토마도요. 
+AI: 토마토@.
+Human: 토마도만. 
+AI: 토마토@.
+Human: 토마도 빼. 
+AI: 토마토@.
+Human: 토마도만 빼. 
+AI: 토마토@.
+Human: 토마도 빼요. 
+AI: 토마토@.
+Human: 토마도 빼주세요. 
+AI: 토마토@.
+Human: 토마도 빼주시겠어요. 
+AI: 토마토@.
+Human: 토마도 빼줘요. 
+AI: 토마토@.
+Human: 토마도 안먹어. 
+AI: 토마토@.
+Human: 토마도 안먹어요. 
+AI: 토마토@.
+Human: 토마도 안먹습니다. 
+AI: 토마토@.
+Human: 토마도 안먹고 싶습니다. 
+AI: 토마토@.
+Human: 토마도 안먹고 싶어요. 
+AI: 토마토@.
+Human: 토마도 안먹고 싶어. 
+AI: 토마토@.
+Human: 토마도 필요없어. 
+AI: 토마토@.
+Human: 토마도 필요없어요. 
+AI: 토마토@.
+Human: 토마도 필요없습니다.
+AI: 토마토@.
+Human: 토마도 싫어요. 
+AI: 토마토@.
+Human: 토마도 싫어. 
+AI: 토마토@.
+Human: 토마도 싫습니다. 
+AI: 토마토@.
+Human: 토마도 넣지마. 
+AI: 토마토@.
+Human: 토마도 넣지마세요. 
+AI: 토마토@.
+Human: 토마도 넣지마요. 
+AI: 토마토@.
+Human: 토마도 넣지말아주세요. 
+AI: 토마토@.
+Human: 토마도는 빼. 
+AI: 토마토@.
+Human: 토마도는 빼요. 
+AI: 토마토@.
+Human: 토마도만 빼요. 
+AI: 토마토@.
+Human: 토마도는 빼주세요. 
+AI: 토마토@.
+Human: 토마도만 빼주세요. 
+AI: 토마토@.
+Human: 토마도는 빼주시겠어요. 
+AI: 토마토@.
+Human: 토마도만 빼주시겠어요. 
+AI: 토마토@.
+Human: 토마도는 빼줘요. 
+AI: 토마토@.
+Human: 토마도만 빼줘요. 
+AI: 토마토@.
+Human: 토마도는 안먹어. 
+AI: 토마토@.
+Human: 토마도만 안먹어. 
+AI: 토마토@.
+Human: 토마도는 안먹어요. 
+AI: 토마토@.
+Human: 토마도만 안먹어요. 
+AI: 토마토@.
+Human: 토마도는 안먹습니다. 
+AI: 토마토@.
+Human: 토마도만 안먹습니다. 
+AI: 토마토@.
+Human: 토마도는 안먹고 싶습니다. 
+AI: 토마토@.
+Human: 토마도만 안먹고 싶습니다. 
+AI: 토마토@.
+Human: 토마도는 안먹고 싶어요. 
+AI: 토마토@.
+Human: 토마도만 안먹고 싶어요. 
+AI: 토마토@.
+Human: 토마도는 안먹고 싶어. 
+AI: 토마토@.
+Human: 토마도만 안먹고 싶어. 
+AI: 토마토@.
+Human: 토마도는 필요없어. 
+AI: 토마토@.
+Human: 토마도만 필요없어. 
+AI: 토마토@.
+Human: 토마도는 필요없어요. 
+AI: 토마토@.
+Human: 토마도만 필요없어요. 
+AI: 토마토@.
+Human: 토마도는 필요없습니다.
+AI: 토마토@.
+Human: 토마도만 필요없습니다.
+AI: 토마토@.
+Human: 토마도는 싫어요. 
+AI: 토마토@.
+Human: 토마도만 싫어요. 
+AI: 토마토@.
+Human: 토마도는 싫어. 
+AI: 토마토@.
+Human: 토마도만 싫어. 
+AI: 토마토@.
+Human: 토마도는 싫습니다. 
+AI: 토마토@.
+Human: 토마도만 싫습니다. 
+AI: 토마토@.
+Human: 토마도는 넣지마. 
+AI: 토마토@.
+Human: 토마도만 넣지마. 
+AI: 토마토@.
+Human: 토마도는 넣지마세요. 
+AI: 토마토@.
+Human: 토마도만 넣지마세요. 
+AI: 토마토@.
+Human: 토마도는 넣지마요. 
+AI: 토마토@.
+Human: 토마도만 넣지마요. 
+AI: 토마토@.
+Human: 토마도는 넣지말아주세요. 
+AI: 토마토@.
+Human: 토마도만 넣지말아주세요. 
+AI: 토마토@.
+
+//야채빼기.ver  토마토 -> 도마도
+Human: 도마도. 
+AI: 토마토@.
+Human: 도마도요. 
+AI: 토마토@.
+Human: 도마도만. 
+AI: 토마토@.
+Human: 도마도 빼. 
+AI: 토마토@.
+Human: 도마도만 빼. 
+AI: 토마토@.
+Human: 도마도 빼요. 
+AI: 토마토@.
+Human: 도마도 빼주세요. 
+AI: 토마토@.
+Human: 도마도 빼주시겠어요. 
+AI: 토마토@.
+Human: 도마도 빼줘요. 
+AI: 토마토@.
+Human: 도마도 안먹어. 
+AI: 토마토@.
+Human: 도마도 안먹어요. 
+AI: 토마토@.
+Human: 도마도 안먹습니다. 
+AI: 토마토@.
+Human: 도마도 안먹고 싶습니다. 
+AI: 토마토@.
+Human: 도마도 안먹고 싶어요. 
+AI: 토마토@.
+Human: 도마도 안먹고 싶어. 
+AI: 토마토@.
+Human: 도마도 필요없어. 
+AI: 토마토@.
+Human: 도마도 필요없어요. 
+AI: 토마토@.
+Human: 도마도 필요없습니다.
+AI: 토마토@.
+Human: 도마도 싫어요. 
+AI: 토마토@.
+Human: 도마도 싫어. 
+AI: 토마토@.
+Human: 도마도 싫습니다. 
+AI: 토마토@.
+Human: 도마도 넣지마. 
+AI: 토마토@.
+Human: 도마도 넣지마세요. 
+AI: 토마토@.
+Human: 도마도 넣지마요. 
+AI: 토마토@.
+Human: 도마도 넣지말아주세요. 
+AI: 토마토@.
+Human: 도마도는 빼. 
+AI: 토마토@.
+Human: 도마도는 빼요. 
+AI: 토마토@.
+Human: 도마도만 빼요. 
+AI: 토마토@.
+Human: 도마도는 빼주세요. 
+AI: 토마토@.
+Human: 도마도만 빼주세요. 
+AI: 토마토@.
+Human: 도마도는 빼주시겠어요. 
+AI: 토마토@.
+Human: 도마도만 빼주시겠어요. 
+AI: 토마토@.
+Human: 도마도는 빼줘요. 
+AI: 토마토@.
+Human: 도마도만 빼줘요. 
+AI: 토마토@.
+Human: 도마도는 안먹어. 
+AI: 토마토@.
+Human: 도마도만 안먹어. 
+AI: 토마토@.
+Human: 도마도는 안먹어요. 
+AI: 토마토@.
+Human: 도마도만 안먹어요. 
+AI: 토마토@.
+Human: 도마도는 안먹습니다. 
+AI: 토마토@.
+Human: 도마도만 안먹습니다. 
+AI: 토마토@.
+Human: 도마도는 안먹고 싶습니다. 
+AI: 토마토@.
+Human: 도마도만 안먹고 싶습니다. 
+AI: 토마토@.
+Human: 도마도는 안먹고 싶어요. 
+AI: 토마토@.
+Human: 도마도만 안먹고 싶어요. 
+AI: 토마토@.
+Human: 도마도는 안먹고 싶어. 
+AI: 토마토@.
+Human: 도마도만 안먹고 싶어. 
+AI: 토마토@.
+Human: 도마도는 필요없어. 
+AI: 토마토@.
+Human: 도마도만 필요없어. 
+AI: 토마토@.
+Human: 도마도는 필요없어요. 
+AI: 토마토@.
+Human: 도마도만 필요없어요. 
+AI: 토마토@.
+Human: 도마도는 필요없습니다.
+AI: 토마토@.
+Human: 도마도만 필요없습니다.
+AI: 토마토@.
+Human: 도마도는 싫어요. 
+AI: 토마토@.
+Human: 도마도만 싫어요. 
+AI: 토마토@.
+Human: 도마도는 싫어. 
+AI: 토마토@.
+Human: 도마도만 싫어. 
+AI: 토마토@.
+Human: 도마도는 싫습니다. 
+AI: 토마토@.
+Human: 도마도만 싫습니다. 
+AI: 토마토@.
+Human: 도마도는 넣지마. 
+AI: 토마토@.
+Human: 도마도만 넣지마. 
+AI: 토마토@.
+Human: 도마도는 넣지마세요. 
+AI: 토마토@.
+Human: 도마도만 넣지마세요. 
+AI: 토마토@.
+Human: 도마도는 넣지마요. 
+AI: 토마토@.
+Human: 도마도만 넣지마요. 
+AI: 토마토@.
+Human: 도마도는 넣지말아주세요. 
+AI: 토마토@.
+Human: 도마도만 넣지말아주세요. 
+AI: 토마토@.
+
+//야채빼기.ver 피망
+Human: 피망. 
+AI: 피망@.
+Human: 피망요. 
+AI: 피망@.
+Human: 피망만. 
+AI: 피망@.
+Human: 피망 빼. 
+AI: 피망@.
+Human: 피망만 빼. 
+AI: 피망@.
+Human: 피망 빼요. 
+AI: 피망@.
+Human: 피망 빼주세요. 
+AI: 피망@.
+Human: 피망 빼주시겠어요. 
+AI: 피망@.
+Human: 피망 빼줘요. 
+AI: 피망@.
+Human: 피망 안먹어. 
+AI: 피망@.
+Human: 피망 안먹어요. 
+AI: 피망@.
+Human: 피망 안먹습니다. 
+AI: 피망@.
+Human: 피망 안먹고 싶습니다. 
+AI: 피망@.
+Human: 피망 안먹고 싶어요. 
+AI: 피망@.
+Human: 피망 안먹고 싶어. 
+AI: 피망@.
+Human: 피망 필요없어. 
+AI: 피망@.
+Human: 피망 필요없어요. 
+AI: 피망@.
+Human: 피망 필요없습니다.
+AI: 피망@.
+Human: 피망 싫어요. 
+AI: 피망@.
+Human: 피망 싫어. 
+AI: 피망@.
+Human: 피망 싫습니다. 
+AI: 피망@.
+Human: 피망 넣지마. 
+AI: 피망@.
+Human: 피망 넣지마세요. 
+AI: 피망@.
+Human: 피망 넣지마요. 
+AI: 피망@.
+Human: 피망 넣지말아주세요. 
+AI: 피망@.
+Human: 피망은 빼. 
+AI: 피망@.
+Human: 피망은 빼요. 
+AI: 피망@.
+Human: 피망만 빼요. 
+AI: 피망@.
+Human: 피망은 빼주세요. 
+AI: 피망@.
+Human: 피망만 빼주세요. 
+AI: 피망@.
+Human: 피망은 빼주시겠어요. 
+AI: 피망@.
+Human: 피망만 빼주시겠어요. 
+AI: 피망@.
+Human: 피망은 빼줘요. 
+AI: 피망@.
+Human: 피망만 빼줘요. 
+AI: 피망@.
+Human: 피망은 안먹어. 
+AI: 피망@.
+Human: 피망은 안먹어. 
+AI: 피망@.
+Human: 피망은 안먹어요. 
+AI: 피망@.
+Human: 피망만 안먹어요. 
+AI: 피망@.
+Human: 피망은 안먹습니다. 
+AI: 피망@.
+Human: 피망만 안먹습니다. 
+AI: 피망@.
+Human: 피망은 안먹고 싶습니다. 
+AI: 피망@.
+Human: 피망만 안먹고 싶습니다. 
+AI: 피망@.
+Human: 피망은 안먹고 싶어요. 
+AI: 피망@.
+Human: 피망만 안먹고 싶어요. 
+AI: 피망@.
+Human: 피망은 안먹고 싶어. 
+AI: 피망@.
+Human: 피망만 안먹고 싶어. 
+AI: 피망@.
+Human: 피망은 필요없어. 
+AI: 피망@.
+Human: 피망만 필요없어. 
+AI: 피망@.
+Human: 피망은 필요없어요. 
+AI: 피망@.
+Human: 피망만 필요없어요. 
+AI: 피망@.
+Human: 피망은 필요없습니다.
+AI: 피망@.
+Human: 피망만 필요없습니다.
+AI: 피망@.
+Human: 피망은 싫어요. 
+AI: 피망@.
+Human: 피망만 싫어요. 
+AI: 피망@.
+Human: 피망은 싫어. 
+AI: 피망@.
+Human: 피망만 싫어. 
+AI: 피망@.
+Human: 피망은 싫습니다. 
+AI: 피망@.
+Human: 피망만 싫습니다. 
+AI: 피망@.
+Human: 피망은 넣지마. 
+AI: 피망@.
+Human: 피망만 넣지마. 
+AI: 피망@.
+Human: 피망은 넣지마세요. 
+AI: 피망@.
+Human: 피망만 넣지마세요. 
+AI: 피망@.
+Human: 피망은 넣지마요. 
+AI: 피망@.
+Human: 피망만 넣지마요. 
+AI: 피망@.
+Human: 피망은 넣지말아주세요. 
+AI: 피망@.
+Human: 피망만 넣지말아주세요. 
+AI: 피망@.
+
+//야채빼기.ver  피망->희망
+Human: 희망. 
+AI: 피망@.
+Human: 희망요. 
+AI: 피망@.
+Human: 희망만. 
+AI: 피망@.
+Human: 희망 빼. 
+AI: 피망@.
+Human: 희망만 빼. 
+AI: 피망@.
+Human: 희망 빼요. 
+AI: 피망@.
+Human: 희망 빼주세요. 
+AI: 피망@.
+Human: 희망 빼주시겠어요. 
+AI: 피망@.
+Human: 희망 빼줘요. 
+AI: 피망@.
+Human: 희망 안먹어. 
+AI: 피망@.
+Human: 희망 안먹어요. 
+AI: 피망@.
+Human: 희망 안먹습니다. 
+AI: 피망@.
+Human: 희망 안먹고 싶습니다. 
+AI: 피망@.
+Human: 희망 안먹고 싶어요. 
+AI: 피망@.
+Human: 희망 안먹고 싶어. 
+AI: 피망@.
+Human: 희망 필요없어. 
+AI: 피망@.
+Human: 희망 필요없어요. 
+AI: 피망@.
+Human: 희망 필요없습니다.
+AI: 피망@.
+Human: 희망 싫어요. 
+AI: 피망@.
+Human: 희망 싫어. 
+AI: 피망@.
+Human: 희망 싫습니다. 
+AI: 피망@.
+Human: 희망 넣지마. 
+AI: 피망@.
+Human: 희망 넣지마세요. 
+AI: 피망@.
+Human: 희망 넣지마요. 
+AI: 피망@.
+Human: 희망 넣지말아주세요. 
+AI: 피망@.
+Human: 희망은 빼. 
+AI: 피망@.
+Human: 희망은 빼요. 
+AI: 피망@.
+Human: 희망만 빼요. 
+AI: 피망@.
+Human: 희망은 빼주세요. 
+AI: 피망@.
+Human: 희망만 빼주세요. 
+AI: 피망@.
+Human: 희망은 빼주시겠어요. 
+AI: 피망@.
+Human: 희망만 빼주시겠어요. 
+AI: 피망@.
+Human: 희망은 빼줘요. 
+AI: 피망@.
+Human: 희망만 빼줘요. 
+AI: 피망@.
+Human: 희망은 안먹어. 
+AI: 피망@.
+Human: 희망은 안먹어. 
+AI: 피망@.
+Human: 희망은 안먹어요. 
+AI: 피망@.
+Human: 희망만 안먹어요. 
+AI: 피망@.
+Human: 희망은 안먹습니다. 
+AI: 피망@.
+Human: 희망만 안먹습니다. 
+AI: 피망@.
+Human: 희망은 안먹고 싶습니다. 
+AI: 피망@.
+Human: 희망만 안먹고 싶습니다. 
+AI: 피망@.
+Human: 희망은 안먹고 싶어요. 
+AI: 피망@.
+Human: 희망만 안먹고 싶어요. 
+AI: 피망@.
+Human: 희망은 안먹고 싶어. 
+AI: 피망@.
+Human: 희망만 안먹고 싶어. 
+AI: 피망@.
+Human: 희망은 필요없어. 
+AI: 피망@.
+Human: 희망만 필요없어. 
+AI: 피망@.
+Human: 희망은 필요없어요. 
+AI: 피망@.
+Human: 희망만 필요없어요. 
+AI: 피망@.
+Human: 희망은 필요없습니다.
+AI: 피망@.
+Human: 희망만 필요없습니다.
+AI: 피망@.
+Human: 희망은 싫어요. 
+AI: 피망@.
+Human: 희망만 싫어요. 
+AI: 피망@.
+Human: 희망은 싫어. 
+AI: 피망@.
+Human: 희망만 싫어. 
+AI: 피망@.
+Human: 희망은 싫습니다. 
+AI: 피망@.
+Human: 희망만 싫습니다. 
+AI: 피망@.
+Human: 희망은 넣지마. 
+AI: 피망@.
+Human: 희망만 넣지마. 
+AI: 피망@.
+Human: 희망은 넣지마세요. 
+AI: 피망@.
+Human: 희망만 넣지마세요. 
+AI: 피망@.
+Human: 희망은 넣지마요. 
+AI: 피망@.
+Human: 희망만 넣지마요. 
+AI: 피망@.
+Human: 희망은 넣지말아주세요. 
+AI: 피망@.
+Human: 희망만 넣지말아주세요. 
+AI: 피망@.
+
+//야채빼기.ver 피망-> 의왕
+Human: 의왕. 
+AI: 피망@.
+Human: 의왕요. 
+AI: 피망@.
+Human: 의왕만. 
+AI: 피망@.
+Human: 의왕 빼. 
+AI: 피망@.
+Human: 의왕만 빼. 
+AI: 피망@.
+Human: 의왕 빼요. 
+AI: 피망@.
+Human: 의왕 빼주세요. 
+AI: 피망@.
+Human: 의왕 빼주시겠어요. 
+AI: 피망@.
+Human: 의왕 빼줘요. 
+AI: 피망@.
+Human: 의왕 안먹어. 
+AI: 피망@.
+Human: 의왕 안먹어요. 
+AI: 피망@.
+Human: 의왕 안먹습니다. 
+AI: 피망@.
+Human: 의왕 안먹고 싶습니다. 
+AI: 피망@.
+Human: 의왕 안먹고 싶어요. 
+AI: 피망@.
+Human: 의왕 안먹고 싶어. 
+AI: 피망@.
+Human: 의왕 필요없어. 
+AI: 피망@.
+Human: 의왕 필요없어요. 
+AI: 피망@.
+Human: 의왕 필요없습니다.
+AI: 피망@.
+Human: 의왕 싫어요. 
+AI: 피망@.
+Human: 의왕 싫어. 
+AI: 피망@.
+Human: 의왕 싫습니다. 
+AI: 피망@.
+Human: 의왕 넣지마. 
+AI: 피망@.
+Human: 의왕 넣지마세요. 
+AI: 피망@.
+Human: 의왕 넣지마요. 
+AI: 피망@.
+Human: 의왕 넣지말아주세요. 
+AI: 피망@.
+Human: 의왕은 빼. 
+AI: 피망@.
+Human: 의왕은 빼요. 
+AI: 피망@.
+Human: 의왕만 빼요. 
+AI: 피망@.
+Human: 의왕은 빼주세요. 
+AI: 피망@.
+Human: 의왕만 빼주세요. 
+AI: 피망@.
+Human: 의왕은 빼주시겠어요. 
+AI: 피망@.
+Human: 의왕만 빼주시겠어요. 
+AI: 피망@.
+Human: 의왕은 빼줘요. 
+AI: 피망@.
+Human: 의왕만 빼줘요. 
+AI: 피망@.
+Human: 의왕은 안먹어. 
+AI: 피망@.
+Human: 의왕은 안먹어. 
+AI: 피망@.
+Human: 의왕은 안먹어요. 
+AI: 피망@.
+Human: 의왕만 안먹어요. 
+AI: 피망@.
+Human: 의왕은 안먹습니다. 
+AI: 피망@.
+Human: 의왕만 안먹습니다. 
+AI: 피망@.
+Human: 의왕은 안먹고 싶습니다. 
+AI: 피망@.
+Human: 의왕만 안먹고 싶습니다. 
+AI: 피망@.
+Human: 의왕은 안먹고 싶어요. 
+AI: 피망@.
+Human: 의왕만 안먹고 싶어요. 
+AI: 피망@.
+Human: 의왕은 안먹고 싶어. 
+AI: 피망@.
+Human: 의왕만 안먹고 싶어. 
+AI: 피망@.
+Human: 의왕은 필요없어. 
+AI: 피망@.
+Human: 의왕만 필요없어. 
+AI: 피망@.
+Human: 의왕은 필요없어요. 
+AI: 피망@.
+Human: 의왕만 필요없어요. 
+AI: 피망@.
+Human: 의왕은 필요없습니다.
+AI: 피망@.
+Human: 의왕만 필요없습니다.
+AI: 피망@.
+Human: 의왕은 싫어요. 
+AI: 피망@.
+Human: 의왕만 싫어요. 
+AI: 피망@.
+Human: 의왕은 싫어. 
+AI: 피망@.
+Human: 의왕만 싫어. 
+AI: 피망@.
+Human: 의왕은 싫습니다. 
+AI: 피망@.
+Human: 의왕만 싫습니다. 
+AI: 피망@.
+Human: 의왕은 넣지마. 
+AI: 피망@.
+Human: 의왕만 넣지마. 
+AI: 피망@.
+Human: 의왕은 넣지마세요. 
+AI: 피망@.
+Human: 의왕만 넣지마세요. 
+AI: 피망@.
+Human: 의왕은 넣지마요. 
+AI: 피망@.
+Human: 의왕만 넣지마요. 
+AI: 피망@.
+Human: 의왕은 넣지말아주세요. 
+AI: 피망@.
+Human: 의왕만 넣지말아주세요. 
+AI: 피망@.
+
+//야채빼기.ver 양파,오이
+Human: 양파 오이.
+AI: 양파/오이@.
+Human: 양파랑 오이.
+AI: 양파/오이@.
+Human: 양파와 오이.
+AI: 양파/오이@.
+Human: 양파 오이 빼.
+AI: 양파/오이@.
+Human: 양파랑 오이 빼.
+AI: 양파/오이@.
+Human: 양파와 오이 빼.
+AI: 양파/오이@.
+Human: 양파 오이 빼줘.
+AI: 양파/오이@. 
+Human: 양파랑 오이 빼줘.
+AI: 양파/오이@.
+Human: 양파와 오이 빼줘.
+AI: 양파/오이@.
+Human: 양파 오이 빼줘요.
+AI: 양파/오이@.
+Human: 양파랑 오이 빼줘요.
+AI: 양파/오이@.
+Human: 양파와 오이 빼줘요.
+AI: 양파/오이@.
+Human: 양파 오이 빼주세요.
+AI: 양파/오이@.
+Human: 양파랑 오이 빼주세요.
+AI: 양파/오이@.
+Human: 양파와 오이 빼주세요.
+AI: 양파/오이@. 
+Human: 양파 오이 빼주시겠어요.
+AI: 양파/오이@.
+Human: 양파랑 오이 빼주시겠어요.
+AI: 양파/오이@.
+Human: 양파와 오이 빼주시겠어요.
+AI: 양파/오이@.
+Human: 양파 오이 안먹어.
+AI: 양파/오이@.
+Human: 양파랑 오이 안먹어.
+AI: 양파/오이@.
+Human: 양파와 오이 안먹어.
+AI: 양파/오이@.
+Human: 양파 오이 안먹어요.
+AI: 양파/오이@.
+Human: 양파랑 오이 안먹어요.
+AI: 양파/오이@.
+Human: 양파와 오이 안먹어요.
+AI: 양파/오이@.  
+Human: 양파 오이 안먹습니다.
+AI: 양파/오이@.
+Human: 양파랑 오이 안먹습니다.
+AI: 양파/오이@.
+Human: 양파와 오이 안먹습니다.
+AI: 양파/오이@.
+Human: 양파 오이 안먹겠습니다.
+AI: 양파/오이@.
+Human: 양파랑 오이 안먹겠습니다.
+AI: 양파/오이@.
+Human: 양파와 오이 안먹겠습니다.
+AI: 양파/오이@. 
+Human: 양파 오이 싫어.
+AI: 양파/오이@.
+Human: 양파랑 오이 싫어.
+AI: 양파/오이@.
+Human: 양파와 오이 싫어.
+AI: 양파/오이@. 
+Human: 양파 오이 싫어요.
+AI: 양파/오이@.
+Human: 양파랑 오이 싫어요.
+AI: 양파/오이@.
+Human: 양파와 오이 싫어요.
+AI: 양파/오이@. 
+Human: 양파 오이 싫습니다.
+AI: 양파/오이@.
+Human: 양파랑 오이 싫습니다.
+AI: 양파/오이@.
+Human: 양파와 오이 싫습니다.
+AI: 양파/오이@. 
+Human: 양파 오이 안해.
+AI: 양파/오이@.
+Human: 양파랑 오이 안해.
+AI: 양파/오이@.
+Human: 양파와 오이 안해.
+AI: 양파/오이@. 
+Human: 양파 오이 안합니다.
+AI: 양파/오이@.
+Human: 양파랑 오이 안합니다.
+AI: 양파/오이@.
+Human: 양파와 오이 안합니다.
+AI: 양파/오이@. 
+Human: 양파 오이 안하겠습니다.
+AI: 양파/오이@.
+Human: 양파랑 오이 안하겠습니다.
+AI: 양파/오이@.
+Human: 양파와 오이 안하겠습니다.
+AI: 양파/오이@. 
+
+//야채빼기.ver 오이,양파
+Human: 오이 양파.
+AI: 양파/오이@.
+Human: 오이랑 양파.
+AI: 양파/오이@.
+Human: 오이와 양파.
+AI: 양파/오이@.
+Human: 오이 양파 빼.
+AI: 양파/오이@.
+Human: 오이랑 양파 빼.
+AI: 양파/오이@.
+Human: 오이와 양파 빼.
+AI: 양파/오이@.
+Human: 오이 양파 빼줘.
+AI: 양파/오이@. 
+Human: 오이랑 양파 빼줘.
+AI: 양파/오이@.
+Human: 오이와 양파 빼줘.
+AI: 양파/오이@.
+Human: 오이 양파 빼줘요.
+AI: 양파/오이@.
+Human: 오이랑 양파 빼줘요.
+AI: 양파/오이@.
+Human: 오이와 양파 빼줘요.
+AI: 양파/오이@.
+Human: 오이 양파 빼주세요.
+AI: 양파/오이@.
+Human: 오이랑 양파 빼주세요.
+AI: 양파/오이@.
+Human: 오이와 양파 빼주세요.
+AI: 양파/오이@. 
+Human: 오이 양파 빼주시겠어요.
+AI: 양파/오이@.
+Human: 오이랑 양파 빼주시겠어요.
+AI: 양파/오이@.
+Human: 오이와 양파 빼주시겠어요.
+AI: 양파/오이@.
+Human: 오이 양파 안먹어.
+AI: 양파/오이@.
+Human: 오이랑 양파 안먹어.
+AI: 양파/오이@.
+Human: 양파와 오이 안먹어.
+AI: 양파/오이@.
+Human: 오이 양파 안먹어요.
+AI: 양파/오이@.
+Human: 오이랑 양파 안먹어요.
+AI: 양파/오이@.
+Human: 오이와 양파 안먹어요.
+AI: 양파/오이@.  
+Human: 오이 양파 안먹습니다.
+AI: 양파/오이@.
+Human: 오이랑 양파 안먹습니다.
+AI: 양파/오이@.
+Human: 오이와 양파 안먹습니다.
+AI: 양파/오이@.
+Human: 오이 양파 안먹겠습니다.
+AI: 양파/오이@.
+Human: 오이랑 양파 안먹겠습니다.
+AI: 양파/오이@.
+Human: 오이와 양파 안먹겠습니다.
+AI: 양파/오이@. 
+Human: 오이 양파 싫어.
+AI: 양파/오이@.
+Human: 오이랑 양파 싫어.
+AI: 양파/오이@.
+Human: 양파와 오이 싫어.
+AI: 양파/오이@. 
+Human: 오이 양파 싫어요.
+AI: 양파/오이@.
+Human: 오이랑 양파 싫어요.
+AI: 양파/오이@.
+Human: 오이와 양파 싫어요.
+AI: 양파/오이@. 
+Human: 오이 양파 싫습니다.
+AI: 양파/오이@.
+Human: 오이랑 양파 싫습니다.
+AI: 양파/오이@.
+Human: 오이와 양파 싫습니다.
+AI: 양파/오이@. 
+Human: 오이 양파 안해.
+AI: 양파/오이@.
+Human: 오이랑 양파 안해.
+AI: 양파/오이@.
+Human: 오이와 양파 안해.
+AI: 양파/오이@. 
+Human: 오이 양파 안합니다.
+AI: 양파/오이@.
+Human: 오이랑 양파 안합니다.
+AI: 양파/오이@.
+Human: 오이와 양파 안합니다.
+AI: 양파/오이@. 
+Human: 오이 양파 안하겠습니다.
+AI: 양파/오이@.
+Human: 오이랑 양파 안하겠습니다.
+AI: 양파/오이@.
+Human: 오이와 양파 안하겠습니다.
+AI: 양파/오이@.
+
+//야채빼기.ver 양파, 양상추
+Human: 양파 양상추.
+AI: 양파/양상추@.
+Human: 양파랑 양상추.
+AI: 양파/양상추@.
+Human: 양파와 양상추.
+AI: 양파/양상추@.
+Human: 양파 양상추 빼.
+AI: 양파/양상추@.
+Human: 양파랑 양상추 빼.
+AI: 양파/양상추@.
+Human: 양파와 양상추 빼.
+AI: 양파/양상추@.
+Human: 양파 양상추 빼줘.
+AI: 양파/양상추@.
+Human: 양파랑 양상추 빼줘.
+AI: 양파/양상추@.
+Human: 양파와 양상추 빼줘.
+AI: 양파/양상추@.
+Human: 양파 양상추 빼줘요.
+AI: 양파/양상추@.
+Human: 양파랑 양상추 빼줘요.
+AI: 양파/양상추@.
+Human: 양파와 양상추 빼줘요.
+AI: 양파/양상추@.
+Human: 양파 양상추 빼주세요.
+AI: 양파/양상추@.
+Human: 양파랑 양상추 빼주세요.
+AI: 양파/양상추@.
+Human: 양파와 양상추 빼주세요.
+AI: 양파/양상추@.
+Human: 양파 양상추 빼주시겠어요.
+AI: 양파/양상추@.
+Human: 양파랑 양상추 빼주시겠어요.
+AI: 양파/양상추@.
+Human: 양파와 양상추 빼주시겠어요.
+AI: 양파/양상추@.
+Human: 양파 양상추 안먹어.
+AI: 양파/양상추@.
+Human: 양파랑 양상추 안먹어.
+AI: 양파/양상추@.
+Human: 양파와 양상추 안먹어.
+AI: 양파/양상추@.
+Human: 양파 양상추 안먹어요.
+AI: 양파/양상추@.
+Human: 양파랑 양상추 안먹어요.
+AI: 양파/양상추@.
+Human: 양파와 양상추 안먹어요.
+AI: 양파/양상추@.
+Human: 양파 양상추 안먹습니다.
+AI: 양파/양상추@.
+Human: 양파랑 양상추 안먹습니다.
+AI: 양파/양상추@.
+Human: 양파와 양상추 안먹습니다.
+AI: 양파/양상추@.
+Human: 양파 양상추 안먹겠습니다.
+AI: 양파/양상추@.
+Human: 양파랑 양상추 안먹겠습니다.
+AI: 양파/양상추@.
+Human: 양파와 양상추 안먹겠습니다.
+AI: 양파/양상추@.
+Human: 양파 양상추 싫어.
+AI: 양파/양상추@.
+Human: 양파랑 양상추 싫어.
+AI: 양파/양상추@.
+Human: 양파와 양상추 싫어.
+AI: 양파/양상추@.
+Human: 양파 양상추 싫어요.
+AI: 양파/양상추@.
+Human: 양파랑 양상추 싫어요.
+AI: 양파/양상추@.
+Human: 양파와 양상추 싫어요.
+AI: 양파/양상추@.
+Human: 양파 양상추 싫습니다.
+AI: 양파/양상추@.
+Human: 양파랑 양상추 싫습니다.
+AI: 양파/양상추@.
+Human: 양파와 양상추 싫습니다.
+AI: 양파/양상추@.
+Human: 양파 양상추 안해.
+AI: 양파/양상추@.
+Human: 양파랑 양상추 안해.
+AI: 양파/양상추@.
+Human: 양파와 양상추 안해.
+AI: 양파/양상추@.
+Human: 양파 양상추 안합니다.
+AI: 양파/양상추@.
+Human: 양파랑 양상추 안합니다.
+AI: 양파/양상추@.
+Human: 양파와 양상추 안합니다.
+AI: 양파/양상추@.
+Human: 양파 양상추 안하겠습니다.
+AI: 양파/양상추@.
+Human: 양파랑 양상추 안하겠습니다.
+AI: 양파/양상추@.
+Human: 양파와 양상추 안하겠습니다.
+AI: 양파/양상추@.
+
+//야채빼기.ver 양상추, 양파
+Human: 양상추 양파.
+AI: 양파/양상추@.
+Human: 양상추랑 양파
+AI: 양파/양상추@.
+Human: 양상추와 양파.
+AI: 양파/양상추@.
+Human: 양상추 양파 빼.
+AI: 양파/양상추@.
+Human: 양상추랑 양파 빼.
+AI: 양파/양상추@.
+Human: 양상추와 양파 빼.
+AI: 양파/양상추@.
+Human: 양상추 양파 빼줘.
+AI: 양파/양상추@.
+Human: 양상추랑 양파 빼줘.
+AI: 양파/양상추@.
+Human: 양상추와 양파 빼줘.
+AI: 양파/양상추@.
+Human: 양상추 양파 빼줘요.
+AI: 양파/양상추@.
+Human: 양상추랑 양파 빼줘요.
+AI: 양파/양상추@.
+Human: 양상추와 양파 빼줘요.
+AI: 양파/양상추@.
+Human: 양상추 양파 빼주세요.
+AI: 양파/양상추@.
+Human: 양상추랑 양파 빼주세요.
+AI: 양파/양상추@.
+Human: 양상추와 양파 빼주세요.
+AI: 양파/양상추@.
+Human: 양상추 양파 빼주시겠어요.
+AI: 양파/양상추@.
+Human: 양상추랑 양파 빼주시겠어요.
+AI: 양파/양상추@.
+Human: 양상추와 양파 빼주시겠어요.
+AI: 양파/양상추@.
+Human: 양상추 양파 안먹어.
+AI: 양파/양상추@.
+Human: 양상추랑 양파 안먹어.
+AI: 양파/양상추@.
+Human: 양상추와 양파 안먹어.
+AI: 양파/양상추@.
+Human: 양상추 양파 안먹어요.
+AI: 양파/양상추@.
+Human: 양상추랑 양파 안먹어요.
+AI: 양파/양상추@.
+Human: 양상추와 양파 안먹어요.
+AI: 양파/양상추@.
+Human: 양상추 양파 안먹습니다.
+AI: 양파/양상추@.
+Human: 양상추랑 양파 안먹습니다.
+AI: 양파/양상추@.
+Human: 양상추와 양파 안먹습니다.
+AI: 양파/양상추@.
+Human: 양상추 양파 안먹겠습니다.
+AI: 양파/양상추@.
+Human: 양상추랑 양파 안먹겠습니다.
+AI: 양파/양상추@.
+Human: 양상추와 양파 안먹겠습니다.
+AI: 양파/양상추@.
+Human: 양상추 양파 싫어.
+AI: 양파/양상추@.
+Human: 양상추랑 양파 싫어.
+AI: 양파/양상추@.
+Human: 양상추와 양파 싫어.
+AI: 양파/양상추@.
+Human: 양상추 양파 싫어요.
+AI: 양파/양상추@.
+Human: 양상추랑 양파 싫어요.
+AI: 양파/양상추@.
+Human: 양상추와 양파 싫어요.
+AI: 양파/양상추@.
+Human: 양상추 양파 싫습니다.
+AI: 양파/양상추@.
+Human: 양상추랑 양파 싫습니다.
+AI: 양파/양상추@.
+Human: 양상추와 양파 싫습니다.
+AI: 양파/양상추@.
+Human: 양상추 양파 안해.
+AI: 양파/양상추@.
+Human: 양상추랑 양파 안해.
+AI: 양파/양상추@.
+Human: 양상추와 양파 안해.
+AI: 양파/양상추@.
+Human: 양상추 양파 안합니다.
+AI: 양파/양상추@.
+Human: 양상추랑 양파 안합니다.
+AI: 양파/양상추@.
+Human: 양상추와 양파 안합니다.
+AI: 양파/양상추@.
+Human: 양상추 양파 안하겠습니다.
+AI: 양파/양상추@.
+Human: 양상추랑 양파 안하겠습니다.
+AI: 양파/양상추@.
+Human: 양상추와 양파 안하겠습니다.
+AI: 양파/양상추@.
+
+//야채빼기.ver 양파, 토마토
+Human: 양파 토마토.
+AI: 양파/토마토@.
+Human: 양파랑 토마토.
+AI: 양파/토마토@.
+Human: 양파와 토마토.
+AI: 양파/토마토@.
+Human: 양파 토마토 빼.
+AI: 양파/토마토@.
+Human: 양파랑 토마토 빼.
+AI: 양파/토마토@.
+Human: 양파와 토마토 빼.
+AI: 양파/토마토@.
+Human: 양파 토마토 빼줘.
+AI: 양파/토마토@.
+Human: 양파랑 토마토 빼줘.
+AI: 양파/토마토@.
+Human: 양파와 토마토 빼줘.
+AI: 양파/토마토@.
+Human: 양파 토마토 빼줘요.
+AI: 양파/토마토@.
+Human: 양파랑 토마토 빼줘요.
+AI: 양파/토마토@.
+Human: 양파와 토마토 빼줘요.
+AI: 양파/토마토@.
+Human: 양파 토마토 빼주세요.
+AI: 양파/토마토@.
+Human: 양파랑 토마토 빼주세요.
+AI: 양파/토마토@.
+Human: 양파와 토마토 빼주세요.
+AI: 양파/토마토@.
+Human: 양파 토마토 빼주시겠어요.
+AI: 양파/토마토@.
+Human: 양파랑 토마토 빼주시겠어요.
+AI: 양파/토마토@.
+Human: 양파와 토마토 빼주시겠어요.
+AI: 양파/토마토@.
+Human: 양파 토마토 안먹어.
+AI: 양파/토마토@.
+Human: 양파랑 토마토 안먹어.
+AI: 양파/토마토@.
+Human: 양파와 토마토 안먹어.
+AI: 양파/토마토@.
+Human: 양파 토마토 안먹어요.
+AI: 양파/토마토@.
+Human: 양파랑 토마토 안먹어요.
+AI: 양파/토마토@.
+Human: 양파와 토마토 안먹어요.
+AI: 양파/토마토@. 
+Human: 양파 토마토 안먹습니다.
+AI: 양파/토마토@.
+Human: 양파랑 토마토 안먹습니다.
+AI: 양파/토마토@.
+Human: 양파와 토마토 안먹습니다.
+AI: 양파/토마토@.
+Human: 양파 토마토 안먹겠습니다.
+AI: 양파/토마토@.
+Human: 양파랑 토마토 안먹겠습니다.
+AI: 양파/토마토@.
+Human: 양파와 토마토 안먹겠습니다.
+AI: 양파/토마토@.
+Human: 양파 토마토 싫어.
+AI: 양파/토마토@.
+Human: 양파랑 토마토 싫어.
+AI: 양파/토마토@.
+Human: 양파와 토마토 싫어.
+AI: 양파/토마토@.
+Human: 양파 토마토 싫어요.
+AI: 양파/토마토@.
+Human: 양파랑 토마토 싫어요.
+AI: 양파/토마토@.
+Human: 양파와 토마토 싫어요.
+AI: 양파/토마토@.
+Human: 양파 토마토 싫습니다.
+AI: 양파/토마토@.
+Human: 양파랑 토마토 싫습니다.
+AI: 양파/토마토@.
+Human: 양파와 토마토 싫습니다.
+AI: 양파/토마토@.
+Human: 양파 토마토 안해.
+AI: 양파/토마토@.
+Human: 양파랑 토마토 안해.
+AI: 양파/토마토@.
+Human: 양파와 토마토 안해.
+AI: 양파/토마토@.
+Human: 양파 토마토 안합니다.
+AI: 양파/토마토@.
+Human: 양파랑 토마토 안합니다.
+AI: 양파/토마토@.
+Human: 양파와 토마토 안합니다.
+AI: 양파/토마토@.
+Human: 양파 토마토 안하겠습니다.
+AI: 양파/토마토@.
+Human: 양파랑 토마토 안하겠습니다.
+AI: 양파/토마토@.
+Human: 양파와 토마토 안하겠습니다.
+AI: 양파/토마토@.
+
+//야채빼기.ver 토마토, 양파
+Human: 토마토 양파.
+AI: 양파/토마토@.
+Human: 토마토랑 양파.
+AI: 양파/토마토@.
+Human: 토마토와 양파.
+AI: 양파/토마토@.
+Human: 토마토 양파 빼.
+AI: 양파/토마토@.
+Human: 토마토랑 양파 빼.
+AI: 양파/토마토@.
+Human: 토마토와 양파 빼.
+AI: 양파/토마토@.
+Human: 토마토 양파 빼줘.
+AI: 양파/토마토@.
+Human: 토마토랑 양파 빼줘.
+AI: 양파/토마토@.
+Human: 토마토와 양파 빼줘.
+AI: 양파/토마토@.
+Human: 토마토 양파 빼줘요.
+AI: 양파/토마토@.
+Human: 토마토랑 양파 빼줘요.
+AI: 양파/토마토@.
+Human: 토마토와 양파 빼줘요.
+AI: 양파/토마토@.
+Human: 토마토 양파 빼주세요.
+AI: 양파/토마토@.
+Human: 토마토랑 양파 빼주세요.
+AI: 양파/토마토@.
+Human: 토마토와 양파 빼주세요.
+AI: 양파/토마토@.
+Human: 토마토 양파 빼주시겠어요.
+AI: 양파/토마토@.
+Human: 토마토랑 양파 빼주시겠어요.
+AI: 양파/토마토@.
+Human: 토마토와 양파 빼주시겠어요.
+AI: 양파/토마토@.
+Human: 토마토 양파 안먹어.
+AI: 양파/토마토@.
+Human: 토마토랑 양파 안먹어.
+AI: 양파/토마토@.
+Human: 토마토와 양파 안먹어.
+AI: 양파/토마토@.
+Human: 토마토 양파 안먹어요.
+AI: 양파/토마토@.
+Human: 토마토랑 양파 안먹어요.
+AI: 양파/토마토@.
+Human: 토마토와 양파 안먹어요.
+AI: 양파/토마토@. 
+Human: 토마토 양파 안먹습니다.
+AI: 양파/토마토@.
+Human: 토마토랑 양파 안먹습니다.
+AI: 양파/토마토@.
+Human: 토마토와 양파 안먹습니다.
+AI: 양파/토마토@.
+Human: 토마토 양파 안먹겠습니다.
+AI: 양파/토마토@.
+Human: 토마토랑 양파 안먹겠습니다.
+AI: 양파/토마토@.
+Human: 토마토와 양파 안먹겠습니다.
+AI: 양파/토마토@.
+Human: 토마토 양파 싫어.
+AI: 양파/토마토@.
+Human: 토마토랑 양파 싫어.
+AI: 양파/토마토@.
+Human: 토마토와 양파 싫어.
+AI: 양파/토마토@.
+Human: 토마토 양파 싫어요.
+AI: 양파/토마토@.
+Human: 토마토랑 양파 싫어요.
+AI: 양파/토마토@.
+Human: 토마토와 양파 싫어요.
+AI: 양파/토마토@.
+Human: 토마토 양파 싫습니다.
+AI: 양파/토마토@.
+Human: 토마토랑 양파 싫습니다.
+AI: 양파/토마토@.
+Human: 토마토와 양파 싫습니다.
+AI: 양파/토마토@.
+Human: 토마토 양파 안해.
+AI: 양파/토마토@.
+Human: 토마토랑 양파 안해.
+AI: 양파/토마토@.
+Human: 토마토와 양파 안해.
+AI: 양파/토마토@.
+Human: 토마토 양파 안합니다.
+AI: 양파/토마토@.
+Human: 토마토랑 양파 안합니다.
+AI: 양파/토마토@.
+Human: 토마토와 양파 안합니다.
+AI: 양파/토마토@.
+Human: 토마토 양파 안하겠습니다.
+AI: 양파/토마토@.
+Human: 토마토랑 양파 안하겠습니다.
+AI: 양파/토마토@.
+Human: 토마토와 양파 안하겠습니다.
+AI: 양파/토마토@.
+
+//야채빼기.ver 양파, 피망
+Human: 양파 피망.
+AI: 양파/피망@.
+Human: 양파랑 피망.
+AI: 양파/피망@.
+Human: 양파와 피망.
+AI: 양파/피망@.
+Human: 양파 피망 빼.
+AI: 양파/피망@.
+Human: 양파랑 피망 빼.
+AI: 양파/피망@.
+Human: 양파와 피망 빼.
+AI: 양파/피망@.
+Human: 양파 피망 빼줘.
+AI: 양파/피망@.
+Human: 양파랑 피망 빼줘.
+AI: 양파/피망@.
+Human: 양파와 피망 빼줘.
+AI: 양파/피망@.
+Human: 양파 피망 빼줘요.
+AI: 양파/피망@.
+Human: 양파랑 피망 빼줘요.
+AI: 양파/피망@.
+Human: 양파와 피망 빼줘요.
+AI: 양파/피망@.
+Human: 양파 피망 빼주세요.
+AI: 양파/피망@.
+Human: 양파랑 피망 빼주세요.
+AI: 양파/피망@.
+Human: 양파와 피망 빼주세요.
+AI: 양파/피망@.
+Human: 양파 피망 빼주시겠어요.
+AI: 양파/피망@.
+Human: 양파랑 피망 빼주시겠어요.
+AI: 양파/피망@.
+Human: 양파와 피망 빼주시겠어요.
+AI: 양파/피망@.
+Human: 양파 피망 안먹어.
+AI: 양파/피망@.
+Human: 양파랑 피망 안먹어.
+AI: 양파/피망@.
+Human: 양파와 피망 안먹어.
+AI: 양파/피망@.
+Human: 양파 피망 안먹어요.
+AI: 양파/피망@.
+Human: 양파랑 피망 안먹어요.
+AI: 양파/피망@.
+Human: 양파와 피망 안먹어요.
+AI: 양파/피망@.
+Human: 양파 피망 안먹습니다.
+AI: 양파/피망@.
+Human: 양파랑 피망 안먹습니다.
+AI: 양파/피망@.
+Human: 양파와 피망 안먹습니다.
+AI: 양파/피망@.
+Human: 양파 피망 안먹겠습니다.
+AI: 양파/피망@.
+Human: 양파랑 피망 안먹겠습니다.
+AI: 양파/피망@.
+Human: 양파와 피망 안먹겠습니다.
+AI: 양파/피망@.
+Human: 양파 피망 싫어.
+AI: 양파/피망@.
+Human: 양파랑 피망 싫어.
+AI: 양파/피망@.
+Human: 양파와 피망 싫어.
+AI: 양파/피망@.
+Human: 양파 피망 싫어요.
+AI: 양파/피망@.
+Human: 양파랑 피망 싫어요.
+AI: 양파/피망@.
+Human: 양파와 피망 싫어요.
+AI: 양파/피망@.
+Human: 양파 피망 싫습니다.
+AI: 양파/피망@.
+Human: 양파랑 피망 싫습니다.
+AI: 양파/피망@.
+Human: 양파와 피망 싫습니다.
+AI: 양파/피망@.
+Human: 양파 피망 안해.
+AI: 양파/피망@.
+Human: 양파랑 피망 안해.
+AI: 양파/피망@.
+Human: 양파와 피망 안해.
+AI: 양파/피망@.
+Human: 양파 피망 안합니다.
+AI: 양파/피망@.
+Human: 양파랑 피망 안합니다.
+AI: 양파/피망@.
+Human: 양파와 피망 안합니다.
+AI: 양파/피망@.
+Human: 양파 피망 안하겠습니다.
+AI: 양파/피망@.
+Human: 양파랑 피망 안하겠습니다.
+AI: 양파/피망@.
+Human: 양파와 피망 안하겠습니다.
+AI: 양파/피망@.
+
+//야채빼기.ver 피망, 양파
+Human: 피망 양파.
+AI: 양파/피망@.
+Human: 피망이랑 양파.
+AI: 양파/피망@.
+Human: 피망과 양파.
+AI: 양파/피망@.
+Human: 피망 양파 빼.
+AI: 양파/피망@.
+Human: 피망이랑 양파 빼.
+AI: 양파/피망@.
+Human: 피망과 양파 빼.
+AI: 양파/피망@.
+Human: 피망 양파 빼줘.
+AI: 양파/피망@.
+Human: 피망이랑 양파 빼줘.
+AI: 양파/피망@.
+Human: 피망과 양파 빼줘.
+AI: 양파/피망@.
+Human: 피망 양파 빼줘요.
+AI: 양파/피망@.
+Human: 피망이랑 양파 빼줘요.
+AI: 양파/피망@.
+Human: 피망과 양파 빼줘요.
+AI: 양파/피망@.
+Human: 피망 양파 빼주세요.
+AI: 양파/피망@.
+Human: 피망이랑 양파 빼주세요.
+AI: 양파/피망@.
+Human: 피망과 양파 빼주세요.
+AI: 양파/피망@.
+Human: 피망 양파 빼주시겠어요.
+AI: 양파/피망@.
+Human: 피망이랑 양파 빼주시겠어요.
+AI: 양파/피망@.
+Human: 피망과 양파 빼주시겠어요.
+AI: 양파/피망@.
+Human: 피망 양파 안먹어.
+AI: 양파/피망@.
+Human: 피망이랑 양파 안먹어.
+AI: 양파/피망@.
+Human: 피망과 양파 안먹어.
+AI: 양파/피망@.
+Human: 피망 양파 안먹어요.
+AI: 양파/피망@.
+Human: 피망이랑 양파 안먹어요.
+AI: 양파/피망@.
+Human: 피망과 양파 안먹어요.
+AI: 양파/피망@.
+Human: 피망 양파 안먹습니다.
+AI: 양파/피망@.
+Human: 피망이랑 양파 안먹습니다.
+AI: 양파/피망@.
+Human: 피망과 양파 안먹습니다.
+AI: 양파/피망@.
+Human: 피망 양파 안먹겠습니다.
+AI: 양파/피망@.
+Human: 피망이랑 양파 안먹겠습니다.
+AI: 양파/피망@.
+Human: 피망과 양파 안먹겠습니다.
+AI: 양파/피망@.
+Human: 피망 양파 싫어.
+AI: 양파/피망@.
+Human: 피망이랑 양파 싫어.
+AI: 양파/피망@.
+Human: 피망과 양파 싫어.
+AI: 양파/피망@.
+Human: 피망 양파 싫어요.
+AI: 양파/피망@.
+Human: 피망이랑 양파 싫어요.
+AI: 양파/피망@.
+Human: 피망과 양파 싫어요.
+AI: 양파/피망@.
+Human: 피망 양파 싫습니다.
+AI: 양파/피망@.
+Human: 피망이랑 양파 싫습니다.
+AI: 양파/피망@.
+Human: 피망과 양파 싫습니다.
+AI: 양파/피망@.
+Human: 피망 양파 안해.
+AI: 양파/피망@.
+Human: 피망이랑 양파 안해.
+AI: 양파/피망@.
+Human: 피망과 양파 안해.
+AI: 양파/피망@.
+Human: 피망 양파 안합니다.
+AI: 양파/피망@.
+Human: 피망이랑 양파 안합니다.
+AI: 양파/피망@.
+Human: 피망과 양파 안합니다.
+AI: 양파/피망@.
+Human: 피망 양파 안하겠습니다.
+AI: 양파/피망@.
+Human: 피망이랑 양파 안하겠습니다.
+AI: 양파/피망@.
+Human: 피망과 양파 안하겠습니다.
+AI: 양파/피망@.
+
+//야채빼기.ver 양파,오이,양상추
+Human: 양파 오이 양상추.
+AI: 양파/오이/양상추@.
+Human: 양파 오이 양상추요.
+AI: 양파/오이/양상추@.
+Human: 양파 오이 양상추 만.
+AI: 양파/오이/양상추@.
+Human: 양파 오이 양상추 입니다.
+AI: 양파/오이/양상추@.
+Human: 양파 오이 양상추 빼.
+AI: 양파/오이/양상추@.
+Human: 양파 오이 양상추 뺄게.
+AI: 양파/오이/양상추@.
+Human: 양파 오이 양상추 뺄게요.
+AI: 양파/오이/양상추@.
+Human: 양파 오이 양상추 빼겠습니다.
+AI: 양파/오이/양상추@.
+Human: 양파 오이 양상추 뺍니다.
+AI: 양파/오이/양상추@.
+Human: 양파 오이 양상추 안해.
+AI: 양파/오이/양상추@.
+Human: 양파 오이 양상추 안해요.
+AI: 양파/오이/양상추@.
+Human: 양파 오이 양상추 안합니다.
+AI: 양파/오이/양상추@.
+Human: 양파 오이 양상추 안하겠습니다..
+AI: 양파/오이/양상추@.
+Human: 양파 오이 양상추 안먹어.
+AI: 양파/오이/양상추@.
+Human: 양파 오이 양상추 안먹어요.
+AI: 양파/오이/양상추@.
+Human: 양파 오이 양상추 안먹습니다.
+AI: 양파/오이/양상추@.
+Human: 양파 오이 양상추 안먹겠습니다.
+AI: 양파/오이/양상추@.
+Human: 양파 오이 양상추 싫어.
+AI: 양파/오이/양상추@.
+Human: 양파 오이 양상추 싫어요.
+AI: 양파/오이/양상추@.
+Human: 양파 오이 양상추 싫습니다.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이 양상추.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이 양상추요.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이 양상추 만.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이 양상추 입니다.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이 양상추 빼.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이 양상추 뺄게.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이 양상추 뺄게요.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이 양상추 빼겠습니다.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이 양상추 뺍니다.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이 양상추 안해.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이 양상추 안해요.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이 양상추 안합니다.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이 양상추 안하겠습니다..
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이 양상추 안먹어.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이 양상추 안먹어요.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이 양상추 안먹습니다.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이 양상추 안먹겠습니다.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이 양상추 싫어.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이 양상추 싫어요.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이 양상추 싫습니다.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이랑 양상추.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이랑 양상추요.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이랑 양상추 만.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이랑 양상추 입니다.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이랑 양상추 빼.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이랑 양상추 뺄게.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이랑 양상추 뺄게요.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이랑 양상추 빼겠습니다.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이랑 양상추 뺍니다.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이랑 양상추 안해.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이랑 양상추 안해요.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이랑 양상추 안합니다.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이랑 양상추 안하겠습니다.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이랑 양상추 안먹어.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이랑 양상추 안먹어요.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이랑 양상추 안먹습니다.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이랑 양상추 안먹겠습니다.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이랑 양상추 싫어.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이랑 양상추 싫어요.
+AI: 양파/오이/양상추@.
+Human: 양파랑 오이랑 양상추 싫습니다.
+AI: 양파/오이/양상추@.
+
+Human: 양파 오이 토마토.
+AI: 양파/오이/토마토@.
+Human: 양파 오이 토마토요.
+AI: 양파/오이/토마토@.
+Human: 양파 오이 토마토 만.
+AI: 양파/오이/토마토@.
+Human: 양파 오이 토마토 입니다.
+AI: 양파/오이/토마토@.
+Human: 양파 오이 토마토 빼.
+AI: 양파/오이/토마토@.
+Human: 양파 오이 토마토 뺄게.
+AI: 양파/오이/토마토@.
+Human: 양파 오이 토마토 뺄게요.
+AI: 양파/오이/토마토@.
+Human: 양파 오이 토마토 빼겠습니다.
+AI: 양파/오이/토마토@.
+Human: 양파 오이 토마토 뺍니다.
+AI: 양파/오이/토마토@.
+Human: 양파 오이 토마토 안해.
+AI: 양파/오이/토마토@.
+Human: 양파 오이 토마토 안해요.
+AI: 양파/오이/토마토@.
+Human: 양파 오이 토마토 안합니다.
+AI: 양파/오이/토마토@.
+Human: 양파 오이 토마토 안하겠습니다..
+AI: 양파/오이/토마토@.
+Human: 양파 오이 토마토 안먹어.
+AI: 양파/오이/토마토@.
+Human: 양파 오이 토마토 안먹어요.
+AI: 양파/오이/토마토@.
+Human: 양파 오이 토마토 안먹습니다.
+AI: 양파/오이/토마토@.
+Human: 양파 오이 토마토 안먹겠습니다.
+AI: 양파/오이/토마토@.
+Human: 양파 오이 토마토 싫어.
+AI: 양파/오이/토마토@.
+Human: 양파 오이 토마토 싫어요.
+AI: 양파/오이/토마토@.
+Human: 양파 오이 토마토 싫습니다.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이 토마토.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이 토마토요.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이 토마토 만.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이 토마토 입니다.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이 토마토 빼.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이 토마토 뺄게.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이 토마토 뺄게요.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이 토마토 빼겠습니다.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이 토마토 뺍니다.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이 토마토 안해.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이 토마토 안해요.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이 토마토 안합니다.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이 토마토 안하겠습니다.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이 토마토안먹어.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이 토마토 안먹어요.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이 토마토 안먹습니다.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이 토마토 안먹겠습니다.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이 토마토 싫어.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이 토마토 싫어요.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이 토마토 싫습니다.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이랑 토마토.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이랑 토마토요.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이랑 토마토 만.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이랑 토마토 입니다.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이랑 토마토 빼.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이랑 토마토 뺄게.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이랑 토마토 뺄게요.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이랑 토마토 빼겠습니다.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이랑 토마토 뺍니다.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이랑 토마토 안해.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이랑 토마토 안해요.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이랑 토마토 안합니다.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이랑 토마토 안하겠습니다..
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이랑 토마토 안먹어.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이랑 토마토 안먹어요.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이랑 토마토 안먹습니다.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이랑 토마토 안먹겠습니다.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이랑 토마토 싫어.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이랑 토마토 싫어요.
+AI: 양파/오이/토마토@.
+Human: 양파랑 오이랑 토마토 싫습니다.
+AI: 양파/오이/토마토@.
+
+//야채빼기.ver 양파 오이 피망
+Human: 양파 오이 피망.
+AI: 양파/오이/피망@.
+Human: 양파 오이 피망요.
+AI: 양파/오이/피망@.
+Human: 양파 오이 피망 만.
+AI: 양파/오이/피망@.
+Human: 양파 오이 피망 입니다.
+AI: 양파/오이/피망@.
+Human: 양파 오이 피망 빼.
+AI: 양파/오이/피망@.
+Human: 양파 오이 피망 뺄게.
+AI: 양파/오이/피망@.
+Human: 양파 오이 피망 뺄게요.
+AI: 양파/오이/피망@.
+Human: 양파 오이 피망 빼겠습니다.
+AI: 양파/오이/피망@.
+Human: 양파 오이 피망 뺍니다.
+AI: 양파/오이/피망@.
+Human: 양파 오이 피망 안해.
+AI: 양파/오이/피망@.
+Human: 양파 오이 피망 안해요.
+AI: 양파/오이/피망@.
+Human: 양파 오이 피망 안합니다.
+AI: 양파/오이/피망@.
+Human: 양파 오이 피망 안하겠습니다..
+AI: 양파/오이/피망@.
+Human: 양파 오이 피망 안먹어.
+AI: 양파/오이/피망@.
+Human: 양파 오이 피망 안먹어요.
+AI: 양파/오이/피망@.
+Human: 양파 오이 피망 안먹습니다.
+AI: 양파/오이/피망@.
+Human: 양파 오이 피망 안먹겠습니다.
+AI: 양파/오이/양상추@.
+Human: 양파 오이 피망 싫어.
+AI: 양파/오이/피망@.
+Human: 양파 오이 피망 싫어요.
+AI: 양파/오이/피망@.
+Human: 양파 오이 피망 싫습니다.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이 피망.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이 피망요.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이 피망 만.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이 피망 입니다.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이 피망 빼.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이 피망 뺄게.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이 피망 뺄게요.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이 피망 빼겠습니다.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이 피망 뺍니다.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이 피망 안해.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이 피망 안해요.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이 피망 안합니다.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이 피망 안하겠습니다.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이 피망 안먹어.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이 피망 안먹어요.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이 피망 안먹습니다.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이 피망 안먹겠습니다.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이 피망 싫어.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이 피망 싫어요.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이 피망 싫습니다.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이랑 피망.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이랑 피망요.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이랑 피망 만.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이랑 피망 입니다.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이랑 피망 빼.
+AI: 양파/오이/ 피망@.
+Human: 양파랑 오이랑 피망 뺄게.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이랑 피망 뺄게요.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이랑 피망 빼겠습니다.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이랑 피망 뺍니다.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이랑 피망 안해.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이랑 피망 안해요.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이랑 피망 안합니다.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이랑 피망 안하겠습니다..
+AI: 양파/오이/피망@.
+Human: 양파랑 오이랑 피망 안먹어.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이랑 피망 안먹어요.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이랑 피망 안먹습니다.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이랑 피망 안먹겠습니다.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이랑 피망 싫어.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이랑 피망 싫어요.
+AI: 양파/오이/피망@.
+Human: 양파랑 오이랑 피망 싫습니다.
+AI: 양파/오이/토마토@.
+
+//야채빼기.ver 양파 양상추 토마토
+Human: 양파 양상추 토마토.
+AI: 양파/양상추/토마토@.
+Human: 양파 양상추 토마토요.
+AI: 양파/양상추/토마토@.
+Human: 양파 양상추 토마토 만.
+AI: 양파/양상추/토마토@.
+Human: 양파 양상추 토마토 입니다.
+AI: 양파/양상추/토마토@.
+Human: 양파 양상추 토마토 빼.
+AI: 양파/양상추/토마토@.
+Human: 양파 양상추 토마토 뺄게.
+AI: 양파/양상추/토마토@.
+Human: 양파 양상추 토마토 뺄게요.
+AI: 양파/양상추/토마토@.
+Human: 양파 양상추 토마토 빼겠습니다.
+AI: 양파/양상추/토마토@.
+Human: 양파 양상추 토마토 뺍니다.
+AI: 양파/양상추/토마토@.
+Human: 양파 양상추 토마토 안해.
+AI: 양파/양상추/토마토@.
+Human: 양파 양상추 토마토 안해요.
+AI: 양파/양상추/토마토@.
+Human: 양파 양상추 토마토 안합니다.
+AI: 양파/양상추/토마토@.
+Human: 양파 양상추 토마토 안하겠습니다..
+AI: 양파/양상추/토마토@.
+Human: 양파 양상추 토마토 안먹어.
+AI: 양파/양상추/토마토@.
+Human: 양파 양상추 토마토 안먹어요.
+AI: 양파/양상추/토마토@.
+Human: 양파 양상추 토마토 안먹습니다.
+AI: 양파/양상추/토마토@.
+Human: 양파 양상추 토마토 안먹겠습니다.
+AI: 양파/양상추/토마토@.
+Human: 양파 양상추 토마토 싫어.
+AI: 양파/양상추/토마토@.
+Human: 양파 양상추 토마토 싫어요.
+AI: 양파/양상추/토마토@.
+Human: 양파 양상추 토마토 싫습니다.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추 토마토.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추 토마토요.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추 토마토 만.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추 토마토 입니다.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추 토마토 빼.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추 토마토 뺄게.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추 토마토 뺄게요.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추 토마토 빼겠습니다.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추 토마토 뺍니다.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추 토마토 안해.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추 토마토 안해요.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추 토마토 안합니다.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추 토마토 안하겠습니다.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추 토마토 안먹어.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추 토마토 안먹어요.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추 토마토 안먹습니다.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추 토마토 안먹겠습니다.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추 토마토 싫어.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추 토마토 싫어요.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추 토마토 싫습니다.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추랑 토마토.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추랑 토마토요.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추랑 토마토 만.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추랑 토마토 입니다.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추랑 토마토 빼.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추랑 토마토 뺄게.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추랑 토마토 뺄게요.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추랑 토마토 빼겠습니다.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추랑 토마토 뺍니다.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추랑 토마토 안해.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추랑 토마토 안해요.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추랑 토마토 안합니다.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추랑 토마토 안하겠습니다..
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추랑 토마토 안먹어.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추랑 토마토 안먹어요.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추랑 토마토 안먹습니다.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추랑 토마토 안먹겠습니다.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추랑 토마토 싫어.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추랑 토마토 싫어요.
+AI: 양파/양상추/토마토@.
+Human: 양파랑 양상추랑 토마토 싫습니다.
+AI: 양파/양상추/토마토@.
+
+//야채빼기.ver 양파 양상추 피망
+Human: 양파 양상추 피망.
+AI: 양파/양상추/피망@.
+Human: 양파 양상추 피망요.
+AI: 양파/양상추/피망@.
+Human: 양파 양상추 피망 만.
+AI: 양파/양상추/피망@.
+Human: 양파 양상추 피망 입니다.
+AI: 양파/양상추/피망@.
+Human: 양파 양상추 피망 빼.
+AI: 양파/양상추/피망@.
+Human: 양파 양상추 피망 뺄게.
+AI: 양파/양상추/피망@.
+Human: 양파 양상추 피망 뺄게요.
+AI: 양파/양상추/피망@.
+Human: 양파 양상추 피망 빼겠습니다.
+AI: 양파/양상추/피망@.
+Human: 양파 양상추 피망 뺍니다.
+AI: 양파/양상추/피망@.
+Human: 양파 양상추 피망 안해.
+AI: 양파/양상추/피망@.
+Human: 양파 양상추 피망 안해요.
+AI: 양파/양상추/피망@.
+Human: 양파 양상추 피망 안합니다.
+AI: 양파/양상추/피망@.
+Human: 양파 양상추 피망 안하겠습니다..
+AI: 양파/양상추/피망@.
+Human: 양파 양상추 피망 안먹어.
+AI: 양파/양상추/피망@.
+Human: 양파 양상추 피망 안먹어요.
+AI: 양파/양상추/피망@.
+Human: 양파 양상추 피망 안먹습니다.
+AI: 양파/양상추/피망@.
+Human: 양파 양상추 피망 안먹겠습니다.
+AI: 양파/양상추/피망@.
+Human: 양파 양상추 피망 싫어.
+AI: 양파/양상추/피망@.
+Human: 양파 양상추 피망 싫어요.
+AI: 양파/양상추/피망@.
+Human: 양파 양상추 피망 싫습니다.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추 피망.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추 피망요.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추 피망 만.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추 피망 입니다.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추 피망 빼.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추 피망 뺄게.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추 피망 뺄게요.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추 피망 빼겠습니다.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추 피망 뺍니다.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추 피망 안해.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추 피망 안해요.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추 피망 안합니다.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추 피망 안하겠습니다.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추 피망 안먹어.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추 피망 안먹어요.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추 피망 안먹습니다.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추 피망 안먹겠습니다.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추 피망 싫어.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추 피망 싫어요.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추 피망 싫습니다.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추랑 피망.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추랑 피망요.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추랑 피망 만.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추랑 피망 입니다.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추랑 피망 빼.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추랑 피망 뺄게.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추랑 피망 뺄게요.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추랑 피망 빼겠습니다.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추랑 피망 뺍니다.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추랑 피망 안해.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추랑 피망 안해요.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추랑 피망 안합니다.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추랑 피망 안하겠습니다..
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추랑 피망 안먹어.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추랑 피망 안먹어요.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추랑 피망 안먹습니다.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추랑 피망 안먹겠습니다.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추랑 피망 싫어.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추랑 피망 싫어요.
+AI: 양파/양상추/피망@.
+Human: 양파랑 양상추랑 피망 싫습니다.
+AI: 양파/양상추/피망@.
+
+//야채빼기.ver 양파 토마토 피망
+Human: 양파 토마토 피망.
+AI: 양파/토마토/피망@.
+Human: 양파 토마토 피망요.
+AI: 양파/토마토/피망@.
+Human: 양파 토마토 피망 만.
+AI: 양파/토마토/피망@.
+Human: 양파 토마토 피망 입니다.
+AI: 양파/토마토/피망@.
+Human: 양파 토마토 피망 빼.
+AI: 양파/토마토/피망@.
+Human: 양파 토마토 피망 뺄게.
+AI: 양파/토마토/피망@.
+Human: 양파 토마토 피망 뺄게요.
+AI: 양파/토마토/피망@.
+Human: 양파 토마토 피망 빼겠습니다.
+AI: 양파/토마토/피망@.
+Human: 양파 토마토 피망 뺍니다.
+AI: 양파/토마토/피망@.
+Human: 양파 토마토 피망 안해.
+AI: 양파/토마토/피망@.
+Human: 양파 토마토 피망 안해요.
+AI: 양파/토마토/피망@.
+Human: 양파 토마토 피망 안합니다.
+AI: 양파/토마토/피망@.
+Human: 양파 토마토 피망 안하겠습니다..
+AI: 양파/토마토/피망@.
+Human: 양파 토마토 피망 안먹어.
+AI: 양파/토마토/피망@.
+Human: 양파 토마토 피망 안먹어요.
+AI: 양파/토마토/피망@.
+Human: 양파 토마토피망 안먹습니다.
+AI: 양파/토마토/피망@.
+Human: 양파 토마토 피망 안먹겠습니다.
+AI: 양파/토마토/피망@.
+Human: 양파 토마토 피망 싫어.
+AI: 양파/토마토/피망@.
+Human: 양파 토마토 피망 싫어요.
+AI: 양파/토마토/피망@.
+Human: 양파 토마토 피망 싫습니다.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토 피망.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토 피망요.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토 피망 만.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토 피망 입니다.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토 피망 빼.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토 피망 뺄게.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토 피망 뺄게요.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토 피망 빼겠습니다.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토 피망 뺍니다.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토 피망 안해.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토 피망 안해요.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토 피망 안합니다.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토 피망 안하겠습니다.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토 피망 안먹어.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토 피망 안먹어요.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토 피망 안먹습니다.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토 피망 안먹겠습니다.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토 피망 싫어.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토 피망 싫어요.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토 피망 싫습니다.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토랑 피망.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토랑 피망요.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토랑 피망 만.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토랑 피망 입니다.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토랑 피망 빼.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토랑 피망 뺄게.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토랑 피망 뺄게요.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토랑 피망 빼겠습니다.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토랑 피망 뺍니다.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토랑 피망 안해.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토랑 피망 안해요.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토랑 피망 안합니다.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토랑 피망 안하겠습니다..
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토랑 피망 안먹어.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토랑 피망 안먹어요.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토랑 피망 안먹습니다.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토랑 피망 안먹겠습니다.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토랑 피망 싫어.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토랑 피망 싫어요.
+AI: 양파/토마토/피망@.
+Human: 양파랑 토마토랑 피망 싫습니다.
+AI: 양파/토마토/피망@.
+
+//야채빼기.ver 양파,오이,양상추,토마토
+Human: 양파 오이 양상추 토마토.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파 오이 양상추 토마토요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파 오이 양상추 토마토 할게.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파 오이 양상추 토마토 할게요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파 오이 양상추 토마토 하겠습니다.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파 오이 양상추 토마토 빼.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파 오이 양상추 토마토 빼요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파 오이 양상추 토마토 뺄래.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파 오이 양상추 토마토 뺄래요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파 오이 양상추 토마토 뺍니다.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파 오이 양상추 토마토 빼겠습니다.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파 오이 양상추 토마토 안먹어.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파 오이 양상추 토마토 안먹어요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파 오이 양상추 토마토 안먹겠습니다.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파 오이 양상추 토마토 싫어.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파 오이 양상추 토마토 싫어요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파 오이 양상추 토마토 싫습니다.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이 양상추 토마토.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이 양상추 토마토요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이 양상추 토마토 할게.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이 양상추 토마토 할게요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이 양상추 토마토 하겠습니다.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이 양상추 토마토 빼.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이 양상추 토마토 빼요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이 양상추 토마토 뺄래.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이 양상추 토마토 뺄래요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이 양상추 토마토 뺍니다.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이 양상추 토마토 빼겠습니다.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이 양상추 토마토 안먹어.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이 양상추 토마토 안먹어요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이 양상추 토마토 안먹겠습니다.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이 양상추 토마토 싫어.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이 양상추 토마토 싫어요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이 양상추 토마토 싫습니다.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추 토마토.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추 토마토요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추 토마토 할게.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추 토마토 할게요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추 토마토 하겠습니다.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추 토마토 빼.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추 토마토 빼요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추 토마토 뺄래.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추 토마토 뺄래요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추 토마토 뺍니다.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추 토마토 빼겠습니다.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추 토마토 안먹어.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추 토마토 안먹어요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추 토마토 안먹겠습니다.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추 토마토 싫어.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추 토마토 싫어요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추 토마토 싫습니다.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추랑 토마토.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추랑 토마토요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추랑 토마토 할게.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추랑 토마토 할게요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추랑 토마토 하겠습니다.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추랑 토마토 빼.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추랑 토마토 빼요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추랑 토마토 뺄래.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추랑 토마토 뺄래요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추랑 토마토 뺍니다.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추랑 토마토 빼겠습니다.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추랑 토마토 안먹어.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추랑 토마토 안먹어요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추랑 토마토 안먹겠습니다.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추랑 토마토 싫어.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추랑 토마토 싫어요.
+AI: 양파/오이/양상추/토마토@.
+Human: 양파랑 오이랑 양상추랑 토마토 싫습니다.
+AI: 양파/오이/양상추/토마토@.
+
+//야채빼기.ver 양파,양상추,토마토,피망
+Human: 양파 양상추 토마토 피망.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파 양상추 토마토 피망요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파 양상추 토마토 피망 할게.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파 양상추 토마토 피망 할게요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파 양상추 토마토 피망 하겠습니다.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파 양상추 토마토 피망 빼.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파 양상추 토마토 피망 빼요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파 양상추 토마토 피망 뺄래.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파 양상추 토마토 피망 뺄래요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파 양상추 토마토 피망 뺍니다.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파 양상추 토마토 피망 빼겠습니다.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파 양상추 토마토 피망 안먹어.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파 양상추 토마토 피망 안먹어요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파 양상추 토마토 피망 안먹겠습니다.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파 양상추 토마토 피망 싫어.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파 양상추 토마토 피망 싫어요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파 양상추 토마토 피망 싫습니다.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추 토마토 피망.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추 토마토 피망요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추 토마토 피망 할게.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추 토마토 피망 할게요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추 토마토 피망 하겠습니다.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추 토마토 피망 빼.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추 토마토 피망 빼요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추 토마토 피망 뺄래.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추 토마토 피망 뺄래요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추 토마토 피망 뺍니다.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추 토마토 피망 빼겠습니다.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추 토마토 피망 안먹어.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추 토마토 피망 안먹어요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추 토마토 피망 안먹겠습니다.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추 토마토 피망 싫어.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추 토마토 피망 싫어요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추 토마토 피망 싫습니다.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토 피망.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토 피망요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토 피망 할게.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토 피망 할게요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토 피망 하겠습니다.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토 피망 빼.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토 피망 빼요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토 피망 뺄래.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토 피망 뺄래요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토 피망 뺍니다.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토 피망 빼겠습니다.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토 피망 안먹어.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토 피망 안먹어요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토 피망 안먹겠습니다.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토 피망 싫어.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토 피망 싫어요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토 피망 싫습니다.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토랑 피망.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토랑 피망요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토랑 피망 할게.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토랑 피망 할게요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토랑 피망 하겠습니다.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토랑 피망 빼.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토랑 피망 빼요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토랑 피망 뺄래.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토랑 피망 뺄래요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토랑 피망 뺍니다.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토랑 피망 빼겠습니다.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토랑 피망 안먹어.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토랑 피망 안먹어요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토랑 피망 안먹겠습니다.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토랑 피망 싫어.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토랑 피망 싫어요.
+AI: 양파/양상추/토마토/피망@.
+Human: 양파랑 양상추랑 토마토랑 피망 싫습니다.
+AI: 양파/양상추/토마토/피망@.
+
+//야채빼기.ver 오이,양상추,토마토,피망
+Human: 오이 양상추 토마토 피망.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이 양상추 토마토 피망요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이 양상추 토마토 피망 할게.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이 양상추 토마토 피망 할게요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이 양상추 토마토 피망 하겠습니다.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이 양상추 토마토 피망 빼.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이 양상추 토마토 피망 빼요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이 양상추 토마토 피망 뺄래.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이 양상추 토마토 피망 뺄래요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이 양상추 토마토 피망 뺍니다.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이 양상추 토마토 피망 빼겠습니다.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이 양상추 토마토 피망 안먹어.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이 양상추 토마토 피망 안먹어요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이 양상추 토마토 피망 안먹겠습니다.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이 양상추 토마토 피망 싫어.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이 양상추 토마토 피망 싫어요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이 양상추 토마토 피망 싫습니다.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추 토마토 피망.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추 토마토 피망요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추 토마토 피망 할게.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추 토마토 피망 할게요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추 토마토 피망 하겠습니다.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추 토마토 피망 빼.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추 토마토 피망 빼요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추 토마토 피망 뺄래.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추 토마토 피망 뺄래요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추 토마토 피망 뺍니다.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추 토마토 피망 빼겠습니다.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추 토마토 피망 안먹어.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추 토마토 피망 안먹어요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추 토마토 피망 안먹겠습니다.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추 토마토 피망 싫어.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추 토마토 피망 싫어요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추 토마토 피망 싫습니다.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토 피망.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토 피망요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토 피망 할게.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토 피망 할게요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토 피망 하겠습니다.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토 피망 빼.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토 피망 빼요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토 피망 뺄래.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토 피망 뺄래요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토 피망 뺍니다.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토 피망 빼겠습니다.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토 피망 안먹어.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토 피망 안먹어요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토 피망 안먹겠습니다.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토 피망 싫어.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토 피망 싫어요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토 피망 싫습니다.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토랑 피망.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토랑 피망요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토랑 피망 할게.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토랑 피망 할게요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토랑 피망 하겠습니다.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토랑 피망 빼.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토랑 피망 빼요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토랑 피망 뺄래.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토랑 피망 뺄래요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토랑 피망 뺍니다.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토랑 피망 빼겠습니다.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토랑 피망 안먹어.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토랑 피망 안먹어요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토랑 피망 안먹겠습니다.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토랑 피망 싫어.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토랑 피망 싫어요.
+AI: 오이/양상추/토마토/피망@.
+Human: 오이랑 양상추랑 토마토랑 피망 싫습니다.
+AI: 오이/양상추/토마토/피망@.
+
+//야채빼기.ver 양파, 오이, 양상추, 토마토, 피망
+Human: 양파 오이 양상추 토마토 피망.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파 오이 양상추 토마토 피망요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파 오이 양상추 토마토 피망 할게.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파 오이 양상추 토마토 피망 할게요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파 오이 양상추 토마토 피망 하겠습니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파 오이 양상추 토마토 피망 빼.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파 오이 양상추 토마토 피망 빼요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파 오이 양상추 토마토 피망 뺄래.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파 오이 양상추 토마토 피망 뺄래요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파 오이 양상추 토마토 피망 뺍니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파 오이 양상추 토마토 피망 빼겠습니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파 오이 양상추 토마토 피망 안먹어.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파 오이 양상추 토마토 피망 안먹어요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파 오이 양상추 토마토 피망 안먹겠습니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파 오이 양상추 토마토 피망 싫어.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파 오이 양상추 토마토 피망 싫어요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파 오이 양상추 토마토 피망 싫습니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이 양상추 토마토 피망.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이 양상추 토마토 피망요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이 양상추 토마토 피망 할게.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이 양상추 토마토 피망 할게요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이 양상추 토마토 피망 하겠습니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이 양상추 토마토 피망 빼.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이 양상추 토마토 피망 빼요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이 양상추 토마토 피망 뺄래.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이 양상추 토마토 피망 뺄래요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이 양상추 토마토 피망 뺍니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이 양상추 토마토 피망 빼겠습니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이 양상추 토마토 피망 안먹어.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이 양상추 토마토 피망 안먹어요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이 양상추 토마토 피망 안먹겠습니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이 양상추 토마토 피망 싫어.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이 양상추 토마토 피망 싫어요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이 양상추 토마토 피망 싫습니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추 토마토 피망.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추 토마토 피망요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추 토마토 피망 할게.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추 토마토 피망 할게요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추 토마토 피망 하겠습니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추 토마토 피망 빼.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추 토마토 피망 빼요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추 토마토 피망 뺄래.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추 토마토 피망 뺄래요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추 토마토 피망 뺍니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추 토마토 피망 빼겠습니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추 토마토 피망 안먹어.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추 토마토 피망 안먹어요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추 토마토 피망 안먹겠습니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추 토마토 피망 싫어.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추 토마토 피망 싫어요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추 토마토 피망 싫습니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토 피망.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토 피망요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토 피망 할게.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토 피망 할게요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토 피망 하겠습니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토 피망 빼.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토 피망 빼요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토 피망 뺄래.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토 피망 뺄래요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토 피망 뺍니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토 피망 빼겠습니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토 피망 안먹어.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토 피망 안먹어요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토 피망 안먹겠습니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토 피망 싫어.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토 피망 싫어요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토 피망 싫습니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토랑 피망.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토랑 피망요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토랑 피망 할게.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토랑 피망 할게요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토랑 피망 하겠습니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토랑 피망 빼.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토랑 피망 빼요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토랑 피망 뺄래.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토랑 피망 뺄래요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토랑 피망 뺍니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토랑 피망 빼겠습니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토랑 피망 안먹어.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토랑 피망 안먹어요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토랑 피망 안먹겠습니다.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토랑 피망 싫어.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토랑 피망 싫어요.
+AI: 양파/오이/양상추/토마토/피망@.
+Human: 양파랑 오이랑 양상추랑 토마토랑 피망 싫습니다.
+AI: 양파/오이/양상추/토마토/피망@.
+
+
+//주문확인(긍정)
+Human: 맞아요. 
+AI: yes.
+Human: 맞습니다.
+AI: yes.
+Human: 네. 
+AI: yes.
+Human: 맞아.
+AI: yes.
+Human: 다음. 
+AI: yes.
+Human: 다음이요. 
+AI: yes.
+Human: 다음단계. 
+AI: yes.
+Human: 계산할게요.
+AI: yes.
+Human: 계산이요.
+AI: yes.
+Human: 계산.
+AI: yes.
+Human: 계산하겠습니다.
+AI: yes.
+Human: 결제.
+AI: yes.
+Human: 결제요.
+AI: yes.
+Human: 결제할게요.
+AI: yes.
+Human: 결제하겠습니다.
+AI: yes.
+Human: 확인.
+AI: yes.
+Human: 확인이요.
+AI: yes.
+Human: 확인했어요.
+AI: yes.
+Human: 확인했습니다.
+AI: yes.
+Human: 확인요.
+AI: yes.
+
+//주문확인 (부정)
+Human: 아니.
+AI: no.
+Human: 아니요.
+AI: no.
+Human: 아닙니다.
+AI: no.
+Human: 틀려.
+AI: no.
+Human: 틀려요.
+AI: no.
+Human: 틀립니다.
+AI: no.
+Human: 틀렸습니다.
+AI: no.
+Human: 다시 할게요.
+AI: no.
+Human: 다시.
+AI: no.
+Human: 전단계.
+AI: no.
+Human: 전단계요.
+AI: no.
+Human: 전단계로 갈게.
+AI: no.
+Human: 전단계 갈게요.
+AI: no.
+
+//결제수단(카드)
+Human: 카드.
+AI: 카드.
+Human: 카드요.
+AI: 카드.
+Human: 카드 할게요.
+AI: 카드.
+Human: 카드로 할게요.
+AI: 카드.
+Human: 카드 하겠습니다.
+AI: 카드.
+Human: 카드로 하겠습니다.
+AI: 카드.
+Human: 카드 합니다.
+AI: 카드.
+Human: 카드로 합니다.
+AI: 카드.
+Human: 카드 결제. 
+AI: 카드.
+Human: 카드로 결제.
+AI: 카드.
+Human: 카드 결제요.
+AI: 카드.
+Human: 카드로 결제요.
+AI: 카드.
+Human: 카드 결제입니다.
+AI: 카드.
+Human: 카드로 결제입니다.
+AI: 카드.
+Human: 카드 결제합니다.
+AI: 카드.
+Human: 카드로 결제합니다.
+AI: 카드.
+Human: 카드 결제하겠습니다.
+AI: 카드.
+Human: 카드로 결제하겠습니다.
+AI: 카드.
+Human: 카드 결제할게요.
+AI: 카드.
+Human: 카드로 결제할게요.
+AI: 카드.
+
+//결제수단(카드) 카드->까드
+Human: 까드.
+AI: 카드.
+Human: 까드요.
+AI: 카드.
+Human: 까드 할게요.
+AI: 카드.
+Human: 까드로 할게요.
+AI: 카드.
+Human: 까드 하겠습니다.
+AI: 카드.
+Human: 까드로 하겠습니다.
+AI: 카드.
+Human: 까드 합니다.
+AI: 카드.
+Human: 까드로 합니다.
+AI: 카드.
+Human: 까드 결제. 
+AI: 카드.
+Human: 까드로 결제.
+AI: 카드.
+Human: 까드 결제요.
+AI: 카드.
+Human: 까드로 결제요.
+AI: 카드.
+Human: 까드 결제입니다.
+AI: 카드.
+Human: 까드로 결제입니다.
+AI: 카드.
+Human: 까드 결제합니다.
+AI: 카드.
+Human: 까드로 결제합니다.
+AI: 카드.
+Human: 까드 결제하겠습니다.
+AI: 카드.
+Human: 까드로 결제하겠습니다.
+AI: 카드.
+Human: 까드 결제할게요.
+AI: 카드.
+Human: 까드로 결제할게요.
+AI: 카드.
+
+//결제수단(현금)
+Human: 현금.
+AI: 현금.
+Human: 현금요.
+AI: 현금.
+Human: 현금 할게요.
+AI: 현금.
+Human: 현금로 할게요.
+AI: 현금.
+Human: 현금 하겠습니다.
+AI: 현금.
+Human: 현금으로 하겠습니다.
+AI: 현금.
+Human: 현금 합니다.
+AI: 현금.
+Human: 현금으로 합니다.
+AI: 현금.
+Human: 현금 결제. 
+AI: 현금.
+Human: 현금으로 결제.
+AI: 현금.
+Human: 현금 결제요.
+AI: 현금.
+Human: 현금으로 결제요.
+AI: 현금.
+Human: 현금 결제입니다.
+AI: 현금.
+Human: 현금으로 결제입니다.
+AI: 현금.
+Human: 현금 결제합니다.
+AI: 현금.
+Human: 현금으로 결제합니다.
+AI: 현금.
+Human: 현금 결제하겠습니다.
+AI: 현금.
+Human: 현금으로 결제하겠습니다.
+AI: 현금.
+Human: 현금 결제할게요.
+AI: 현금.
+Human: 현금으로 결제할게요.
+AI: 현금.
+
+//결제수단(현금) 현금 -> 헌금
+Human: 헌금.
+AI: 현금.
+Human: 헌금요.
+AI: 현금.
+Human: 헌금 할게요.
+AI: 현금.
+Human: 헌금로 할게요.
+AI: 현금.
+Human: 헌금 하겠습니다.
+AI: 현금.
+Human: 헌금으로 하겠습니다.
+AI: 현금.
+Human: 헌금 합니다.
+AI: 현금.
+Human: 헌금으로 합니다.
+AI: 현금.
+Human: 헌금 결제. 
+AI: 현금.
+Human: 헌금으로 결제.
+AI: 현금.
+Human: 헌금 결제요.
+AI: 현금.
+Human: 헌금으로 결제요.
+AI: 현금.
+Human: 헌금 결제입니다.
+AI: 현금.
+Human: 헌금으로 결제입니다.
+AI: 현금.
+Human: 헌금 결제합니다.
+AI: 현금.
+Human: 헌금으로 결제합니다.
+AI: 현금.
+Human: 헌금 결제하겠습니다.
+AI: 현금.
+Human: 헌금으로 결제하겠습니다.
+AI: 현금.
+Human: 헌금 결제할게요.
+AI: 현금.
+Human: 헌금으로 결제할게요.
+AI: 현금.
