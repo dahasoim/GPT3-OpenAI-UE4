@@ -6,7 +6,7 @@ voiceCapture Event: 사용자 음성인식 및 OpenAI GPT3를 통해 원하는 �
 1. 사용자가 녹음 버튼을 누르면 voice capture를 시작하고 다시 누르면 voice capture를 중지하게 한다. <br> 사용자 음성 인식 후, Google STT 함수로 사용자의 음성을 텍스트화 한다.
 ![voiceCapture_level](./images/voicecapture_capture.PNG)
 
-2. GPT3 settings 노드에서 대본 script(=start sequence) 및 stop sequence를 설정하고, Open AICall GPT3 함수로 사용자 데이터를 처리한다.<br>
+2. GPT3 settings 노드에서 대본 script(=start sequence) 및 stop sequence를 설정하고, <strong>Open AICall GPT3 함수로 GPT를 실행</strong>하여 사용자 데이터를 처리한다.<br>
 GPT3의 한번에 사용 가능한 토큰량의 한계가 있는 이유로, 주문 프로세스(주문 단계)를 나눠서 GPT3 sequence(=scripts)를 작성한다. <br>
 ![voiceCapture_level](./images/voicecapture_level.PNG)
 
