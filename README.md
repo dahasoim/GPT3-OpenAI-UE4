@@ -3,6 +3,7 @@
 
 ## 상세 설계( 기능 구현 )
 ### 사용자 음성인식(캡쳐)
+①②③④⑤⑥⑦⑧⑨⑩
 voiceCapture Event: 사용자 음성인식 및 OpenAI GPT3를 통해 원하는 데이터로 처리 후, checkRecognition 함수 호출하여 사용자 데이터를 확인한다 .
 1. 사용자가 녹음 버튼을 누르면 voice capture를 시작하고 다시 누르면 voice capture를 중지하게 한다. <br> 사용자 음성 인식 후, Google STT 함수로 사용자의 음성을 텍스트화 한다.
 ![voiceCapture_level](./images/voicecapture_capture.PNG)
