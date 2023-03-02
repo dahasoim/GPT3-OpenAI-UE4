@@ -1,5 +1,8 @@
 ## 시스템 구조 및 역할
-![image](https://user-images.githubusercontent.com/57169754/222325827-8287c63f-7404-4fa4-8fef-ec2fe1d8289a.png)
+![image](https://user-images.githubusercontent.com/57169754/222478854-3ea8727d-26eb-469b-8102-e89dd0231319.png)
+![image](https://user-images.githubusercontent.com/57169754/222482578-c6782dc3-95c1-42c2-a282-39eb1b6f3a82.png)
+
+<br>
 
 ## 상세 설계( 기능 구현 )
 ### 🎤사용자 음성인식 및 처리
