@@ -24,11 +24,12 @@
 ### ✔ 처리된 사용자 데이터(text) 확인
 #### checkRecognition Event: 사용자가 주문 프로세스에 따른 정확한 대답을 했는지 성공/실패 반환
 1. GPT3에서 처리된 text(=사용자 주문 메뉴)에서 불필요한 값을 정리한다. <br>
-"." , "AI:" , "\n" 및 쓰레기 값을 제거하여 필요한 데이터만 가져온다. <br>
+- " , "AI:" , "\n" 및 쓰레기 값을 제거.<br>
 (ex) AI: Im robot. -> Im robot
 ![1번 처리 블루프린트](./images/checkrecognition.PNG)
 
-2. 사용자 주문 메뉴가 기존 메뉴에 있고 상황에 맞는 정확한 대답인지, 잘못된 대답인지 확인한다. <br> - 잘못된 대답일 경우 false, 다시 음성인식을 시도를 요청한다. <br> - 정확한 대답일 경우 true, 다음 프로세스(주문단계)로 넘어도록 한다.
+2. 사용자 주문 메뉴가 기존 메뉴에 있고 상황에 맞는 정확한 대답인지, 잘못된 대답인지 확인한다. 
+  <br> 잘못된 대답일 경우 실패, 다시 음성인식을 시도를 요청한다. <br> 정확한 대답일 경우 성공, 다음 프로세스(주문단계)로 넘어도록 한다.
 
 ## 데모 시연
 
@@ -41,5 +42,5 @@
     |임혜진|어저고저저고|
 
 2. 관련 링크
-      * [This is Demo BluePrint](http://www.naver.com)
+      * [This is Demo Blueprint](http://www.naver.com)
       * 참고영상 : [UE4 GPT3-STT example video](https://www.youtube.com/watch?v=wtv_043sIrg&t=2s)
