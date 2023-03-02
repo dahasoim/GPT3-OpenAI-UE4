@@ -15,11 +15,11 @@
     - Max Tokens: 한국어 1글자에 1토큰 소요, 적당히 50 설정. <br>
     - Temperature : 0.1로 설정하여 모델의 자율도 낮게 설정. <br>
 - Open AICall GPT3 : GPT를 실행하여 사용자 데이터를 처리 및 처리결과 받음. <br>
-- GPT3의 한번에 사용 가능한 토큰량의 한계가 있는 이유로, 주문 프로세스(주문 단계)를 나눠서 GPT3 sequence(=scripts)를 작성한다
+- GPT3의 한번에 사용 가능한 토큰량의 한계가 있는 이유로, 주문 프로세스(주문 단계)를 나눠서 GPT3 sequence(=scripts)를 작성.
 ![voiceCapture_level](./images/voicecapture_level.PNG)
 
 3. checkRecognition 이벤트에서 확인된 사용자 주문 데이터의 녹음 성공여부를 전달하고, 화면에 주문 정보(데이터)를 띄우는 함수 호출한다. ⑦, ⑧
-- Write STT: 사용자 주문 데이터를 임시저장하고 화면에 띄운다.
+- Write STT: 사용자 주문 데이터를 임시저장하고 화면에 띄움.
 ![voicecapture_wirteSTT](./images/voicecapture_wirteSTT.PNG)
 ### ✔ 처리된 사용자 데이터(text) 확인
 #### checkRecognition Event: 사용자가 주문 프로세스에 따른 정확한 대답을 했는지 성공/실패 반환
