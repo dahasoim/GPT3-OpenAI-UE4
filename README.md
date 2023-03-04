@@ -13,8 +13,9 @@
 ![voiceCapture_level](./images/voicecapture_capture.PNG)
 
 2. Open AI GPT3 모델을 이용한 사용자 text 데이터를 원하는 형식으로 처리한다. ⑤, ⑥ 
-- GPT3 settingsscript(=start sequence) : AI가 형식에 맞는 대답을 할 수 있도록 다양한 상황에 맞춘 시나리오 작성
-    - stop sequence: 를 설정. <br> 
+- GPT3 settings
+    - script(=start sequence) : AI가 형식에 맞는 대답을 할 수 있도록 다양한 상황에 맞춘 시나리오 작성. <br>
+    - stop sequence: 스크립트에서 인식 끝 범위 설정. <strong> [GPTsettings/stopsequence/stopsequence.PNG](./GPTsettings)</strong> <br> 
     - Max Tokens: 한국어 1글자에 1토큰 소요, 적당히 50 설정. <br>
     - Temperature : 0.1로 설정하여 모델의 자율도 낮게 설정. <br>
 - Open AICall GPT3 : GPT를 실행하여 사용자 데이터를 처리 및 처리결과 받음. <br>
