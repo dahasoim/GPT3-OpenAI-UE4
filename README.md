@@ -14,8 +14,8 @@
 
 2. Open AI GPT3 모델을 이용한 사용자 text 데이터를 원하는 형식으로 처리한다. ⑤, ⑥ 
 - GPT3 settings
-    - script(=start sequence) : AI가 형식에 맞는 대답을 할 수 있도록 다양한 상황에 맞춘 시나리오 작성. <br>
-    - stop sequence: 스크립트에서 인식 끝 범위 설정. <strong> [GPTsettings/stopsequence/stopsequence.PNG](./GPTsettings/stopsequence/stopsequence.PNG)</strong> <br> 
+    - script(=start sequence) : AI가 형식에 맞는 대답을 할 수 있도록 다양한 상황에 맞춘 시나리오 작성. <strong> [GPTsettings/startsequence/version1.txt](https://github.com/dahasoim/GPT3-OpenAI-UE4/tree/main/GPT3settings/startsequence)</strong> <br>
+    - stop sequence: 스크립트에서 인식 끝 범위 설정. <strong> [GPTsettings/stopsequence/stopsequence.PNG](https://github.com/dahasoim/GPT3-OpenAI-UE4/tree/main/GPT3settings/stopsequence)</strong> <br> 
     - Max Tokens: 한국어 1글자에 1토큰 소요, 적당히 50 설정. <br>
     - Temperature : 0.1로 설정하여 모델의 자율도 낮게 설정. <br>
 - Open AICall GPT3 : GPT를 실행하여 사용자 데이터를 처리 및 처리결과 받음. <br>
@@ -42,8 +42,9 @@
 
     |이름|역할|
     |------|---|
-    |이민하|일랑일랑홀랑훌롱|
-    |임혜진|어저고저저고|
+    |이민하| STT/GPT3 설계 및 데이터 처리, GPT3 AI Script 작성|
+    |임혜진| STT/GPT3 데모 설계|
+    || GPT3 AI Script 작성|
 
 2. 관련 링크
       * [This is Demo Blueprint](http://www.naver.com)
