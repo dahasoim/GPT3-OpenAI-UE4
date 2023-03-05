@@ -1,5 +1,5 @@
 ## 시스템 구조 및 역할
-![image](https://user-images.githubusercontent.com/57169754/222478854-3ea8727d-26eb-469b-8102-e89dd0231319.png)
+![image](https://user-images.githubusercontent.com/57169754/222955397-ab6ad589-d5be-418e-beef-b113eda9d4ef.png)
 ![image](https://user-images.githubusercontent.com/57169754/222482578-c6782dc3-95c1-42c2-a282-39eb1b6f3a82.png)
 
 <br>
@@ -35,7 +35,23 @@
 2. 사용자 주문 메뉴가 기존 메뉴에 있고 상황에 맞는 정확한 대답인지, 잘못된 대답인지 확인한다. 
   <br> 잘못된 대답일 경우 실패, 다시 음성인식을 시도를 요청한다. <br> 정확한 대답일 경우 성공, 다음 프로세스(주문단계)로 넘어도록 한다.
 
+<br>
+
 ## 데모 시연
+ - Youtube링크 : https://youtu.be/10gEs9kuPbo
+ - 데이터 형식 : 빼는 재료 @ 넣는 재료.
+ 
+### 1. 양파 빼주세요.
+ ![양파빼주세요](https://user-images.githubusercontent.com/57169754/222956677-dfedf04a-f622-4340-aedd-d6c3ffbffc52.gif)
+
+### 2. 오이 빼주세요.
+![오이빼주세요](https://user-images.githubusercontent.com/57169754/222956854-9987c46e-fbbf-4653-8e43-18eb43062043.gif)
+
+### 3. 양상추 토마토 넣어주세요.
+![양상추토마토넣어주세요](https://user-images.githubusercontent.com/57169754/222956863-56423a19-3e46-4434-9c63-59bd2b37601d.gif)
+
+
+<br>
 
 ## 참고 사항
 1. 개발자
@@ -47,5 +63,6 @@
     |정다은| GPT3 AI Script 데모 작성|
 
 2. 관련 링크
-      * [This is Demo Blueprint](http://www.naver.com)
-      * 참고영상 : [UE4 GPT3-STT example video](https://www.youtube.com/watch?v=wtv_043sIrg&t=2s)
+      * [This Demo Blueprint](http://www.naver.com)
+      * [This Demo Video](https://youtu.be/10gEs9kuPbo)
+      * 참고자료 영상 : [UE4 GPT3-STT example video](https://www.youtube.com/watch?v=wtv_043sIrg&t=2s)
