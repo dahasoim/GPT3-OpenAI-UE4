@@ -40,14 +40,15 @@
 ## 데모 시연
  - Youtube링크 : https://youtu.be/10gEs9kuPbo
  - 데이터 형식 : 빼는 재료 @ 넣는 재료.
- 
-### 1. 양파 빼주세요.
+ - 사용자가 샌드위치 만드는 주문 프로세스에서 야채를 넣거나 빼는 데모영상
+
+#### 양파빼기
  ![양파빼주세요](https://user-images.githubusercontent.com/57169754/222956677-dfedf04a-f622-4340-aedd-d6c3ffbffc52.gif)
 
-### 2. 오이 빼주세요.
+#### 오이빼기
 ![오이빼주세요](https://user-images.githubusercontent.com/57169754/222956854-9987c46e-fbbf-4653-8e43-18eb43062043.gif)
 
-### 3. 양상추 토마토 넣어주세요.
+#### 양상추, 토마토 넣기
 ![양상추토마토넣어주세요](https://user-images.githubusercontent.com/57169754/222956863-56423a19-3e46-4434-9c63-59bd2b37601d.gif)
 
 
